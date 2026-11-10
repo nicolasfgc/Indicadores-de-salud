@@ -155,7 +155,9 @@ def leer_ejecutivo(contenido):
                 if es_num(af):
                     out.append({"regimen": regimen, "eps": eps_corta(n), "afiliados": float(af), "reclamos": float(rc) if es_num(rc) else None})
             regimen = None
-    return pd.DataFrame(out)
+    # algunos informes repiten la tabla (por ejemplo, con y sin EPS indígenas): vale la primera
+    d = pd.DataFrame(out)
+    return d.drop_duplicates(["regimen", "eps"], keep="first") if len(d) else d
 
 
 def main():

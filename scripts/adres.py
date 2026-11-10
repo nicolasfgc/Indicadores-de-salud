@@ -40,14 +40,30 @@ def buscar(pat, t):
 
 def leer(contenido):
     t = re.sub(r"\s+", " ", " ".join(p.extract_text() or "" for p in PdfReader(io.BytesIO(contenido)).pages[:4]))
-    return {
-        "upc_total": buscar(r"reconoci[óo] por concepto de UPC[^$]{0,160}" + NUM, t),
-        "upc_subsidiado": buscar(r"r[ée]gimen subsidiado,? (?:el valor de )?la UPC reconocida (?:fue|correspondi[óo] a) " + NUM, t),
-        "upc_contributivo": buscar(r"r[ée]gimen contributivo,? (?:el valor de )?la UPC reconocida (?:fue|correspondi[óo] a) " + NUM, t),
-        "giro_directo_subsidiado": buscar(r"(?:De los|de los) \$?[\d,]+ (?:billones )?la ADRES gir[óo] directamente " + NUM, t)
-        or buscar(r"subsidiado[^.]{0,200}?gir[óo] directamente " + NUM, t),
-        "giro_directo_contributivo": buscar(r"contributivo[^.]{0,200}?(?:se )?gira-? ?ron directamente " + NUM, t),
-    }
+    return leer_texto(t)
+
+
+def leer_texto(t):
+    t = re.sub(r"(\w)- (\w)", r"\1\2", re.sub(r"\s+", " ", t))
+    r = {"upc_total": buscar(r"reconoci[óo] (?:UPC a las EPS|recursos de UPC|por concepto de UPC)[^$]{0,160}" + NUM, t),
+         "upc_subsidiado": buscar(r"r[ée]gimen subsidiado(?:-RS)?,? (?:el valor de )?la UPC reconocida (?:fue|correspondi[óo] a)(?: por un valor)?(?: de)? " + NUM, t),
+         "upc_contributivo": buscar(r"r[ée]gimen contributivo(?:-RC)?,? (?:el valor de )?la UPC reconocida (?:fue|correspondi[óo] a)(?: por un valor)?(?: de)? " + NUM, t)}
+    m = re.search(r"participaci[óo]n del giro directo sobre la UPC reconocida[^%]{0,80}?([\d,]+) ?% de (?:la )?UPC[^$]{0,40}" + NUM +
+                  r" en el r[ée]gimen contributivo y (?:el )?([\d,]+) ?% de (?:la )?UPC[^$]{0,40}" + NUM + r" en el r[ée]gimen subsidiado", t, re.I)
+    if m:
+        r["pct_giro_directo_contributivo"] = float(m.group(1).replace(",", "."))
+        r["giro_directo_contributivo"] = a_billones(m.group(2), m.group(3))
+        r["pct_giro_directo_subsidiado"] = float(m.group(4).replace(",", "."))
+        r["giro_directo_subsidiado"] = a_billones(m.group(5), m.group(6))
+    else:
+        r["giro_directo_subsidiado"] = buscar(r"subsidiado[^.]{0,260}?(?:gir[óo]|pagaron) directamente " + NUM, t)
+        r["giro_directo_contributivo"] = buscar(r"contributivo[^.]{0,260}?(?:se )?(?:giraron|pagaron|gir[óo]) directamente " + NUM, t)
+    # si falta la UPC de un régimen, sale del total menos el otro
+    if r["upc_total"] and r["upc_subsidiado"] and not r["upc_contributivo"]:
+        r["upc_contributivo"] = round(r["upc_total"] - r["upc_subsidiado"], 2)
+    if r["upc_total"] and r["upc_contributivo"] and not r["upc_subsidiado"]:
+        r["upc_subsidiado"] = round(r["upc_total"] - r["upc_contributivo"], 2)
+    return r
 
 
 def main(textos=None):

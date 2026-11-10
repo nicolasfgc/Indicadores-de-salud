@@ -103,7 +103,7 @@ MESES_LARGOS = {"ENERO": 1, "FEBRERO": 2, "MARZO": 3, "ABRIL": 4, "MAYO": 5, "JU
 # Cada fuente escribe distinto el nombre de la EPS ("ENTIDAD PROMOTORA DE SALUD SANITAS S.A.S. -CM", "SANITAS", NIT 800251440...).
 # Se reconocen por pedazos del nombre; el orden importa (lo más específico primero).
 EPS_PATRONES = [
-    ("NUEVAEPS", "Nueva EPS"), ("SANITAS", "Sanitas"), ("SURA", "Sura"), ("SALUDTOTAL", "Salud Total"),
+    ("NUEVAEPS", "Nueva EPS"), ("NUEVAEMPRESAPROMOTORA", "Nueva EPS"), ("NARI", "Comfamiliar Nariño"), ("SANITAS", "Sanitas"), ("SURA", "Sura"), ("SALUDTOTAL", "Salud Total"),
     ("ECOOPSOS", "Ecoopsos"), ("FAMISANAR", "Famisanar"), ("COMPENSAR", "Compensar"), ("OCCIDENTAL", "SOS"), ("SOS", "SOS"),
     ("COOSALUD", "Coosalud"), ("MUTUALSER", "Mutual Ser"), ("EMSSANAR", "Emssanar"), ("SAVIA", "Savia Salud"),
     ("ASMET", "Asmet Salud"), ("CAJACOPI", "Cajacopi"), ("PROTEGER", "Cajacopi"), ("CAPITALSALUD", "Capital Salud"),
@@ -116,7 +116,7 @@ EPS_PATRONES = [
     ("MEDIMAS", "Medimás"), ("COOMEVA", "Coomeva"), ("COMFAMILIARHUILA", "Comfamiliar Huila"), ("AMBUQ", "Ambuq"),
     ("COMPARTA", "Comparta"), ("CRUZBLANCA", "Cruz Blanca"), ("COMFACUNDI", "Comfacundi"),
     ("COMFAMILIARCARTAGENA", "Comfamiliar Cartagena"), ("CONFAMILIARCARTAGENA", "Comfamiliar Cartagena"),
-    ("COMFACOR", "Comfacor"), ("GUAJIRA", "CCF La Guajira"), ("COMFAMILIARNARINO", "Comfamiliar Nariño"),
+    ("COMFACOR", "Comfacor"), ("GUAJIRA", "CCF La Guajira"), 
     ("CONVIDA", "Convida"), ("SALUDVIDA", "Saludvida"), ("CAFESALUD", "Cafesalud"), ("SALUDCOOP", "Saludcoop"),
     ("SERVICIOOCCIDENTAL", "SOS"), ("COMFAMILIARATLANTICO", "Cajacopi"), ("CAJACOPIATLANTICO", "Cajacopi"),
 ]
