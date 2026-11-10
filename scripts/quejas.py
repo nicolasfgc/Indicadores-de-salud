@@ -157,7 +157,12 @@ def leer_ejecutivo(contenido):
             regimen = None
     # algunos informes repiten la tabla (por ejemplo, con y sin EPS indígenas): vale la primera
     d = pd.DataFrame(out)
-    return d.drop_duplicates(["regimen", "eps"], keep="first") if len(d) else d
+    if not len(d):
+        return d
+    d = d.drop_duplicates(["regimen", "eps"], keep="first")
+    # una fila de totales mal rotulada (sus afiliados son la suma de las demás) no es una EPS
+    tot = d.groupby("regimen").afiliados.transform("sum")
+    return d[~((d.afiliados - (tot - d.afiliados)).abs() <= 0.02 * d.afiliados)]
 
 
 def main():

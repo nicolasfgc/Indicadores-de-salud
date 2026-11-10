@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Salud en Colombia en datos</title>
+<meta name="author" content="Nicolás González">
+<meta name="description" content="Explorador abierto del sistema de salud en Colombia: las cuentas de cada EPS, sus afiliados, las quejas de los pacientes, las EPS intervenidas, la plata que gira el Estado y la medicina prepagada. Se actualiza solo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/estilos.css?v=1a">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="assets/comun.js?v=1a"></script>
+<script src="assets/salud.js?v=1a"></script>
+<script src="assets/resumen.js?v=1a"></script>
+<script src="assets/cuentas.js?v=1a"></script>
+<script src="assets/afiliados.js?v=1a"></script>
+<script src="assets/quejas.js?v=1a"></script>
+<script src="assets/intervenidas.js?v=1a"></script>
+<script src="assets/plata.js?v=1a"></script>
+<script src="assets/prepagada.js?v=1a"></script>
+</head>
+<body>
+<header class="appbar">
+  <div class="wrap">
+    <div class="marca">
+      <div>
+        <h1>Salud en Colombia en datos</h1>
+        <p class="sub">Cómo están las EPS, cuánta gente atienden, de qué se queja y qué hace el Gobierno, explicado para todos.</p>
+      </div>
+      <p class="autor"><span>Por <strong>Nicolás González</strong></span><a href="mailto:nicolasfgcht@gmail.com">nicolasfgcht@gmail.com</a><a href="https://www.linkedin.com/in/nicolas-gonzalezc/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+  </div>
+</header>
+<div class="navbar"><div class="wrap">
+  <nav class="tabs">
+    <a href="#resumen" data-tab="resumen">Resumen</a>
+    <a href="#cuentas" data-tab="cuentas">Cuentas de las EPS</a>
+    <a href="#afiliados" data-tab="afiliados">Afiliados</a>
+    <a href="#quejas" data-tab="quejas">Quejas</a>
+    <a href="#intervenidas" data-tab="intervenidas">EPS intervenidas</a>
+    <a href="#plata" data-tab="plata">Plata del Estado</a>
+    <a href="#prepagada" data-tab="prepagada">Medicina prepagada</a>
+  </nav>
+</div></div>
+<div class="wrap">
+  <div class="subbar"><label class="toggle"><input type="checkbox" id="ver-anios" checked> Marcar el inicio de cada año</label><label class="toggle"><input type="checkbox" id="ver-gobiernos" checked> Marcar gobiernos en las gráficas</label></div>
+
+  <!-- ===================================================== RESUMEN -->
+  <section class="tab" id="tab-resumen" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <p class="hint mb">El sistema de salud funciona así: el Estado le paga a cada <strong>EPS</strong> una suma fija por cada afiliado (la <strong>UPC</strong>), y la EPS se encarga de que sus afiliados sean atendidos, pagándoles a hospitales, clínicas y droguerías. Si la plata no alcanza o se administra mal, las EPS se endeudan, dejan de pagar y los pacientes lo sienten en citas, autorizaciones y medicamentos.</p>
+      <div class="tarjetas"></div>
+      <p class="foot">Fuentes: Superintendencia Nacional de Salud (estados financieros, patrimonio adecuado y quejas), ADRES (afiliados y giros). Todos los datos son oficiales y se actualizan solos.</p>
+    </div>
+  </section>
+
+  <!-- ===================================================== CUENTAS -->
+  <section class="tab" id="tab-cuentas" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <div class="row spread mb"><p class="hint" style="margin:0">Las cuentas que las EPS le reportan a la Supersalud: cuánto deben, cuánto tienen y si ganan o pierden plata atendiendo a sus afiliados.</p><span class="badge" id="cue-ultima"></span></div>
+      <section class="kpis">
+        <div class="kpi"><div class="l">Lo que deben las EPS</div><div class="v small" id="cue-k1"></div><div class="d" id="cue-k1d"></div></div>
+        <div class="kpi"><div class="l">Patrimonio de las EPS</div><div class="v small" id="cue-k2"></div><div class="d" id="cue-k2d"></div></div>
+        <div class="kpi"><div class="l">EPS con patrimonio negativo</div><div class="v small" id="cue-k3"></div><div class="d" id="cue-k3d"></div></div>
+        <div class="kpi"><div class="l">EPS que cumplen el patrimonio mínimo</div><div class="v small" id="cue-k4"></div><div class="d" id="cue-k4d"></div></div>
+      </section>
+      <div class="aviso" id="cue-aviso"></div>
+      <section class="panel" style="margin-top:16px">
+        <span class="paso"><b>1</b>Todas las EPS juntas</span>
+        <h2>¿Cuánto deben y cuánto tienen las EPS?</h2>
+        <div class="row controles"><div class="seg" id="cue-tot"><button data-v="deuda" class="on">Deudas y patrimonio</button><button data-v="salud">Cuánto se va en atender pacientes</button></div></div>
+        <p class="hint" id="cue-tot-h"></p>
+        <div class="chartbox" style="height:320px"><canvas id="cue-total"></canvas></div>
+        <p class="interp" id="cue-total-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>2</b>EPS por EPS</span>
+        <h2 id="cue-rank-t"></h2>
+        <div class="row controles"><div class="seg" id="cue-ind"><button data-v="patrimonio" class="on">Patrimonio</button><button data-v="pasivos">Deudas</button><button data-v="resultado">Ganancia o pérdida del año</button><button data-v="sin">De cada $100 que recibe, cuánto gasta en salud</button></div>
+          <label class="lbl">Corte:</label><select id="cue-corte"></select></div>
+        <p class="hint" id="cue-rank-h"></p>
+        <div class="chartbox"><canvas id="cue-rank"></canvas></div>
+        <div id="cue-rank-tiempo" hidden></div>
+        <p class="interp" id="cue-rank-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>3</b>Lo que exige la ley</span>
+        <h2>¿Cuántas EPS cumplen con el patrimonio mínimo?</h2>
+        <p class="hint">La ley les exige a las EPS tener un colchón de plata propia (el <strong>patrimonio adecuado</strong>) para poder responder por lo que les deben a hospitales y clínicas. Cada mes la Supersalud revisa quién cumple. Una EPS que no cumple queda obligada a que la ADRES le pague directamente a sus hospitales (giro directo).</p>
+        <div class="chartbox" style="height:280px"><canvas id="cue-pa"></canvas></div>
+        <p class="interp" id="cue-pa-txt"></p>
+      </section>
+      <p class="foot">Fuente: Superintendencia Nacional de Salud, catálogos de información financiera de las EPS (archivo FT001), en su portal de datos abiertos: trimestral de 2021 a 2024 y mensual desde 2025; e informes mensuales del indicador de patrimonio adecuado.
+        Los ingresos, costos y resultados se acumulan desde enero hasta el corte. Las EPS públicas (Savia Salud, Capital Salud, Capresoca, EPS indígenas) usan otro plan de cuentas; para ellas el costo de atender pacientes incluye las reservas técnicas.
+        Datos: <a href="datos/finanzas/eps.csv">eps.csv</a> · <a href="datos/finanzas/patrimonio_adecuado.csv">patrimonio_adecuado.csv</a></p>
+    </div>
+  </section>
+
+  <!-- ===================================================== AFILIADOS -->
+  <section class="tab" id="tab-afiliados" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <div class="row spread mb"><p class="hint" style="margin:0">Cuántas personas tiene cada EPS. El <strong>régimen contributivo</strong> es el de quienes pagan salud con su salario o pensión (y sus familias); el <strong>subsidiado</strong>, el de quienes no pueden pagar y el Estado les paga la afiliación.</p><span class="badge" id="afi-ultima"></span></div>
+      <section class="kpis">
+        <div class="kpi"><div class="l">Afiliados en total</div><div class="v small" id="afi-k1"></div><div class="d" id="afi-k1d"></div></div>
+        <div class="kpi"><div class="l">En el régimen subsidiado</div><div class="v small" id="afi-k2"></div><div class="d" id="afi-k2d"></div></div>
+        <div class="kpi"><div class="l">La EPS más grande</div><div class="v small" id="afi-k3"></div><div class="d" id="afi-k3d"></div></div>
+        <div class="kpi"><div class="l">En EPS intervenidas por el Gobierno</div><div class="v small" id="afi-k4"></div><div class="d" id="afi-k4d"></div></div>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>1</b>Quién gana y quién pierde afiliados</span>
+        <h2 id="afi-rank-t"></h2>
+        <div class="row controles"><div class="seg" id="afi-ind"><button data-v="nivel" class="on">Afiliados hoy</button><button data-v="cambio">Cambio en el periodo</button></div>
+          <label class="lbl">Desde:</label><select id="afi-desde"></select></div>
+        <p class="hint" id="afi-rank-h"></p>
+        <div class="chartbox"><canvas id="afi-rank"></canvas></div>
+        <div id="afi-rank-tiempo" hidden></div>
+        <p class="interp" id="afi-rank-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>2</b>Por departamento</span>
+        <h2 id="afi-mapa-t">¿Qué tanta gente depende del régimen subsidiado?</h2>
+        <div class="row controles"><div class="seg" id="afi-mind"><button data-v="sub" class="on">% en el subsidiado</button><button data-v="total">Afiliados en total</button></div></div>
+        <p class="hint" id="afi-mapa-h"></p>
+        <div id="afi-mapa"></div>
+        <p class="interp" id="afi-mapa-txt"></p>
+      </section>
+      <p class="foot">Fuentes: Supersalud, informes ejecutivos mensuales de quejas (afiliados de cada EPS por régimen, desde septiembre de 2018), y ADRES, Base de Datos Única de Afiliados en datos.gov.co (afiliados por departamento, foto del mes más reciente).
+        Datos: <a href="datos/quejas/eps_mes.csv">eps_mes.csv</a> · <a href="datos/afiliados/bdua.csv">bdua.csv</a></p>
+    </div>
+  </section>
+
+  <!-- ===================================================== QUEJAS -->
+  <section class="tab" id="tab-quejas" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <div class="row spread mb"><p class="hint" style="margin:0">Los reclamos que los pacientes ponen ante la Supersalud cuando no les dan una cita, no les autorizan un procedimiento o no les entregan un medicamento. Es el termómetro más directo de si la gente está siendo atendida.</p><span class="badge" id="que-ultima"></span></div>
+      <section class="kpis">
+        <div class="kpi"><div class="l">Reclamos en el año</div><div class="v small" id="que-k1"></div><div class="d" id="que-k1d"></div></div>
+        <div class="kpi"><div class="l">Por cada 10.000 afiliados</div><div class="v small" id="que-k2"></div><div class="d" id="que-k2d"></div></div>
+        <div class="kpi"><div class="l">Por medicamentos y tratamientos</div><div class="v small" id="que-k3"></div><div class="d" id="que-k3d"></div></div>
+        <div class="kpi"><div class="l">Por citas</div><div class="v small" id="que-k4"></div><div class="d" id="que-k4d"></div></div>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>1</b>En el tiempo</span>
+        <h2>Reclamos ante la Supersalud</h2>
+        <p class="hint">Número de reclamos de los pacientes cada mes. No incluye las solicitudes de información (preguntas sobre trámites).</p>
+        <div class="chartbox" style="height:320px"><canvas id="que-total"></canvas></div>
+        <p class="interp" id="que-total-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>2</b>EPS por EPS</span>
+        <h2 id="que-eps-t"></h2>
+        <div class="row controles"><label class="lbl">Año:</label><select id="que-anio"></select><label class="lbl">Mes:</label><select id="que-mes"></select></div>
+        <p class="hint">Reclamos por cada 10.000 afiliados en el mes: así se comparan EPS grandes y pequeñas. Las barras más oscuras son EPS intervenidas por el Gobierno en ese momento. Toca una EPS para verla en el tiempo.</p>
+        <div class="chartbox"><canvas id="que-eps"></canvas></div>
+        <div id="que-eps-tiempo" hidden></div>
+        <p class="interp" id="que-eps-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>3</b>De qué se queja la gente</span>
+        <h2>Los motivos de los reclamos</h2>
+        <p class="hint">Los diez motivos más comunes desde 2024 (antes la Supersalud los clasificaba distinto). “Tecnologías en salud” son los medicamentos, exámenes, insumos y tratamientos que el médico ordena. Toca un motivo para verlo mes a mes.</p>
+        <div class="row controles"><label class="lbl">Periodo:</label><select id="que-mper"></select></div>
+        <div class="chartbox"><canvas id="que-mot"></canvas></div>
+        <div id="que-mot-tiempo" hidden></div>
+        <p class="interp" id="que-mot-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>4</b>Por departamento</span>
+        <h2 id="que-mapa-t"></h2>
+        <div class="row controles"><label class="lbl">Año:</label><select id="que-manio"></select></div>
+        <p class="hint">Reclamos por cada 10.000 afiliados en el año, según el departamento del afiliado.</p>
+        <div id="que-mapa"></div>
+        <p class="interp" id="que-mapa-txt"></p>
+      </section>
+      <p class="foot">Fuente: Superintendencia Nacional de Salud, Protección al Usuario: reportes mensuales de peticiones, quejas, reclamos y denuncias (PQRD) e informes ejecutivos. Hasta 2022 la Supersalud las llamaba “PQRD”; desde 2023, “reclamos en salud”, y en 2024 cambió la clasificación de los motivos.
+        Un aumento de reclamos puede ser peor servicio o también que más gente conoce el canal para quejarse.
+        Datos: <a href="datos/quejas/mensual.csv">mensual.csv</a> · <a href="datos/quejas/eps_mes.csv">eps_mes.csv</a></p>
+    </div>
+  </section>
+
+  <!-- ===================================================== INTERVENIDAS -->
+  <section class="tab" id="tab-intervenidas" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <div class="row spread mb"><p class="hint" style="margin:0">Cuando una EPS está en crisis, la Supersalud puede <strong>intervenirla</strong>: saca a sus directivos y pone un agente interventor nombrado por el Gobierno. Aquí se compara cómo estaban antes y cómo están después.</p><span class="badge" id="int-ultima"></span></div>
+      <section class="kpis">
+        <div class="kpi"><div class="l">EPS intervenidas hoy</div><div class="v small" id="int-k1"></div><div class="d" id="int-k1d"></div></div>
+        <div class="kpi"><div class="l">Afiliados en EPS intervenidas</div><div class="v small" id="int-k2"></div><div class="d" id="int-k2d"></div></div>
+        <div class="kpi"><div class="l">Reclamos por 10.000 afiliados: intervenidas</div><div class="v small" id="int-k3"></div><div class="d" id="int-k3d"></div></div>
+        <div class="kpi"><div class="l">Reclamos por 10.000 afiliados: las demás</div><div class="v small" id="int-k4"></div><div class="d" id="int-k4d"></div></div>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>1</b>Una por una</span>
+        <h2>Antes y después de la intervención</h2>
+        <p class="hint">Reclamos por cada 10.000 afiliados en los 12 meses anteriores a la intervención y en los últimos 12 meses con datos. Toca una EPS para ver su historia completa.</p>
+        <div class="chartbox"><canvas id="int-antes"></canvas></div>
+        <div id="int-antes-tiempo" hidden></div>
+        <p class="interp" id="int-antes-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>2</b>Comparadas con las demás</span>
+        <h2>Reclamos por cada 10.000 afiliados: intervenidas y no intervenidas</h2>
+        <p class="hint">Cada mes se suman los reclamos y los afiliados de las EPS que estaban intervenidas en ese momento y, aparte, los de las demás.</p>
+        <div class="chartbox" style="height:300px"><canvas id="int-comp"></canvas></div>
+        <p class="interp" id="int-comp-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>3</b>Las cuentas</span>
+        <h2>Patrimonio de las EPS intervenidas</h2>
+        <p class="hint" id="int-pat-h"></p>
+        <div class="chartbox"><canvas id="int-pat"></canvas></div>
+        <p class="interp" id="int-pat-txt"></p>
+      </section>
+      <p class="foot">Fechas de intervención: resoluciones de la Supersalud recogidas por Así Vamos en Salud y El Tiempo. Asmet Salud (mayo de 2023), Emssanar y Savia Salud (junio de 2023), Famisanar (septiembre de 2023), Nueva EPS, Sanitas y SOS (abril de 2024), Capresoca (octubre de 2024) y Coosalud (noviembre de 2024). Sanitas fue devuelta a sus dueños en septiembre de 2025, y Savia Salud y Coosalud en abril de 2026.
+        Fuentes de las cifras: Supersalud (quejas e información financiera).</p>
+    </div>
+  </section>
+
+  <!-- ===================================================== PLATA DEL ESTADO -->
+  <section class="tab" id="tab-plata" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <div class="row spread mb"><p class="hint" style="margin:0">La <strong>ADRES</strong> es la entidad del Estado que recibe la plata de la salud (aportes de los trabajadores e impuestos) y la reparte. Cada mes le reconoce a cada EPS la <strong>UPC</strong>: una suma fija por cada afiliado. Con el <strong>giro directo</strong>, la ADRES le paga directamente a hospitales y clínicas, sin que la plata pase por la EPS.</p><span class="badge" id="pla-ultima"></span></div>
+      <section class="kpis">
+        <div class="kpi"><div class="l">UPC reconocida en el mes</div><div class="v small" id="pla-k1"></div><div class="d" id="pla-k1d"></div></div>
+        <div class="kpi"><div class="l">Pagada directo a hospitales</div><div class="v small" id="pla-k2"></div><div class="d" id="pla-k2d"></div></div>
+        <div class="kpi"><div class="l">UPC en lo corrido del año</div><div class="v small" id="pla-k3"></div><div class="d" id="pla-k3d"></div></div>
+        <div class="kpi"><div class="l">Ingresos de las EPS frente a lo que gastan</div><div class="v small" id="pla-k4"></div><div class="d" id="pla-k4d"></div></div>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>1</b>Cuánto gira el Estado</span>
+        <h2>UPC reconocida cada mes</h2>
+        <p class="hint">Billones de pesos que la ADRES le reconoce a las EPS por sus afiliados, en cada régimen.</p>
+        <div class="chartbox" style="height:300px"><canvas id="pla-upc"></canvas></div>
+        <p class="interp" id="pla-upc-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>2</b>Giro directo</span>
+        <h2>¿Qué parte de la plata va directo a hospitales y clínicas?</h2>
+        <p class="hint">Porcentaje de la UPC de cada mes que la ADRES le pagó directamente a hospitales, clínicas y proveedores de medicamentos, en vez de girársela a la EPS.</p>
+        <div class="chartbox" style="height:280px"><canvas id="pla-gd"></canvas></div>
+        <p class="interp" id="pla-gd-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>3</b>¿Alcanza la plata?</span>
+        <h2>Lo que reciben las EPS y lo que gastan en atender pacientes</h2>
+        <p class="hint">Suma de todas las EPS que reportan cuentas a la Supersalud, en lo corrido de cada año. Si el costo supera a los ingresos, el sistema pierde plata con cada afiliado: es la discusión de si la UPC alcanza.</p>
+        <div class="chartbox" style="height:280px"><canvas id="pla-alc"></canvas></div>
+        <p class="interp" id="pla-alc-txt"></p>
+      </section>
+      <p class="foot">Fuentes: ADRES, boletines “Lupa al giro” (reconocimiento mensual de la UPC); Supersalud, estados financieros de las EPS. Las cifras de la ADRES salen del texto de cada boletín; si un mes la redacción cambia, ese dato queda vacío.
+        Datos: <a href="datos/adres/upc_mensual.csv">upc_mensual.csv</a></p>
+    </div>
+  </section>
+
+  <!-- ===================================================== PREPAGADA -->
+  <section class="tab" id="tab-prepagada" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <div class="row spread mb"><p class="hint" style="margin:0">La <strong>medicina prepagada</strong> es un seguro de salud privado y voluntario que se paga aparte de la EPS. Quien la tiene sigue afiliado a una EPS (es obligatorio), pero puede saltarse filas y escoger médicos. Aquí también están los servicios de ambulancia prepagada.</p><span class="badge" id="pre-ultima"></span></div>
+      <section class="kpis">
+        <div class="kpi"><div class="l">Ingresos en el último año completo</div><div class="v small" id="pre-k1"></div><div class="d" id="pre-k1d"></div></div>
+        <div class="kpi"><div class="l">Ganancias en el último año completo</div><div class="v small" id="pre-k2"></div><div class="d" id="pre-k2d"></div></div>
+        <div class="kpi"><div class="l">La empresa más grande</div><div class="v small" id="pre-k3"></div><div class="d" id="pre-k3d"></div></div>
+        <div class="kpi"><div class="l">De cada $100 que reciben, en salud</div><div class="v small" id="pre-k4"></div><div class="d" id="pre-k4d"></div></div>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>1</b>Cómo ha crecido</span>
+        <h2>Ingresos de la medicina prepagada, año por año</h2>
+        <div class="row controles"><div class="seg" id="pre-ind"><button data-v="ingresos" class="on">Ingresos</button><button data-v="resultado">Ganancias</button></div></div>
+        <p class="hint">Suma de todas las empresas, en billones de pesos de cada año. El año en curso va hasta el último trimestre publicado.</p>
+        <div class="chartbox" style="height:280px"><canvas id="pre-anual"></canvas></div>
+        <p class="interp" id="pre-anual-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>2</b>Empresa por empresa</span>
+        <h2 id="pre-rank-t"></h2>
+        <div class="row controles"><div class="seg" id="pre-rind"><button data-v="ingresos" class="on">Ingresos</button><button data-v="resultado">Ganancias</button><button data-v="patrimonio">Patrimonio</button></div></div>
+        <div class="chartbox"><canvas id="pre-rank"></canvas></div>
+        <p class="interp" id="pre-rank-txt"></p>
+      </section>
+      <p class="foot">Fuente: Superintendencia Nacional de Salud, catálogos de información financiera de las entidades de medicina prepagada y de ambulancia prepagada (archivo FT001), trimestrales. La Supersalud no publica hoy el número de afiliados a medicina prepagada.
+        Datos: <a href="datos/finanzas/prepagada.csv">prepagada.csv</a></p>
+    </div>
+  </section>
+
+  <details class="sobre">
+    <summary>¿De dónde salen los datos y cada cuánto se actualizan?</summary>
+    <p class="hint" style="margin-top:8px">Todos los datos son oficiales y públicos. Un programa los descarga todos los días a las 10 de la mañana y la página se actualiza sola cuando hay datos nuevos.</p>
+    <table class="hint"><thead><tr><th>Dato</th><th>Fuente</th><th>Cada cuánto</th></tr></thead><tbody>
+      <tr><td>Cuentas de las EPS y de la medicina prepagada</td><td>Supersalud (portal de datos abiertos)</td><td>Mensual las EPS, trimestral las prepagadas, con unos dos meses de rezago</td></tr>
+      <tr><td>Patrimonio adecuado</td><td>Supersalud</td><td>Mensual</td></tr>
+      <tr><td>Quejas y reclamos</td><td>Supersalud</td><td>Mensual, con un mes de rezago</td></tr>
+      <tr><td>Afiliados por EPS y departamento</td><td>Supersalud y ADRES (BDUA, datos.gov.co)</td><td>Mensual</td></tr>
+      <tr><td>UPC y giro directo</td><td>ADRES (Lupa al giro)</td><td>Mensual</td></tr>
+    </tbody></table>
+    <ul class="hint">
+      <li><strong>Nueva EPS</strong>, la más grande del país, no le reporta sus estados financieros a la Supersalud desde marzo de 2024. Por eso no aparece en las cuentas recientes y los totales de deudas y patrimonio se quedan cortos.</li>
+      <li>Lo que no está: cuántas citas, cirugías o consultas da cada EPS. Esa información (los RIPS del Ministerio de Salud) solo se consulta en tableros interactivos que no se pueden descargar automáticamente.</li>
+    </ul>
+  </details>
+  <p class="foot">Todos los datos y el código están en <a href="https://github.com/nicolasfgc/Indicadores-de-salud">GitHub</a>. Proyectos hermanos: <a href="https://nicolasfgc.github.io/Indicadores-economia-colombiana/">Economía colombiana en datos</a> · <a href="https://nicolasfgc.github.io/Indicadores-educativos/">Educación en Colombia en datos</a> · <a href="https://nicolasfgc.github.io/Indicadores-seguridad/">Seguridad en Colombia en datos</a>.</p>
+</div>
+</body>
+</html>
