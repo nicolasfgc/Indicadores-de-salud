@@ -1,0 +1,3211 @@
+fecha,regimen,eps,afiliados,reclamos
+2018-09-01,contributivo,Aliansalud,214694,133
+2018-09-01,contributivo,Comfenalco Valle,235513,391
+2018-09-01,contributivo,Compensar,1475099,1550
+2018-09-01,contributivo,Coomeva,2251603,5685
+2018-09-01,contributivo,Cruz Blanca,448724,2452
+2018-09-01,contributivo,Famisanar,2159858,3428
+2018-09-01,contributivo,Medimás,3137876,6265
+2018-09-01,contributivo,Nueva EPS,3608102,5277
+2018-09-01,contributivo,SOS,925752,2097
+2018-09-01,contributivo,Salud Total,2762757,3453
+2018-09-01,contributivo,Saludvida,71250,147
+2018-09-01,contributivo,Sanitas,2501873,1975
+2018-09-01,contributivo,Sura,3002659,1794
+2018-09-01,subsidiado,AIC,478596,61
+2018-09-01,subsidiado,Ambuq,822652,655
+2018-09-01,subsidiado,Anas Wayuu,186368,19
+2018-09-01,subsidiado,Asmet Salud,1892487,881
+2018-09-01,subsidiado,CCF La Guajira,225953,36
+2018-09-01,subsidiado,Cajacopi,892589,1127
+2018-09-01,subsidiado,Capital Salud,1161382,1942
+2018-09-01,subsidiado,Capresoca,180288,23
+2018-09-01,subsidiado,Comfachocó,176155,56
+2018-09-01,subsidiado,Comfacor,545052,421
+2018-09-01,subsidiado,Comfacundi,118863,247
+2018-09-01,subsidiado,Comfamiliar Cartagena,166320,33
+2018-09-01,subsidiado,Comfamiliar Huila,575006,481
+2018-09-01,subsidiado,Comfamiliar Nariño,182358,31
+2018-09-01,subsidiado,Comfaoriente,122553,24
+2018-09-01,subsidiado,Comparta,1730266,914
+2018-09-01,subsidiado,Convida,547823,409
+2018-09-01,subsidiado,Coosalud,2054144,974
+2018-09-01,subsidiado,Dusakawi,212218,11
+2018-09-01,subsidiado,Ecoopsos,305059,439
+2018-09-01,subsidiado,Emdisalud,456967,467
+2018-09-01,subsidiado,Emssanar,1909292,903
+2018-09-01,subsidiado,Familiar de Colombia,118485,92
+2018-09-01,subsidiado,Mallamas,313121,47
+2018-09-01,subsidiado,Medimás,1075532,1308
+2018-09-01,subsidiado,Mutual Ser,1606270,1214
+2018-09-01,subsidiado,Nueva EPS,1080865,880
+2018-09-01,subsidiado,Pijaos Salud,84049,13
+2018-09-01,subsidiado,Saludvida,1124328,693
+2018-09-01,subsidiado,Savia Salud,1698829,1467
+2018-10-01,contributivo,Aliansalud,215990,182
+2018-10-01,contributivo,Comfenalco Valle,235269,496
+2018-10-01,contributivo,Compensar,1483321,2129
+2018-10-01,contributivo,Coomeva,2217567,7056
+2018-10-01,contributivo,Cruz Blanca,439349,3276
+2018-10-01,contributivo,Famisanar,2175117,4526
+2018-10-01,contributivo,Medimás,3142141,10508
+2018-10-01,contributivo,Nueva EPS,3625956,6742
+2018-10-01,contributivo,SOS,923915,2393
+2018-10-01,contributivo,Salud Mía,3080,2
+2018-10-01,contributivo,Salud Total,2792177,4304
+2018-10-01,contributivo,Saludvida,71035,203
+2018-10-01,contributivo,Sanitas,2546187,2820
+2018-10-01,contributivo,Sura,3042297,2342
+2018-10-01,subsidiado,AIC,479165,84
+2018-10-01,subsidiado,Ambuq,819907,643
+2018-10-01,subsidiado,Anas Wayuu,186438,23
+2018-10-01,subsidiado,Asmet Salud,1883141,1234
+2018-10-01,subsidiado,CCF La Guajira,225440,80
+2018-10-01,subsidiado,Cajacopi,886003,1248
+2018-10-01,subsidiado,Capital Salud,1161213,2319
+2018-10-01,subsidiado,Capresoca,179366,80
+2018-10-01,subsidiado,Comfachocó,176000,76
+2018-10-01,subsidiado,Comfacor,544062,451
+2018-10-01,subsidiado,Comfacundi,117591,315
+2018-10-01,subsidiado,Comfamiliar Cartagena,164637,44
+2018-10-01,subsidiado,Comfamiliar Huila,575293,554
+2018-10-01,subsidiado,Comfamiliar Nariño,182295,39
+2018-10-01,subsidiado,Comfaoriente,123331,30
+2018-10-01,subsidiado,Comparta,1718111,1196
+2018-10-01,subsidiado,Convida,546582,597
+2018-10-01,subsidiado,Coosalud,2062766,1202
+2018-10-01,subsidiado,Dusakawi,212768,14
+2018-10-01,subsidiado,Ecoopsos,307909,452
+2018-10-01,subsidiado,Emdisalud,457226,463
+2018-10-01,subsidiado,Emssanar,1916081,1134
+2018-10-01,subsidiado,Familiar de Colombia,118484,94
+2018-10-01,subsidiado,Mallamas,314621,51
+2018-10-01,subsidiado,Medimás,1087805,1990
+2018-10-01,subsidiado,Mutual Ser,1613354,808
+2018-10-01,subsidiado,Nueva EPS,1093487,1042
+2018-10-01,subsidiado,Pijaos Salud,84559,563
+2018-10-01,subsidiado,Saludvida,1120137,1035
+2018-10-01,subsidiado,Savia Salud,1697892,1814
+2018-11-01,contributivo,Aliansalud,217429,245
+2018-11-01,contributivo,Comfenalco Valle,235004,424
+2018-11-01,contributivo,Compensar,1496112,1698
+2018-11-01,contributivo,Coomeva,2185824,5578
+2018-11-01,contributivo,Cruz Blanca,429215,2380
+2018-11-01,contributivo,Famisanar,2193938,3517
+2018-11-01,contributivo,Medimás,3050842,7909
+2018-11-01,contributivo,Nueva EPS,3659748,5107
+2018-11-01,contributivo,SOS,922195,1796
+2018-11-01,contributivo,Salud Mía,4860,2
+2018-11-01,contributivo,Salud Total,2818345,3509
+2018-11-01,contributivo,Saludvida,71676,180
+2018-11-01,contributivo,Sanitas,2566236,2261
+2018-11-01,contributivo,Sura,3090609,1867
+2018-11-01,subsidiado,AIC,479846,64
+2018-11-01,subsidiado,Ambuq,810558,483
+2018-11-01,subsidiado,Anas Wayuu,187880,7
+2018-11-01,subsidiado,Asmet Salud,1884250,998
+2018-11-01,subsidiado,CCF La Guajira,225627,53
+2018-11-01,subsidiado,Cajacopi,884589,849
+2018-11-01,subsidiado,Capital Salud,1154969,2010
+2018-11-01,subsidiado,Capresoca,178897,161
+2018-11-01,subsidiado,Comfachocó,175235,44
+2018-11-01,subsidiado,Comfacor,542842,265
+2018-11-01,subsidiado,Comfacundi,117648,214
+2018-11-01,subsidiado,Comfamiliar Cartagena,163775,45
+2018-11-01,subsidiado,Comfamiliar Huila,574838,529
+2018-11-01,subsidiado,Comfamiliar Nariño,182915,36
+2018-11-01,subsidiado,Comfaoriente,127750,26
+2018-11-01,subsidiado,Comparta,1711463,984
+2018-11-01,subsidiado,Convida,544339,620
+2018-11-01,subsidiado,Coosalud,2071551,879
+2018-11-01,subsidiado,Dusakawi,215174,10
+2018-11-01,subsidiado,Ecoopsos,313102,405
+2018-11-01,subsidiado,Emdisalud,456174,382
+2018-11-01,subsidiado,Emssanar,1919493,912
+2018-11-01,subsidiado,Familiar de Colombia,118279,85
+2018-11-01,subsidiado,Mallamas,315912,64
+2018-11-01,subsidiado,Medimás,1058282,1665
+2018-11-01,subsidiado,Mutual Ser,1622414,523
+2018-11-01,subsidiado,Nueva EPS,1104018,1051
+2018-11-01,subsidiado,Pijaos Salud,84826,25
+2018-11-01,subsidiado,Saludvida,1116408,862
+2018-11-01,subsidiado,Savia Salud,1702184,1228
+2018-12-01,contributivo,Aliansalud,219012,137
+2018-12-01,contributivo,Comfenalco Valle,234418,304
+2018-12-01,contributivo,Compensar,1498350,1162
+2018-12-01,contributivo,Coomeva,2137889,3761
+2018-12-01,contributivo,Cruz Blanca,412194,1537
+2018-12-01,contributivo,Famisanar,2134662,2134
+2018-12-01,contributivo,Medimás,2994146,5810
+2018-12-01,contributivo,Nueva EPS,3684302,3230
+2018-12-01,contributivo,SOS,918745,1521
+2018-12-01,contributivo,Salud Mía,6630,0
+2018-12-01,contributivo,Salud Total,2801557,2084
+2018-12-01,contributivo,Saludvida,71590,114
+2018-12-01,contributivo,Sanitas,2559388,1596
+2018-12-01,contributivo,Sura,3110483,1249
+2018-12-01,subsidiado,AIC,479917,60
+2018-12-01,subsidiado,Ambuq,806206,344
+2018-12-01,subsidiado,Anas Wayuu,189031,15
+2018-12-01,subsidiado,Asmet Salud,1886618,598
+2018-12-01,subsidiado,CCF La Guajira,226284,29
+2018-12-01,subsidiado,Cajacopi,887517,518
+2018-12-01,subsidiado,Capital Salud,1154887,1153
+2018-12-01,subsidiado,Capresoca,178298,45
+2018-12-01,subsidiado,Comfachocó,174730,39
+2018-12-01,subsidiado,Comfacor,541663,237
+2018-12-01,subsidiado,Comfacundi,118077,161
+2018-12-01,subsidiado,Comfamiliar Cartagena,162263,36
+2018-12-01,subsidiado,Comfamiliar Huila,573079,395
+2018-12-01,subsidiado,Comfamiliar Nariño,183218,31
+2018-12-01,subsidiado,Comfaoriente,127325,19
+2018-12-01,subsidiado,Comparta,1724504,735
+2018-12-01,subsidiado,Convida,548249,434
+2018-12-01,subsidiado,Coosalud,2076271,609
+2018-12-01,subsidiado,Dusakawi,217525,20
+2018-12-01,subsidiado,Ecoopsos,316232,306
+2018-12-01,subsidiado,Emdisalud,455410,298
+2018-12-01,subsidiado,Emssanar,1913626,671
+2018-12-01,subsidiado,Familiar de Colombia,118177,47
+2018-12-01,subsidiado,Mallamas,310562,146
+2018-12-01,subsidiado,Medimás,1052115,1446
+2018-12-01,subsidiado,Mutual Ser,1628602,265
+2018-12-01,subsidiado,Nueva EPS,1115416,795
+2018-12-01,subsidiado,Pijaos Salud,85316,18
+2018-12-01,subsidiado,Saludvida,1113263,629
+2018-12-01,subsidiado,Savia Salud,1700593,745
+2019-02-01,contributivo,Aliansalud,220699,146
+2019-02-01,contributivo,Comfenalco Valle,230418,364
+2019-02-01,contributivo,Compensar,1510934,1535
+2019-02-01,contributivo,Coomeva,2067581,5767
+2019-02-01,contributivo,Cruz Blanca,392039,1970
+2019-02-01,contributivo,Famisanar,2185140,2972
+2019-02-01,contributivo,Medimás,2890644,6515
+2019-02-01,contributivo,Nueva EPS,3669807,4348
+2019-02-01,contributivo,SOS,897764,2007
+2019-02-01,contributivo,Salud Mía,9375,8
+2019-02-01,contributivo,Salud Total,2859557,2914
+2019-02-01,contributivo,Saludvida,71799,148
+2019-02-01,contributivo,Sanitas,2654354,1947
+2019-02-01,contributivo,Sura,3190473,1821
+2019-02-01,subsidiado,AIC,481327,68
+2019-02-01,subsidiado,Ambuq,800574,418
+2019-02-01,subsidiado,Anas Wayuu,190574,15
+2019-02-01,subsidiado,Asmet Salud,1886638,878
+2019-02-01,subsidiado,CCF La Guajira,227360,30
+2019-02-01,subsidiado,Cajacopi,901398,682
+2019-02-01,subsidiado,Capital Salud,1147678,1407
+2019-02-01,subsidiado,Capresoca,177308,41
+2019-02-01,subsidiado,Comfachocó,174073,47
+2019-02-01,subsidiado,Comfacor,538524,603
+2019-02-01,subsidiado,Comfacundi,149079,272
+2019-02-01,subsidiado,Comfamiliar Cartagena,160521,48
+2019-02-01,subsidiado,Comfamiliar Huila,573972,565
+2019-02-01,subsidiado,Comfamiliar Nariño,183878,41
+2019-02-01,subsidiado,Comfaoriente,128258,25
+2019-02-01,subsidiado,Comparta,1716232,1113
+2019-02-01,subsidiado,Convida,544868,565
+2019-02-01,subsidiado,Coosalud,2095465,687
+2019-02-01,subsidiado,Dusakawi,219906,11
+2019-02-01,subsidiado,Ecoopsos,320373,271
+2019-02-01,subsidiado,Emdisalud,453375,565
+2019-02-01,subsidiado,Emssanar,1909165,842
+2019-02-01,subsidiado,Familiar de Colombia,117497,22
+2019-02-01,subsidiado,Mallamas,310922,42
+2019-02-01,subsidiado,Medimás,1041218,1458
+2019-02-01,subsidiado,Mutual Ser,1654362,395
+2019-02-01,subsidiado,Nueva EPS,1138881,719
+2019-02-01,subsidiado,Pijaos Salud,86497,21
+2019-02-01,subsidiado,Saludvida,1105091,765
+2019-02-01,subsidiado,Savia Salud,1679953,1138
+2019-03-01,contributivo,Aliansalud,220955,173
+2019-03-01,contributivo,Comfenalco Valle,232471,416
+2019-03-01,contributivo,Compensar,1532485,1611
+2019-03-01,contributivo,Coomeva,2048501,6074
+2019-03-01,contributivo,Cruz Blanca,375161,1898
+2019-03-01,contributivo,Famisanar,2208077,3398
+2019-03-01,contributivo,Medimás,2846365,6312
+2019-03-01,contributivo,Nueva EPS,3709465,4800
+2019-03-01,contributivo,SOS,895166,2218
+2019-03-01,contributivo,Salud Mía,10845,17
+2019-03-01,contributivo,Salud Total,2888295,3124
+2019-03-01,contributivo,Saludvida,71328,163
+2019-03-01,contributivo,Sanitas,2700078,2100
+2019-03-01,contributivo,Sura,3247591,2024
+2019-03-01,subsidiado,AIC,481890,73
+2019-03-01,subsidiado,Ambuq,797306,444
+2019-03-01,subsidiado,Anas Wayuu,191049,8
+2019-03-01,subsidiado,Asmet Salud,1886684,954
+2019-03-01,subsidiado,CCF La Guajira,227800,34
+2019-03-01,subsidiado,Cajacopi,997367,887
+2019-03-01,subsidiado,Capital Salud,1142838,1725
+2019-03-01,subsidiado,Capresoca,176330,29
+2019-03-01,subsidiado,Comfachocó,172625,46
+2019-03-01,subsidiado,Comfacor,1258,768
+2019-03-01,subsidiado,Comfacundi,157599,289
+2019-03-01,subsidiado,Comfamiliar Cartagena,158574,51
+2019-03-01,subsidiado,Comfamiliar Huila,573711,642
+2019-03-01,subsidiado,Comfamiliar Nariño,184444,34
+2019-03-01,subsidiado,Comfaoriente,129441,26
+2019-03-01,subsidiado,Comparta,1712350,1225
+2019-03-01,subsidiado,Convida,543143,580
+2019-03-01,subsidiado,Coosalud,2200497,838
+2019-03-01,subsidiado,Dusakawi,220878,13
+2019-03-01,subsidiado,Ecoopsos,322125,336
+2019-03-01,subsidiado,Emdisalud,452437,447
+2019-03-01,subsidiado,Emssanar,1902627,923
+2019-03-01,subsidiado,Familiar de Colombia,116785,29
+2019-03-01,subsidiado,Mallamas,312307,43
+2019-03-01,subsidiado,Medimás,1039044,1426
+2019-03-01,subsidiado,Mutual Ser,1851076,597
+2019-03-01,subsidiado,Nueva EPS,1283292,688
+2019-03-01,subsidiado,Pijaos Salud,87340,16
+2019-03-01,subsidiado,Saludvida,1102527,736
+2019-03-01,subsidiado,Savia Salud,1695526,1240
+2019-04-01,contributivo,Aliansalud,220933,174
+2019-04-01,contributivo,Comfenalco Valle,232453,358
+2019-04-01,contributivo,Compensar,1538439,1816
+2019-04-01,contributivo,Coomeva,2021545,6010
+2019-04-01,contributivo,Coosalud,1256,68
+2019-04-01,contributivo,Cruz Blanca,366736,1865
+2019-04-01,contributivo,Famisanar,2224523,3546
+2019-04-01,contributivo,Medimás,2795234,6658
+2019-04-01,contributivo,Nueva EPS,3719587,4889
+2019-04-01,contributivo,SOS,885425,1793
+2019-04-01,contributivo,Salud Mía,12048,17
+2019-04-01,contributivo,Salud Total,2912088,3236
+2019-04-01,contributivo,Saludvida,70814,157
+2019-04-01,contributivo,Sanitas,2755400,2264
+2019-04-01,contributivo,Sura,3314930,2003
+2019-04-01,subsidiado,AIC,481360,66
+2019-04-01,subsidiado,Ambuq,795373,539
+2019-04-01,subsidiado,Anas Wayuu,191477,14
+2019-04-01,subsidiado,Asmet Salud,1887050,1202
+2019-04-01,subsidiado,CCF La Guajira,226441,39
+2019-04-01,subsidiado,Cajacopi,999220,973
+2019-04-01,subsidiado,Capital Salud,1139188,2085
+2019-04-01,subsidiado,Capresoca,175894,26
+2019-04-01,subsidiado,Comfachocó,172406,54
+2019-04-01,subsidiado,Comfacor,0,40
+2019-04-01,subsidiado,Comfacundi,159678,312
+2019-04-01,subsidiado,Comfamiliar Cartagena,157212,41
+2019-04-01,subsidiado,Comfamiliar Huila,573327,657
+2019-04-01,subsidiado,Comfamiliar Nariño,184532,30
+2019-04-01,subsidiado,Comfaoriente,130228,29
+2019-04-01,subsidiado,Comparta,1707807,1255
+2019-04-01,subsidiado,Convida,541354,460
+2019-04-01,subsidiado,Coosalud,2203178,919
+2019-04-01,subsidiado,Dusakawi,222064,16
+2019-04-01,subsidiado,Ecoopsos,322592,302
+2019-04-01,subsidiado,Emdisalud,451708,399
+2019-04-01,subsidiado,Emssanar,1902593,983
+2019-04-01,subsidiado,Familiar de Colombia,116584,59
+2019-04-01,subsidiado,Mallamas,312853,27
+2019-04-01,subsidiado,Medimás,1035320,1590
+2019-04-01,subsidiado,Mutual Ser,1856380,610
+2019-04-01,subsidiado,Nueva EPS,1296213,943
+2019-04-01,subsidiado,Pijaos Salud,87065,18
+2019-04-01,subsidiado,Saludvida,1100209,868
+2019-04-01,subsidiado,Savia Salud,1690239,1316
+2019-05-01,contributivo,Aliansalud,221684,166
+2019-05-01,contributivo,Comfenalco Valle,231413,435
+2019-05-01,contributivo,Compensar,1545049,2114
+2019-05-01,contributivo,Coomeva,2003554,7869
+2019-05-01,contributivo,Coosalud,1264,82
+2019-05-01,contributivo,Cruz Blanca,352570,2541
+2019-05-01,contributivo,Famisanar,2238346,4248
+2019-05-01,contributivo,Medimás,2734770,10603
+2019-05-01,contributivo,Nueva EPS,3763651,5980
+2019-05-01,contributivo,SOS,881999,2213
+2019-05-01,contributivo,Salud Mía,13411,27
+2019-05-01,contributivo,Salud Total,2939391,3895
+2019-05-01,contributivo,Saludvida,70664,236
+2019-05-01,contributivo,Sanitas,2814773,2750
+2019-05-01,contributivo,Sura,3380180,2342
+2019-05-01,subsidiado,AIC,484112,157
+2019-05-01,subsidiado,Ambuq,794484,569
+2019-05-01,subsidiado,Anas Wayuu,193538,26
+2019-05-01,subsidiado,Asmet Salud,1886954,1376
+2019-05-01,subsidiado,CCF La Guajira,225262,66
+2019-05-01,subsidiado,Cajacopi,1007525,1102
+2019-05-01,subsidiado,Capital Salud,1135654,2509
+2019-05-01,subsidiado,Capresoca,175343,41
+2019-05-01,subsidiado,Comfachocó,172151,64
+2019-05-01,subsidiado,Comfacor,0,22
+2019-05-01,subsidiado,Comfacundi,165058,408
+2019-05-01,subsidiado,Comfamiliar Cartagena,155720,96
+2019-05-01,subsidiado,Comfamiliar Huila,572256,925
+2019-05-01,subsidiado,Comfamiliar Nariño,185106,68
+2019-05-01,subsidiado,Comfaoriente,131315,61
+2019-05-01,subsidiado,Comparta,1610653,1760
+2019-05-01,subsidiado,Convida,541209,600
+2019-05-01,subsidiado,Coosalud,2254189,1196
+2019-05-01,subsidiado,Dusakawi,224509,22
+2019-05-01,subsidiado,Ecoopsos,321921,434
+2019-05-01,subsidiado,Emdisalud,453589,457
+2019-05-01,subsidiado,Emssanar,1904368,1249
+2019-05-01,subsidiado,Familiar de Colombia,116410,74
+2019-05-01,subsidiado,Mallamas,321823,78
+2019-05-01,subsidiado,Medimás,1031173,2621
+2019-05-01,subsidiado,Mutual Ser,1886306,711
+2019-05-01,subsidiado,Nueva EPS,1336019,1113
+2019-05-01,subsidiado,Pijaos Salud,87186,26
+2019-05-01,subsidiado,Saludvida,1096205,1167
+2019-05-01,subsidiado,Savia Salud,1684438,1412
+2019-06-01,contributivo,Aliansalud,222719,176
+2019-06-01,contributivo,Comfenalco Valle,233245,403
+2019-06-01,contributivo,Compensar,1569592,1902
+2019-06-01,contributivo,Coomeva,1974432,6020
+2019-06-01,contributivo,Coosalud,1299,117
+2019-06-01,contributivo,Cruz Blanca,340215,2057
+2019-06-01,contributivo,Famisanar,2254105,3512
+2019-06-01,contributivo,Medimás,2638179,10163
+2019-06-01,contributivo,Nueva EPS,3802051,5426
+2019-06-01,contributivo,SOS,876886,1862
+2019-06-01,contributivo,Salud Mía,15271,24
+2019-06-01,contributivo,Salud Total,2971335,3581
+2019-06-01,contributivo,Saludvida,69908,168
+2019-06-01,contributivo,Sanitas,2887353,2512
+2019-06-01,contributivo,Sura,3412541,2200
+2019-06-01,subsidiado,AIC,484758,124
+2019-06-01,subsidiado,Ambuq,792457,500
+2019-06-01,subsidiado,Anas Wayuu,193833,20
+2019-06-01,subsidiado,Asmet Salud,1886987,1348
+2019-06-01,subsidiado,CCF La Guajira,225380,43
+2019-06-01,subsidiado,Cajacopi,1006502,941
+2019-06-01,subsidiado,Capital Salud,1125526,2374
+2019-06-01,subsidiado,Capresoca,174753,53
+2019-06-01,subsidiado,Comfachocó,171995,51
+2019-06-01,subsidiado,Comfacor,2,10
+2019-06-01,subsidiado,Comfacundi,167917,323
+2019-06-01,subsidiado,Comfamiliar Cartagena,154335,95
+2019-06-01,subsidiado,Comfamiliar Huila,572258,569
+2019-06-01,subsidiado,Comfamiliar Nariño,185618,74
+2019-06-01,subsidiado,Comfaoriente,132072,46
+2019-06-01,subsidiado,Comparta,1606675,1352
+2019-06-01,subsidiado,Convida,540246,513
+2019-06-01,subsidiado,Coosalud,2261575,1154
+2019-06-01,subsidiado,Dusakawi,226681,10
+2019-06-01,subsidiado,Ecoopsos,322817,398
+2019-06-01,subsidiado,Emdisalud,453304,477
+2019-06-01,subsidiado,Emssanar,1902765,1114
+2019-06-01,subsidiado,Familiar de Colombia,116268,61
+2019-06-01,subsidiado,Mallamas,322198,51
+2019-06-01,subsidiado,Medimás,1025063,2610
+2019-06-01,subsidiado,Mutual Ser,1899061,722
+2019-06-01,subsidiado,Nueva EPS,1353315,1173
+2019-06-01,subsidiado,Pijaos Salud,87641,30
+2019-06-01,subsidiado,Saludvida,1092013,1110
+2019-06-01,subsidiado,Savia Salud,1679021,1392
+2019-07-01,contributivo,Aliansalud,223863,176
+2019-07-01,contributivo,Comfenalco Valle,234017,374
+2019-07-01,contributivo,Compensar,1588744,2149
+2019-07-01,contributivo,Coomeva,1941242,6373
+2019-07-01,contributivo,Coosalud,1599,115
+2019-07-01,contributivo,Cruz Blanca,329406,2112
+2019-07-01,contributivo,Famisanar,2262236,3805
+2019-07-01,contributivo,Medimás,2555374,9917
+2019-07-01,contributivo,Nueva EPS,3830619,6033
+2019-07-01,contributivo,SOS,867319,1951
+2019-07-01,contributivo,Salud Mía,16646,17
+2019-07-01,contributivo,Salud Total,2992883,4071
+2019-07-01,contributivo,Saludvida,69331,195
+2019-07-01,contributivo,Sanitas,2916102,2726
+2019-07-01,contributivo,Sura,3457089,2473
+2019-07-01,subsidiado,AIC,485640,119
+2019-07-01,subsidiado,Ambuq,790486,575
+2019-07-01,subsidiado,Anas Wayuu,193806,20
+2019-07-01,subsidiado,Asmet Salud,1887322,1473
+2019-07-01,subsidiado,CCF La Guajira,226781,48
+2019-07-01,subsidiado,Cajacopi,1004210,1024
+2019-07-01,subsidiado,Capital Salud,1126407,2817
+2019-07-01,subsidiado,Capresoca,174388,35
+2019-07-01,subsidiado,Comfachocó,172179,76
+2019-07-01,subsidiado,Comfacundi,170498,384
+2019-07-01,subsidiado,Comfamiliar Cartagena,150455,93
+2019-07-01,subsidiado,Comfamiliar Huila,572377,755
+2019-07-01,subsidiado,Comfamiliar Nariño,185860,79
+2019-07-01,subsidiado,Comfaoriente,133060,37
+2019-07-01,subsidiado,Comparta,1604028,1651
+2019-07-01,subsidiado,Convida,539603,663
+2019-07-01,subsidiado,Coosalud,2271925,1126
+2019-07-01,subsidiado,Dusakawi,228077,17
+2019-07-01,subsidiado,Ecoopsos,323522,445
+2019-07-01,subsidiado,Emdisalud,452290,568
+2019-07-01,subsidiado,Emssanar,1902991,1164
+2019-07-01,subsidiado,Familiar de Colombia,116245,47
+2019-07-01,subsidiado,Mallamas,323229,62
+2019-07-01,subsidiado,Medimás,1020112,3026
+2019-07-01,subsidiado,Mutual Ser,1906089,725
+2019-07-01,subsidiado,Nueva EPS,1374183,1245
+2019-07-01,subsidiado,Pijaos Salud,87967,23
+2019-07-01,subsidiado,Saludvida,1088689,1311
+2019-07-01,subsidiado,Savia Salud,1672951,1524
+2019-08-01,contributivo,Aliansalud,223259,212
+2019-08-01,contributivo,Comfenalco Valle,234634,427
+2019-08-01,contributivo,Compensar,1600158,2312
+2019-08-01,contributivo,Coomeva,1906677,5952
+2019-08-01,contributivo,Coosalud,15131,44
+2019-08-01,contributivo,Cruz Blanca,312001,1850
+2019-08-01,contributivo,Famisanar,2278558,3899
+2019-08-01,contributivo,Medimás,2409224,8922
+2019-08-01,contributivo,Nueva EPS,3904383,6124
+2019-08-01,contributivo,SOS,858888,1664
+2019-08-01,contributivo,Salud Mía,18425,20
+2019-08-01,contributivo,Salud Total,3044763,4198
+2019-08-01,contributivo,Saludvida,68221,180
+2019-08-01,contributivo,Sanitas,2987668,2924
+2019-08-01,contributivo,Sura,3495754,2979
+2019-08-01,subsidiado,AIC,524706,93
+2019-08-01,subsidiado,Ambuq,788242,637
+2019-08-01,subsidiado,Anas Wayuu,195236,23
+2019-08-01,subsidiado,Asmet Salud,1886009,1422
+2019-08-01,subsidiado,CCF La Guajira,226217,44
+2019-08-01,subsidiado,Cajacopi,1000547,919
+2019-08-01,subsidiado,Capital Salud,1121951,2697
+2019-08-01,subsidiado,Capresoca,173670,34
+2019-08-01,subsidiado,Comfachocó,171620,78
+2019-08-01,subsidiado,Comfacundi,167581,365
+2019-08-01,subsidiado,Comfamiliar Cartagena,148316,74
+2019-08-01,subsidiado,Comfamiliar Huila,571520,719
+2019-08-01,subsidiado,Comfamiliar Nariño,185775,90
+2019-08-01,subsidiado,Comfaoriente,136621,38
+2019-08-01,subsidiado,Comparta,1561553,1318
+2019-08-01,subsidiado,Convida,535725,768
+2019-08-01,subsidiado,Coosalud,2262644,1139
+2019-08-01,subsidiado,Dusakawi,228908,12
+2019-08-01,subsidiado,Ecoopsos,323693,408
+2019-08-01,subsidiado,Emdisalud,448994,605
+2019-08-01,subsidiado,Emssanar,1903823,1109
+2019-08-01,subsidiado,Familiar de Colombia,115727,46
+2019-08-01,subsidiado,Mallamas,325024,57
+2019-08-01,subsidiado,Medimás,1012338,2448
+2019-08-01,subsidiado,Mutual Ser,1912404,848
+2019-08-01,subsidiado,Nueva EPS,1397825,1298
+2019-08-01,subsidiado,Pijaos Salud,88195,37
+2019-08-01,subsidiado,Saludvida,1081292,1249
+2019-08-01,subsidiado,Savia Salud,1679594,1440
+2019-09-01,contributivo,Aliansalud,223819,223
+2019-09-01,contributivo,Comfenalco Valle,235450,413
+2019-09-01,contributivo,Compensar,1614895,2450
+2019-09-01,contributivo,Coomeva,1830205,5437
+2019-09-01,contributivo,Coosalud,21085,39
+2019-09-01,contributivo,Cruz Blanca,296055,1904
+2019-09-01,contributivo,Famisanar,2301787,4062
+2019-09-01,contributivo,Medimás,2316750,7801
+2019-09-01,contributivo,Nueva EPS,3950616,6243
+2019-09-01,contributivo,SOS,854901,1749
+2019-09-01,contributivo,Salud Mía,20017,27
+2019-09-01,contributivo,Salud Total,3079193,4581
+2019-09-01,contributivo,Saludvida,67607,211
+2019-09-01,contributivo,Sanitas,3073940,3167
+2019-09-01,contributivo,Sura,3536773,3058
+2019-09-01,subsidiado,AIC,524746,207
+2019-09-01,subsidiado,Ambuq,785483,608
+2019-09-01,subsidiado,Anas Wayuu,196303,24
+2019-09-01,subsidiado,Asmet Salud,1885815,1489
+2019-09-01,subsidiado,CCF La Guajira,224527,48
+2019-09-01,subsidiado,Cajacopi,1001000,982
+2019-09-01,subsidiado,Capital Salud,1117774,2919
+2019-09-01,subsidiado,Capresoca,172925,54
+2019-09-01,subsidiado,Comfachocó,180117,83
+2019-09-01,subsidiado,Comfacundi,172862,460
+2019-09-01,subsidiado,Comfamiliar Cartagena,146258,49
+2019-09-01,subsidiado,Comfamiliar Huila,569815,688
+2019-09-01,subsidiado,Comfamiliar Nariño,185200,82
+2019-09-01,subsidiado,Comfaoriente,138565,54
+2019-09-01,subsidiado,Comparta,1557784,1181
+2019-09-01,subsidiado,Convida,534452,985
+2019-09-01,subsidiado,Coosalud,2270580,1189
+2019-09-01,subsidiado,Dusakawi,229168,33
+2019-09-01,subsidiado,Ecoopsos,324084,344
+2019-09-01,subsidiado,Emdisalud,445868,679
+2019-09-01,subsidiado,Emssanar,1911671,1143
+2019-09-01,subsidiado,Familiar de Colombia,115553,49
+2019-09-01,subsidiado,Mallamas,326112,61
+2019-09-01,subsidiado,Medimás,1005166,2394
+2019-09-01,subsidiado,Mutual Ser,1917921,689
+2019-09-01,subsidiado,Nueva EPS,1421539,1300
+2019-09-01,subsidiado,Pijaos Salud,88588,37
+2019-09-01,subsidiado,Saludvida,1073394,1457
+2019-09-01,subsidiado,Savia Salud,1669892,1390
+2019-10-01,contributivo,Aliansalud,237843,230
+2019-10-01,contributivo,Comfenalco Valle,240890,540
+2019-10-01,contributivo,Compensar,1677319,2619
+2019-10-01,contributivo,Coomeva,1795379,6370
+2019-10-01,contributivo,Coosalud,22172,63
+2019-10-01,contributivo,Cruz Blanca,9,3252
+2019-10-01,contributivo,Famisanar,2313596,4239
+2019-10-01,contributivo,Medimás,2246680,9313
+2019-10-01,contributivo,Nueva EPS,4098353,7592
+2019-10-01,contributivo,SOS,849473,2147
+2019-10-01,contributivo,Salud Mía,23515,37
+2019-10-01,contributivo,Salud Total,3173243,5589
+2019-10-01,contributivo,Saludvida,67004,512
+2019-10-01,contributivo,Sanitas,3172011,3801
+2019-10-01,contributivo,Sura,3650172,3525
+2019-10-01,subsidiado,AIC,525462,219
+2019-10-01,subsidiado,Ambuq,782790,768
+2019-10-01,subsidiado,Anas Wayuu,197202,26
+2019-10-01,subsidiado,Asmet Salud,1884274,1736
+2019-10-01,subsidiado,CCF La Guajira,225394,56
+2019-10-01,subsidiado,Cajacopi,1056578,1075
+2019-10-01,subsidiado,Capital Salud,1113700,2746
+2019-10-01,subsidiado,Capresoca,172676,93
+2019-10-01,subsidiado,Comfachocó,179357,81
+2019-10-01,subsidiado,Comfacundi,175638,364
+2019-10-01,subsidiado,Comfamiliar Cartagena,144472,80
+2019-10-01,subsidiado,Comfamiliar Huila,568551,759
+2019-10-01,subsidiado,Comfamiliar Nariño,184706,63
+2019-10-01,subsidiado,Comfaoriente,139778,49
+2019-10-01,subsidiado,Comparta,1553919,1350
+2019-10-01,subsidiado,Convida,532988,926
+2019-10-01,subsidiado,Coosalud,2360235,1618
+2019-10-01,subsidiado,Dusakawi,230407,21
+2019-10-01,subsidiado,Ecoopsos,324178,461
+2019-10-01,subsidiado,Emdisalud(****),4,758
+2019-10-01,subsidiado,Emssanar,1913157,1525
+2019-10-01,subsidiado,Familiar de Colombia,115260,83
+2019-10-01,subsidiado,Mallamas,327304,57
+2019-10-01,subsidiado,Medimás,1000011,2867
+2019-10-01,subsidiado,Mutual Ser,1985955,758
+2019-10-01,subsidiado,Nueva EPS,1565830,1608
+2019-10-01,subsidiado,Pijaos Salud,89040,43
+2019-10-01,subsidiado,Saludvida,1067704,2792
+2019-10-01,subsidiado,Savia Salud,1664364,2314
+2019-11-01,contributivo,Aliansalud,238035,239
+2019-11-01,contributivo,Comfenalco Valle,241253,401
+2019-11-01,contributivo,Compensar,1688531,2667
+2019-11-01,contributivo,Coomeva,1755559,5403
+2019-11-01,contributivo,Coosalud,22270,38
+2019-11-01,contributivo,Famisanar,2324607,4164
+2019-11-01,contributivo,Medimás,2175913,7939
+2019-11-01,contributivo,Nueva EPS,4128297,7113
+2019-11-01,contributivo,SOS,844640,1883
+2019-11-01,contributivo,Salud Mía,25186,30
+2019-11-01,contributivo,Salud Total,3194032,4875
+2019-11-01,contributivo,Saludvida,63971,657
+2019-11-01,contributivo,Sanitas,3225211,3592
+2019-11-01,contributivo,Sura,3674701,3383
+2019-11-01,subsidiado,AIC,525669,165
+2019-11-01,subsidiado,Ambuq,780420,633
+2019-11-01,subsidiado,Anas Wayuu,198069,15
+2019-11-01,subsidiado,Asmet Salud,1884216,1719
+2019-11-01,subsidiado,CCF La Guajira,225750,42
+2019-11-01,subsidiado,Cajacopi,1049142,1089
+2019-11-01,subsidiado,Capital Salud,1109658,2510
+2019-11-01,subsidiado,Capresoca,172412,85
+2019-11-01,subsidiado,Comfachocó,177511,104
+2019-11-01,subsidiado,Comfacundi,178078,328
+2019-11-01,subsidiado,Comfamiliar Cartagena,141917,75
+2019-11-01,subsidiado,Comfamiliar Huila,567295,683
+2019-11-01,subsidiado,Comfamiliar Nariño,183833,143
+2019-11-01,subsidiado,Comfaoriente,142794,44
+2019-11-01,subsidiado,Comparta,1549420,1169
+2019-11-01,subsidiado,Convida,530782,767
+2019-11-01,subsidiado,Coosalud,2369654,1618
+2019-11-01,subsidiado,Dusakawi,231250,17
+2019-11-01,subsidiado,Ecoopsos,324084,382
+2019-11-01,subsidiado,Emssanar,1912443,1526
+2019-11-01,subsidiado,Familiar de Colombia,114410,56
+2019-11-01,subsidiado,Mallamas,328290,93
+2019-11-01,subsidiado,Medimás,995336,2352
+2019-11-01,subsidiado,Mutual Ser,1993912,731
+2019-11-01,subsidiado,Nueva EPS,1583365,1536
+2019-11-01,subsidiado,Pijaos Salud,89901,35
+2019-11-01,subsidiado,Saludvida,1055695,3982
+2019-11-01,subsidiado,Savia Salud,1661418,2015
+2019-12-01,contributivo,Aliansalud,238995,226
+2019-12-01,contributivo,Comfenalco Valle,241526,367
+2019-12-01,contributivo,Compensar,1708610,2093
+2019-12-01,contributivo,Coomeva,1730183,4371
+2019-12-01,contributivo,Coosalud,25554,47
+2019-12-01,contributivo,Famisanar,2373669,3281
+2019-12-01,contributivo,Medimás,2122727,6347
+2019-12-01,contributivo,Nueva EPS,4279013,6310
+2019-12-01,contributivo,SOS,835834,1545
+2019-12-01,contributivo,Salud Mía,29714,30
+2019-12-01,contributivo,Salud Total,3292652,3803
+2019-12-01,contributivo,Saludvida,18,431
+2019-12-01,contributivo,Sanitas,3353647,3006
+2019-12-01,contributivo,Sura,3718738,2790
+2019-12-01,subsidiado,AIC,529420,153
+2019-12-01,subsidiado,Ambuq,778098,568
+2019-12-01,subsidiado,Anas Wayuu,202623,11
+2019-12-01,subsidiado,Asmet Salud,1881317,1366
+2019-12-01,subsidiado,CCF La Guajira,241770,45
+2019-12-01,subsidiado,Cajacopi,1137548,841
+2019-12-01,subsidiado,Capital Salud,1106306,2262
+2019-12-01,subsidiado,Capresoca,172121,95
+2019-12-01,subsidiado,Comfachocó,176896,41
+2019-12-01,subsidiado,Comfacundi,183130,261
+2019-12-01,subsidiado,Comfamiliar Cartagena,140513,72
+2019-12-01,subsidiado,Comfamiliar Huila,565542,516
+2019-12-01,subsidiado,Comfamiliar Nariño,184296,84
+2019-12-01,subsidiado,Comfaoriente,178641,44
+2019-12-01,subsidiado,Comparta,1544007,976
+2019-12-01,subsidiado,Convida,529397,700
+2019-12-01,subsidiado,Coosalud,2505678,1282
+2019-12-01,subsidiado,Dusakawi,231859,5
+2019-12-01,subsidiado,Ecoopsos,324127,348
+2019-12-01,subsidiado,Emssanar,1911258,1146
+2019-12-01,subsidiado,Familiar de Colombia,114212,39
+2019-12-01,subsidiado,Mallamas,329363,64
+2019-12-01,subsidiado,Medimás,989155,1880
+2019-12-01,subsidiado,Mutual Ser,2068301,612
+2019-12-01,subsidiado,Nueva EPS,1934665,1324
+2019-12-01,subsidiado,Pijaos Salud,90599,17
+2019-12-01,subsidiado,Saludvida,632,3306
+2019-12-01,subsidiado,Savia Salud,1666225,1337
+2020-01-01,contributivo,Aliansalud,238987,213
+2020-01-01,contributivo,Comfenalco Valle,238790,437
+2020-01-01,contributivo,Compensar,1692020,2376
+2020-01-01,contributivo,Coomeva,1698170,6174
+2020-01-01,contributivo,Coosalud,25597,66
+2020-01-01,contributivo,Famisanar,2343338,3851
+2020-01-01,contributivo,Medimás,2031560,8186
+2020-01-01,contributivo,Nueva EPS,4252123,7751
+2020-01-01,contributivo,SOS,827189,1712
+2020-01-01,contributivo,Salud Mía,29945,43
+2020-01-01,contributivo,Salud Total,3257266,4661
+2020-01-01,contributivo,Saludvida,0,1
+2020-01-01,contributivo,Sanitas,3309514,3094
+2020-01-01,contributivo,Sura,3722315,3280
+2020-01-01,subsidiado,AIC,529303,141
+2020-01-01,subsidiado,Ambuq,777081,527
+2020-01-01,subsidiado,Anas Wayuu,203185,11
+2020-01-01,subsidiado,Asmet Salud,1880987,1356
+2020-01-01,subsidiado,CCF La Guajira,242256,54
+2020-01-01,subsidiado,Cajacopi,1137539,1028
+2020-01-01,subsidiado,Capital Salud,1104431,3136
+2020-01-01,subsidiado,Capresoca,172147,73
+2020-01-01,subsidiado,Comfachocó,176545,45
+2020-01-01,subsidiado,Comfacundi,186707,320
+2020-01-01,subsidiado,Comfamiliar Cartagena,139553,41
+2020-01-01,subsidiado,Comfamiliar Huila,562598,742
+2020-01-01,subsidiado,Comfamiliar Nariño,184384,52
+2020-01-01,subsidiado,Comfaoriente,179474,72
+2020-01-01,subsidiado,Comparta,1547838,1054
+2020-01-01,subsidiado,Convida,527577,682
+2020-01-01,subsidiado,Coosalud,2509266,1515
+2020-01-01,subsidiado,Dusakawi,232737,14
+2020-01-01,subsidiado,Ecoopsos,324278,364
+2020-01-01,subsidiado,Emssanar,1911605,1320
+2020-01-01,subsidiado,Familiar de Colombia,114131,49
+2020-01-01,subsidiado,Mallamas,330073,71
+2020-01-01,subsidiado,Medimás,981592,2063
+2020-01-01,subsidiado,Mutual Ser,2071614,594
+2020-01-01,subsidiado,Nueva EPS,1947405,1546
+2020-01-01,subsidiado,Pijaos Salud,91109,36
+2020-01-01,subsidiado,Saludvida,0,5
+2020-01-01,subsidiado,Savia Salud,1659515,1609
+2020-02-01,contributivo,Aliansalud,238128,286
+2020-02-01,contributivo,Comfenalco Valle,241406,435
+2020-02-01,contributivo,Compensar,1720148,2936
+2020-02-01,contributivo,Coomeva,1668619,6893
+2020-02-01,contributivo,Coosalud,25286,84
+2020-02-01,contributivo,Famisanar,2355100,4492
+2020-02-01,contributivo,Medimás,2022943,8318
+2020-02-01,contributivo,Nueva EPS,4367476,8535
+2020-02-01,contributivo,SOS,846350,2161
+2020-02-01,contributivo,Salud Mía,31574,44
+2020-02-01,contributivo,Salud Total,3377540,5437
+2020-02-01,contributivo,Sanitas,3394358,3822
+2020-02-01,contributivo,Sura,3801874,3482
+2020-02-01,subsidiado,AIC,529860,142
+2020-02-01,subsidiado,Ambuq,773539,566
+2020-02-01,subsidiado,Anas Wayuu,204261,11
+2020-02-01,subsidiado,Asmet Salud,1882059,1737
+2020-02-01,subsidiado,CCF La Guajira,242759,52
+2020-02-01,subsidiado,Cajacopi,1136321,1243
+2020-02-01,subsidiado,Capital Salud,1106001,3401
+2020-02-01,subsidiado,Capresoca,171908,50
+2020-02-01,subsidiado,Comfachocó,176536,77
+2020-02-01,subsidiado,Comfacundi,185369,380
+2020-02-01,subsidiado,Comfamiliar Cartagena,138139,62
+2020-02-01,subsidiado,Comfamiliar Huila,562366,846
+2020-02-01,subsidiado,Comfamiliar Nariño,184477,95
+2020-02-01,subsidiado,Comfaoriente,181793,77
+2020-02-01,subsidiado,Comparta,1543658,1253
+2020-02-01,subsidiado,Convida,524794,973
+2020-02-01,subsidiado,Coosalud,2515669,1726
+2020-02-01,subsidiado,Dusakawi,233614,17
+2020-02-01,subsidiado,Ecoopsos,324793,461
+2020-02-01,subsidiado,Emssanar,1910904,1497
+2020-02-01,subsidiado,Familiar de Colombia,113830,93
+2020-02-01,subsidiado,Mallamas,330704,84
+2020-02-01,subsidiado,Medimás,978009,2224
+2020-02-01,subsidiado,Mutual Ser,2076090,721
+2020-02-01,subsidiado,Nueva EPS,1960000,1943
+2020-02-01,subsidiado,Pijaos Salud,92272,28
+2020-02-01,subsidiado,Savia Salud,1680084,2118
+2020-03-01,contributivo,Aliansalud,236941,368
+2020-03-01,contributivo,Comfenalco Valle,242563,391
+2020-03-01,contributivo,Compensar,1744180,2760
+2020-03-01,contributivo,Coomeva,1667312,5979
+2020-03-01,contributivo,Coosalud,25954,58
+2020-03-01,contributivo,Famisanar,2418989,4111
+2020-03-01,contributivo,Medimás,1986990,7731
+2020-03-01,contributivo,Nueva EPS,4477315,9039
+2020-03-01,contributivo,SOS,842520,2068
+2020-03-01,contributivo,Salud Mía,32525,38
+2020-03-01,contributivo,Salud Total,3417603,4905
+2020-03-01,contributivo,Sanitas,3467462,4016
+2020-03-01,contributivo,Sura,3840965,3517
+2020-03-01,subsidiado,AIC,530870,109
+2020-03-01,subsidiado,Ambuq,769413,496
+2020-03-01,subsidiado,Anas Wayuu,205149,23
+2020-03-01,subsidiado,Asmet Salud,1880954,1231
+2020-03-01,subsidiado,CCF La Guajira,243179,83
+2020-03-01,subsidiado,Cajacopi,1134803,1012
+2020-03-01,subsidiado,Capital Salud,1107342,2640
+2020-03-01,subsidiado,Capresoca,171558,87
+2020-03-01,subsidiado,Comfachocó,176200,58
+2020-03-01,subsidiado,Comfacundi,183237,323
+2020-03-01,subsidiado,Comfamiliar Cartagena,136438,68
+2020-03-01,subsidiado,Comfamiliar Huila,560438,486
+2020-03-01,subsidiado,Comfamiliar Nariño,184169,82
+2020-03-01,subsidiado,Comfaoriente,182061,66
+2020-03-01,subsidiado,Comparta,1539096,1130
+2020-03-01,subsidiado,Convida,521377,1302
+2020-03-01,subsidiado,Coosalud,2519330,1589
+2020-03-01,subsidiado,Dusakawi,233911,15
+2020-03-01,subsidiado,Ecoopsos,324752,397
+2020-03-01,subsidiado,Emssanar,1908312,1569
+2020-03-01,subsidiado,Familiar de Colombia,113584,64
+2020-03-01,subsidiado,Mallamas,326291,53
+2020-03-01,subsidiado,Medimás,972834,1651
+2020-03-01,subsidiado,Mutual Ser,2080073,672
+2020-03-01,subsidiado,Nueva EPS,1991138,1663
+2020-03-01,subsidiado,Pijaos Salud,93053,32
+2020-03-01,subsidiado,Savia Salud,1675366,1964
+2020-04-01,contributivo,Aliansalud,236763,524
+2020-04-01,contributivo,Comfenalco Valle,240791,354
+2020-04-01,contributivo,Compensar,1742072,2969
+2020-04-01,contributivo,Coomeva,1627505,4797
+2020-04-01,contributivo,Coosalud,26608,37
+2020-04-01,contributivo,Famisanar,2405351,3407
+2020-04-01,contributivo,Medimás,1950178,6949
+2020-04-01,contributivo,Nueva EPS,4523637,11106
+2020-04-01,contributivo,SOS,840694,1983
+2020-04-01,contributivo,Salud Mía,32596,47
+2020-04-01,contributivo,Salud Total,3381026,3795
+2020-04-01,contributivo,Sanitas,3466794,3961
+2020-04-01,contributivo,Sura,3846668,3707
+2020-04-01,subsidiado,AIC,531787,67
+2020-04-01,subsidiado,Ambuq,771046,302
+2020-04-01,subsidiado,Anas Wayuu,205577,8
+2020-04-01,subsidiado,Asmet Salud,1883730,728
+2020-04-01,subsidiado,CCF La Guajira,243321,39
+2020-04-01,subsidiado,Cajacopi,1132777,677
+2020-04-01,subsidiado,Capital Salud,1116767,1536
+2020-04-01,subsidiado,Capresoca,171428,38
+2020-04-01,subsidiado,Comfachocó,175933,32
+2020-04-01,subsidiado,Comfacundi,181477,187
+2020-04-01,subsidiado,Comfamiliar Cartagena,137693,33
+2020-04-01,subsidiado,Comfamiliar Huila,559520,208
+2020-04-01,subsidiado,Comfamiliar Nariño,184165,37
+2020-04-01,subsidiado,Comfaoriente,182395,42
+2020-04-01,subsidiado,Comparta,1538331,761
+2020-04-01,subsidiado,Convida,519798,575
+2020-04-01,subsidiado,Coodsalud,2525402,998
+2020-04-01,subsidiado,Dusakawi,234407,11
+2020-04-01,subsidiado,Ecoopsos,325287,259
+2020-04-01,subsidiado,Emssanar,1907479,1052
+2020-04-01,subsidiado,Familiar de Colombia,113426,23
+2020-04-01,subsidiado,Mallamas,326217,45
+2020-04-01,subsidiado,Medimás,969026,1011
+2020-04-01,subsidiado,Mutual Ser,2079891,515
+2020-04-01,subsidiado,Nueva EPS,2014190,1147
+2020-04-01,subsidiado,Pijaos Salud,93458,24
+2020-04-01,subsidiado,Savia Salud,1694764,1356
+2020-05-01,contributivo,Aliansalud,235882,317
+2020-05-01,contributivo,Comfenalco Valle,240546,460
+2020-05-01,contributivo,Compensar,1757458,2805
+2020-05-01,contributivo,Coomeva,1613420,4853
+2020-05-01,contributivo,Coosalud,27231,31
+2020-05-01,contributivo,Famisanar,2472984,3467
+2020-05-01,contributivo,Medimás,1647439,6660
+2020-05-01,contributivo,Nueva EPS,4576513,11228
+2020-05-01,contributivo,SOS,840780,1803
+2020-05-01,contributivo,Salud Mía,33191,26
+2020-05-01,contributivo,Salud Total,3401075,4456
+2020-05-01,contributivo,Sanitas,3517353,3814
+2020-05-01,contributivo,Sura,3857599,3447
+2020-05-01,subsidiado,AIC,532734,74
+2020-05-01,subsidiado,Ambuq,771081,314
+2020-05-01,subsidiado,Anas Wayuu,205992,15
+2020-05-01,subsidiado,Asmet Salud,1886302,685
+2020-05-01,subsidiado,CCF La Guajira,243627,43
+2020-05-01,subsidiado,Cajacopi,1153982,933
+2020-05-01,subsidiado,Capital Salud,1131072,1631
+2020-05-01,subsidiado,Capresoca,171349,32
+2020-05-01,subsidiado,Comfachocó,175811,67
+2020-05-01,subsidiado,Comfacundi,180157,209
+2020-05-01,subsidiado,Comfamiliar Cartagena,138342,52
+2020-05-01,subsidiado,Comfamiliar Huila,558555,228
+2020-05-01,subsidiado,Comfamiliar Nariño,184072,60
+2020-05-01,subsidiado,Comfaoriente,182880,67
+2020-05-01,subsidiado,Comparta,1539167,635
+2020-05-01,subsidiado,Convida,520301,521
+2020-05-01,subsidiado,Coodsalud,2574925,1010
+2020-05-01,subsidiado,Dusakawi,234857,23
+2020-05-01,subsidiado,Ecoopsos,325788,309
+2020-05-01,subsidiado,Emssanar,1909473,1144
+2020-05-01,subsidiado,Familiar de Colombia,113553,41
+2020-05-01,subsidiado,Mallamas,326137,40
+2020-05-01,subsidiado,Medimás,929562,1139
+2020-05-01,subsidiado,Mutual Ser,2096506,594
+2020-05-01,subsidiado,Nueva EPS,2052601,1225
+2020-05-01,subsidiado,Pijaos Salud,93720,24
+2020-05-01,subsidiado,Savia Salud,1699546,1456
+2020-06-01,contributivo,Aliansalud,236419,280
+2020-06-01,contributivo,Comfenalco Valle,240320,524
+2020-06-01,contributivo,Compensar,1769517,3007
+2020-06-01,contributivo,Coomeva,1599774,4553
+2020-06-01,contributivo,Coosalud,27748,73
+2020-06-01,contributivo,Famisanar,2486885,4187
+2020-06-01,contributivo,Medimás,1619216,4588
+2020-06-01,contributivo,Mutual Ser,16210,80
+2020-06-01,contributivo,Nueva EPS,4625386,10915
+2020-06-01,contributivo,SOS,843370,1623
+2020-06-01,contributivo,Salud Mía,33886,23
+2020-06-01,contributivo,Salud Total,3439820,6839
+2020-06-01,contributivo,Sanitas,3540254,4747
+2020-06-01,contributivo,Sura,3887288,4209
+2020-06-01,subsidiado,AIC,533729,72
+2020-06-01,subsidiado,Ambuq,770617,358
+2020-06-01,subsidiado,Anas Wayuu,206455,18
+2020-06-01,subsidiado,Asmet Salud,1889354,667
+2020-06-01,subsidiado,CCF La Guajira,244746,34
+2020-06-01,subsidiado,Cajacopi,1149581,1162
+2020-06-01,subsidiado,Capital Salud,1134095,1737
+2020-06-01,subsidiado,Capresoca,171364,36
+2020-06-01,subsidiado,Comfachocó,175486,43
+2020-06-01,subsidiado,Comfacundi,178627,213
+2020-06-01,subsidiado,Comfamiliar Cartagena,138473,55
+2020-06-01,subsidiado,Comfamiliar Huila,558372,236
+2020-06-01,subsidiado,Comfamiliar Nariño,182909,77
+2020-06-01,subsidiado,Comfaoriente,183038,66
+2020-06-01,subsidiado,Comparta,1535992,638
+2020-06-01,subsidiado,Convida,519988,548
+2020-06-01,subsidiado,Coosalud,2578227,1259
+2020-06-01,subsidiado,Dusakawi,235504,15
+2020-06-01,subsidiado,Ecoopsos,326656,280
+2020-06-01,subsidiado,Emssanar,1912639,1277
+2020-06-01,subsidiado,Familiar de Colombia,116648,43
+2020-06-01,subsidiado,Mallamas,326292,39
+2020-06-01,subsidiado,Medimás,927438,977
+2020-06-01,subsidiado,Mutual Ser,2095934,824
+2020-06-01,subsidiado,Nueva EPS,2077020,1275
+2020-06-01,subsidiado,Pijaos Salud,94132,32
+2020-06-01,subsidiado,Savia Salud,1697724,1824
+2020-07-01,contributivo,Aliansalud,232021,404
+2020-07-01,contributivo,Comfenalco Valle,239659,776
+2020-07-01,contributivo,Compensar,1740807,5670
+2020-07-01,contributivo,Coomeva,1577253,5555
+2020-07-01,contributivo,Coosalud,27659,95
+2020-07-01,contributivo,Famisanar,2498208,6596
+2020-07-01,contributivo,Medimás,1596865,5073
+2020-07-01,contributivo,Mutual Ser,16592,100
+2020-07-01,contributivo,Nueva EPS,4588971,13306
+2020-07-01,contributivo,SOS,832125,2292
+2020-07-01,contributivo,Salud Mía,34553,24
+2020-07-01,contributivo,Salud Total,3429715,10704
+2020-07-01,contributivo,Sanitas,3498357,7703
+2020-07-01,contributivo,Sura,3888244,6800
+2020-07-01,subsidiado,AIC,535113,96
+2020-07-01,subsidiado,Ambuq,770340,505
+2020-07-01,subsidiado,Anas Wayuu,207013,20
+2020-07-01,subsidiado,Asmet Salud,1893726,778
+2020-07-01,subsidiado,CCF La Guajira,246092,46
+2020-07-01,subsidiado,Cajacopi,1147715,1543
+2020-07-01,subsidiado,Capital Salud,1138964,2560
+2020-07-01,subsidiado,Capresoca,171719,65
+2020-07-01,subsidiado,Comfachocó,175292,50
+2020-07-01,subsidiado,Comfacundi,177487,315
+2020-07-01,subsidiado,Comfamiliar Cartagena,137909,64
+2020-07-01,subsidiado,Comfamiliar Huila,558509,297
+2020-07-01,subsidiado,Comfamiliar Nariño,182339,105
+2020-07-01,subsidiado,Comfaoriente,183256,114
+2020-07-01,subsidiado,Comparta,1535653,855
+2020-07-01,subsidiado,Convida,519534,463
+2020-07-01,subsidiado,Coosalud,2579579,1541
+2020-07-01,subsidiado,Dusakawi,236265,12
+2020-07-01,subsidiado,Ecoopsos,327992,302
+2020-07-01,subsidiado,Emssanar,1915236,1756
+2020-07-01,subsidiado,Familiar de Colombia,116267,63
+2020-07-01,subsidiado,Mallamas,327506,64
+2020-07-01,subsidiado,Medimás,925952,1044
+2020-07-01,subsidiado,Mutual Ser,2095708,1296
+2020-07-01,subsidiado,Nueva EPS,2096543,1457
+2020-07-01,subsidiado,Pijaos Salud,94417,19
+2020-07-01,subsidiado,Savia Salud,1695945,1777
+2020-08-01,contributivo,Aliansalud,237336,385
+2020-08-01,contributivo,Comfenalco Valle,241146,713
+2020-08-01,contributivo,Compensar,1805310,4749
+2020-08-01,contributivo,Coomeva,1576879,5268
+2020-08-01,contributivo,Coosalud,27247,59
+2020-08-01,contributivo,Famisanar,2542133,5881
+2020-08-01,contributivo,Medimás,1583401,4882
+2020-08-01,contributivo,Mutual Ser,17046,48
+2020-08-01,contributivo,Nueva EPS,4700951,12565
+2020-08-01,contributivo,SOS,842961,2206
+2020-08-01,contributivo,Salud Mía,35819,34
+2020-08-01,contributivo,Salud Total,3563069,7904
+2020-08-01,contributivo,Sanitas,3601002,6700
+2020-08-01,contributivo,Sura,3994460,4866
+2020-08-01,subsidiado,AIC,536044,98
+2020-08-01,subsidiado,Ambuq,769488,365
+2020-08-01,subsidiado,Anas Wayuu,207581,71
+2020-08-01,subsidiado,Asmet Salud,1895871,989
+2020-08-01,subsidiado,CCF La Guajira,246559,83
+2020-08-01,subsidiado,Cajacopi,1145631,1234
+2020-08-01,subsidiado,Capital Salud,1141184,2676
+2020-08-01,subsidiado,Capresoca,171506,56
+2020-08-01,subsidiado,Comfachocó,175098,49
+2020-08-01,subsidiado,Comfacundi,175961,261
+2020-08-01,subsidiado,Comfamiliar Cartagena,137067,45
+2020-08-01,subsidiado,Comfamiliar Huila,558057,300
+2020-08-01,subsidiado,Comfamiliar Nariño,181879,91
+2020-08-01,subsidiado,Comfaoriente,183366,101
+2020-08-01,subsidiado,Comparta,1532772,866
+2020-08-01,subsidiado,Convida,519006,425
+2020-08-01,subsidiado,Coosalud,2579404,1332
+2020-08-01,subsidiado,Dusakawi,236934,53
+2020-08-01,subsidiado,Ecoopsos,328809,321
+2020-08-01,subsidiado,Emssanar,1915987,1809
+2020-08-01,subsidiado,Familiar de Colombia,116205,66
+2020-08-01,subsidiado,Mallamas,328006,43
+2020-08-01,subsidiado,Medimás,922394,1105
+2020-08-01,subsidiado,Mutual Ser,2097177,738
+2020-08-01,subsidiado,Nueva EPS,2117453,1351
+2020-08-01,subsidiado,Pijaos Salud,93831,17
+2020-08-01,subsidiado,Savia Salud,1692116,1651
+2020-09-01,contributivo,Aliansalud,237505,304
+2020-09-01,contributivo,Comfenalco Valle,243541,584
+2020-09-01,contributivo,Compensar,1831673,3125
+2020-09-01,contributivo,Coomeva,1564561,4997
+2020-09-01,contributivo,Coosalud,27669,60
+2020-09-01,contributivo,Famisanar,2559639,4301
+2020-09-01,contributivo,Medimás,1560765,4923
+2020-09-01,contributivo,Mutual Ser,17997,55
+2020-09-01,contributivo,Nueva EPS,4717084,9414
+2020-09-01,contributivo,SOS,846160,2784
+2020-09-01,contributivo,Salud Mía,36444,25
+2020-09-01,contributivo,Salud Total,3609367,5612
+2020-09-01,contributivo,Sanitas,3685552,4699
+2020-09-01,contributivo,Sura,4026079,4518
+2020-09-01,subsidiado,AIC,536061,63
+2020-09-01,subsidiado,Ambuq,770126,385
+2020-09-01,subsidiado,Anas Wayuu,208319,24
+2020-09-01,subsidiado,Asmet Salud,1898846,1019
+2020-09-01,subsidiado,CCF La Guajira,247460,56
+2020-09-01,subsidiado,Cajacopi,1143320,1026
+2020-09-01,subsidiado,Capital Salud,1157677,2812
+2020-09-01,subsidiado,Capresoca,172210,50
+2020-09-01,subsidiado,Comfachocó,175025,49
+2020-09-01,subsidiado,Comfacundi,174449,251
+2020-09-01,subsidiado,Comfamiliar Cartagena,136154,58
+2020-09-01,subsidiado,Comfamiliar Huila,557484,325
+2020-09-01,subsidiado,Comfamiliar Nariño,181359,144
+2020-09-01,subsidiado,Comfaoriente,183444,107
+2020-09-01,subsidiado,Comparta,1531106,710
+2020-09-01,subsidiado,Convida,518254,391
+2020-09-01,subsidiado,Coosalud,2580445,1386
+2020-09-01,subsidiado,Dusakawi,238367,22
+2020-09-01,subsidiado,Ecoopsos,329251,331
+2020-09-01,subsidiado,Emssanar,1918131,2072
+2020-09-01,subsidiado,Familiar de Colombia,116540,50
+2020-09-01,subsidiado,Mallamas,329552,47
+2020-09-01,subsidiado,Medimás,920444,1242
+2020-09-01,subsidiado,Mutual Ser,2101531,665
+2020-09-01,subsidiado,Nueva EPS,2137615,1321
+2020-09-01,subsidiado,Pijaos Salud,93869,12
+2020-09-01,subsidiado,Savia Salud,1688959,1669
+2020-10-01,contributivo,Aliansalud,236499,334
+2020-10-01,contributivo,Comfenalco Valle,243741,507
+2020-10-01,contributivo,Compensar,1841659,3389
+2020-10-01,contributivo,Coomeva,1547755,5172
+2020-10-01,contributivo,Coosalud,51766,47
+2020-10-01,contributivo,Famisanar,2564997,4931
+2020-10-01,contributivo,Medimás,1543891,5340
+2020-10-01,contributivo,Mutual Ser,18394,58
+2020-10-01,contributivo,Nueva EPS,4732116,10294
+2020-10-01,contributivo,SOS,844615,3027
+2020-10-01,contributivo,Salud Mía,37050,44
+2020-10-01,contributivo,Salud Total,3641857,6218
+2020-10-01,contributivo,Sanitas,3730979,5434
+2020-10-01,contributivo,Sura,4059803,5547
+2020-10-01,subsidiado,AIC,536961,102
+2020-10-01,subsidiado,Ambuq,770407,428
+2020-10-01,subsidiado,Anas Wayuu,209427,30
+2020-10-01,subsidiado,Asmet Salud,1903761,1142
+2020-10-01,subsidiado,CCF La Guajira,248229,51
+2020-10-01,subsidiado,Cajacopi,1138786,1194
+2020-10-01,subsidiado,Capital Salud,1162697,2929
+2020-10-01,subsidiado,Capresoca,172329,95
+2020-10-01,subsidiado,Comfachocó,174999,53
+2020-10-01,subsidiado,Comfacundi,172618,263
+2020-10-01,subsidiado,Comfamiliar Cartagena,135295,64
+2020-10-01,subsidiado,Comfamiliar Huila,555512,400
+2020-10-01,subsidiado,Comfamiliar Nariño,180495,142
+2020-10-01,subsidiado,Comfaoriente,183436,54
+2020-10-01,subsidiado,Comparta,1529198,754
+2020-10-01,subsidiado,Convida,516909,416
+2020-10-01,subsidiado,Coosalud,2555072,1382
+2020-10-01,subsidiado,Dusakawi,239909,22
+2020-10-01,subsidiado,Ecoopsos,329640,325
+2020-10-01,subsidiado,Emssanar,1919703,2384
+2020-10-01,subsidiado,Familiar de Colombia,117375,40
+2020-10-01,subsidiado,Mallamas,330266,104
+2020-10-01,subsidiado,Medimás,916314,1509
+2020-10-01,subsidiado,Mutual Ser,2105984,715
+2020-10-01,subsidiado,Nueva EPS,2159256,1444
+2020-10-01,subsidiado,Pijaos Salud,94284,33
+2020-10-01,subsidiado,Savia Salud,1687919,1829
+2020-11-01,contributivo,Aliansalud,246650,346
+2020-11-01,contributivo,Comfenalco Valle,257429,510
+2020-11-01,contributivo,Compensar,1903359,3545
+2020-11-01,contributivo,Coomeva,1522557,4624
+2020-11-01,contributivo,Coosalud,52179,69
+2020-11-01,contributivo,Famisanar,2635675,4682
+2020-11-01,contributivo,Medimás,1036048,5156
+2020-11-01,contributivo,Mutual Ser,19014,56
+2020-11-01,contributivo,Nueva EPS,5072740,9560
+2020-11-01,contributivo,SOS,841848,2979
+2020-11-01,contributivo,Salud Mía,44084,35
+2020-11-01,contributivo,Salud Total,3746045,5682
+2020-11-01,contributivo,Sanitas,3896642,5393
+2020-11-01,contributivo,Sura,4196742,4838
+2020-11-01,subsidiado,AIC,537827,85
+2020-11-01,subsidiado,Ambuq,771348,441
+2020-11-01,subsidiado,Anas Wayuu,210472,23
+2020-11-01,subsidiado,Asmet Salud,1906559,1058
+2020-11-01,subsidiado,CCF La Guajira,249150,57
+2020-11-01,subsidiado,Cajacopi,1151239,1100
+2020-11-01,subsidiado,Capital Salud,1166519,3011
+2020-11-01,subsidiado,Capresoca,172669,91
+2020-11-01,subsidiado,Comfachocó,175030,58
+2020-11-01,subsidiado,Comfamiliar Huila,554927,384
+2020-11-01,subsidiado,Comfamiliar Nariño,179281,120
+2020-11-01,subsidiado,Comfaoriente,183571,72
+2020-11-01,subsidiado,Comparta,1533965,734
+2020-11-01,subsidiado,Convida,516293,460
+2020-11-01,subsidiado,Coosalud,2721759,1318
+2020-11-01,subsidiado,Dusakawi,241387,16
+2020-11-01,subsidiado,Ecoopsos,330482,374
+2020-11-01,subsidiado,Emssanar,1921694,2234
+2020-11-01,subsidiado,Familiar de Colombia,117494,45
+2020-11-01,subsidiado,Mallamas,331056,56
+2020-11-01,subsidiado,Medimás,677661,1460
+2020-11-01,subsidiado,Mutual Ser,2142459,742
+2020-11-01,subsidiado,Nueva EPS,2230505,1493
+2020-11-01,subsidiado,Pijaos Salud,94425,15
+2020-11-01,subsidiado,Savia Salud,1688394,1796
+2020-12-01,contributivo,Aliansalud,246852,414
+2020-12-01,contributivo,Comfenalco Valle,257538,570
+2020-12-01,contributivo,Compensar,1910889,3867
+2020-12-01,contributivo,Coomeva,1514594,4677
+2020-12-01,contributivo,Coosalud,52337,79
+2020-12-01,contributivo,Famisanar,2626608,4818
+2020-12-01,contributivo,Medimás,1025734,3557
+2020-12-01,contributivo,Mutual Ser,19358,37
+2020-12-01,contributivo,Nueva EPS,5091265,10324
+2020-12-01,contributivo,SOS,839726,2744
+2020-12-01,contributivo,Salud Mía,44421,32
+2020-12-01,contributivo,Salud Total,3719669,5676
+2020-12-01,contributivo,Sanitas,3923514,6036
+2020-12-01,contributivo,Sura,4222142,5005
+2020-12-01,subsidiado,AIC,538636,94
+2020-12-01,subsidiado,Ambuq,771557,399
+2020-12-01,subsidiado,Anas Wayuu,211890,29
+2020-12-01,subsidiado,Asmet Salud,1910642,949
+2020-12-01,subsidiado,CCF La Guajira,250747,53
+2020-12-01,subsidiado,Cajacopi,1150734,962
+2020-12-01,subsidiado,Capital Salud,1167080,2448
+2020-12-01,subsidiado,Capresoca,172940,98
+2020-12-01,subsidiado,Comfachocó,175238,50
+2020-12-01,subsidiado,Comfamiliar Huila,554155,363
+2020-12-01,subsidiado,Comfamiliar Nariño,177165,100
+2020-12-01,subsidiado,Comfaoriente,183940,62
+2020-12-01,subsidiado,Comparta,1534353,643
+2020-12-01,subsidiado,Convida,515533,463
+2020-12-01,subsidiado,Coosalud,2730725,1532
+2020-12-01,subsidiado,Dusakawi,243304,21
+2020-12-01,subsidiado,Ecoopsos,331029,380
+2020-12-01,subsidiado,Emssanar,1927917,2100
+2020-12-01,subsidiado,Familiar de Colombia,118107,53
+2020-12-01,subsidiado,Mallamas,331965,38
+2020-12-01,subsidiado,Medimás,674473,1148
+2020-12-01,subsidiado,Mutual Ser,2145404,671
+2020-12-01,subsidiado,Nueva EPS,2255474,1560
+2020-12-01,subsidiado,Pijaos Salud,95066,41
+2020-12-01,subsidiado,Savia Salud,1681145,1670
+2021-01-01,contributivo,Aliansalud,246721,364
+2021-01-01,contributivo,Comfenalco Valle,253967,540
+2021-01-01,contributivo,Compensar,1905692,4229
+2021-01-01,contributivo,Coomeva,1484408,4460
+2021-01-01,contributivo,Coosalud,52519,67
+2021-01-01,contributivo,Famisanar,2617573,4974
+2021-01-01,contributivo,Medimás,1016856,3400
+2021-01-01,contributivo,Mutual Ser,19757,44
+2021-01-01,contributivo,Nueva EPS,5088472,12497
+2021-01-01,contributivo,SOS,840618,2917
+2021-01-01,contributivo,Salud Mía,44162,40
+2021-01-01,contributivo,Salud Total,3715502,6072
+2021-01-01,contributivo,Sanitas,3938424,6126
+2021-01-01,contributivo,Sura,4249426,5177
+2021-01-01,subsidiado,AIC,539116,113
+2021-01-01,subsidiado,Ambuq,771186,432
+2021-01-01,subsidiado,Anas Wayuu,212845,18
+2021-01-01,subsidiado,Asmet Salud,1913989,1079
+2021-01-01,subsidiado,CCF La Guajira,251279,37
+2021-01-01,subsidiado,Cajacopi,1149505,1056
+2021-01-01,subsidiado,Capital Salud,1165088,2180
+2021-01-01,subsidiado,Capresoca,173329,106
+2021-01-01,subsidiado,Comfachocó,175257,64
+2021-01-01,subsidiado,Comfamiliar Huila,554007,373
+2021-01-01,subsidiado,Comfamiliar Nariño,176696,87
+2021-01-01,subsidiado,Comfaoriente,184220,64
+2021-01-01,subsidiado,Comparta,1532891,620
+2021-01-01,subsidiado,Convida,515306,456
+2021-01-01,subsidiado,Coosalud,2732436,1455
+2021-01-01,subsidiado,Dusakawi,244108,22
+2021-01-01,subsidiado,Ecoopsos,330903,349
+2021-01-01,subsidiado,Emssanar,1928439,2221
+2021-01-01,subsidiado,Familiar de Colombia,118070,38
+2021-01-01,subsidiado,Mallamas,332345,54
+2021-01-01,subsidiado,Medimás,671680,1153
+2021-01-01,subsidiado,Mutual Ser,2145501,686
+2021-01-01,subsidiado,Nueva EPS,2266213,1364
+2021-01-01,subsidiado,Pijaos Salud,95753,22
+2021-01-01,subsidiado,Savia Salud,1676082,1932
+2021-02-01,contributivo,Aliansalud,245603,377
+2021-02-01,contributivo,Comfenalco Valle,262777,1003
+2021-02-01,contributivo,Compensar,1916664,3848
+2021-02-01,contributivo,Coomeva,1474589,4392
+2021-02-01,contributivo,Coosalud,52355,94
+2021-02-01,contributivo,Famisanar,2624849,6291
+2021-02-01,contributivo,Medimás,1008056,3500
+2021-02-01,contributivo,Mutual Ser,20816,49
+2021-02-01,contributivo,Nueva EPS,5117459,11713
+2021-02-01,contributivo,SOS,838589,2571
+2021-02-01,contributivo,Salud Mía,44577,31
+2021-02-01,contributivo,Salud Total,3743715,7659
+2021-02-01,contributivo,Sanitas,3985849,5403
+2021-02-01,contributivo,Sura,4289768,5393
+2021-02-01,subsidiado,AIC,539669,103
+2021-02-01,subsidiado,Ambuq,769492,1304
+2021-02-01,subsidiado,Anas Wayuu,214127,42
+2021-02-01,subsidiado,Asmet Salud,1917425,1324
+2021-02-01,subsidiado,CCF La Guajira,252754,46
+2021-02-01,subsidiado,Cajacopi,1148791,1358
+2021-02-01,subsidiado,Capital Salud,1166669,2659
+2021-02-01,subsidiado,Capresoca,173457,84
+2021-02-01,subsidiado,Comfachocó,175530,88
+2021-02-01,subsidiado,Comfamiliar Huila,553201,378
+2021-02-01,subsidiado,Comfamiliar Nariño,176248,62
+2021-02-01,subsidiado,Comfaoriente,184486,71
+2021-02-01,subsidiado,Comparta,1531500,757
+2021-02-01,subsidiado,Convida,513177,523
+2021-02-01,subsidiado,Coosalud,2734408,1704
+2021-02-01,subsidiado,Dusakawi,245453,22
+2021-02-01,subsidiado,Ecoopsos,330984,369
+2021-02-01,subsidiado,Emssanar,1930830,2630
+2021-02-01,subsidiado,Familiar de Colombia,118167,41
+2021-02-01,subsidiado,Mallamas,333132,59
+2021-02-01,subsidiado,Medimás,669021,1466
+2021-02-01,subsidiado,Mutual Ser,2152127,854
+2021-02-01,subsidiado,Nueva EPS,2280420,1655
+2021-02-01,subsidiado,Pijaos Salud,96191,16
+2021-02-01,subsidiado,Savia Salud,1678872,2121
+2021-03-01,contributivo,Aliansalud,245819,405
+2021-03-01,contributivo,Comfenalco Valle,262102,609
+2021-03-01,contributivo,Compensar,1932047,4120
+2021-03-01,contributivo,Coomeva,1463566,5144
+2021-03-01,contributivo,Coosalud,52043,92
+2021-03-01,contributivo,Famisanar,2626483,4988
+2021-03-01,contributivo,Medimás,995265,3797
+2021-03-01,contributivo,Mutual Ser,21891,58
+2021-03-01,contributivo,Nueva EPS,5142063,12547
+2021-03-01,contributivo,SOS,836349,2652
+2021-03-01,contributivo,Salud Mía,44913,43
+2021-03-01,contributivo,Salud Total,3781041,7472
+2021-03-01,contributivo,Sanitas,4040343,6046
+2021-03-01,contributivo,Sura,4321214,6567
+2021-03-01,subsidiado,AIC,539681,103
+2021-03-01,subsidiado,Ambuq,768420,2111
+2021-03-01,subsidiado,Anas Wayuu,214913,56
+2021-03-01,subsidiado,Asmet Salud,1919948,1494
+2021-03-01,subsidiado,CCF La Guajira,252964,71
+2021-03-01,subsidiado,Cajacopi,1143989,1595
+2021-03-01,subsidiado,Capital Salud,1165886,3200
+2021-03-01,subsidiado,Capresoca,173505,98
+2021-03-01,subsidiado,Comfachocó,175654,87
+2021-03-01,subsidiado,Comfamiliar Huila,554137,510
+2021-03-01,subsidiado,Comfamiliar Nariño,175780,89
+2021-03-01,subsidiado,Comfaoriente,184732,92
+2021-03-01,subsidiado,Comparta,1527901,946
+2021-03-01,subsidiado,Convida,510803,544
+2021-03-01,subsidiado,Coosalud,2732452,2028
+2021-03-01,subsidiado,Dusakawi,246350,16
+2021-03-01,subsidiado,Ecoopsos,330310,455
+2021-03-01,subsidiado,Emssanar,1931426,2910
+2021-03-01,subsidiado,Familiar de Colombia,118692,70
+2021-03-01,subsidiado,Mallamas,333760,57
+2021-03-01,subsidiado,Medimás,665703,1589
+2021-03-01,subsidiado,Mutual Ser,2153431,1012
+2021-03-01,subsidiado,Nueva EPS,2296405,1880
+2021-03-01,subsidiado,Pijaos Salud,96627,32
+2021-03-01,subsidiado,Savia Salud,1675462,2451
+2021-04-01,contributivo,Aliansalud,245452,396
+2021-04-01,contributivo,Comfenalco Valle,263474,685
+2021-04-01,contributivo,Compensar,1944169,4276
+2021-04-01,contributivo,Coomeva,1443637,5137
+2021-04-01,contributivo,Coosalud,52763,100
+2021-04-01,contributivo,Famisanar,2668625,5087
+2021-04-01,contributivo,Medimás,979566,3635
+2021-04-01,contributivo,Mutual Ser,24032,63
+2021-04-01,contributivo,Nueva EPS,5276407,11641
+2021-04-01,contributivo,SOS,833257,2588
+2021-04-01,contributivo,Salud Mía,45150,40
+2021-04-01,contributivo,Salud Total,3877590,7089
+2021-04-01,contributivo,Sanitas,4101541,6501
+2021-04-01,contributivo,Sura,4378322,5871
+2021-04-01,subsidiado,AIC,540896,111
+2021-04-01,subsidiado,Ambuq,0,2220
+2021-04-01,subsidiado,Anas Wayuu,216112,59
+2021-04-01,subsidiado,Asmet Salud,1931485,1425
+2021-04-01,subsidiado,CCF La Guajira,253898,72
+2021-04-01,subsidiado,Cajacopi,1241601,1596
+2021-04-01,subsidiado,Capital Salud,1170357,2841
+2021-04-01,subsidiado,Capresoca,173699,98
+2021-04-01,subsidiado,Comfachocó,178142,78
+2021-04-01,subsidiado,Comfamiliar Huila,553331,498
+2021-04-01,subsidiado,Comfamiliar Nariño,174850,67
+2021-04-01,subsidiado,Comfaoriente,185088,87
+2021-04-01,subsidiado,Comparta,1525348,819
+2021-04-01,subsidiado,Convida,509601,454
+2021-04-01,subsidiado,Coosalud,2851334,1878
+2021-04-01,subsidiado,Dusakawi,247439,39
+2021-04-01,subsidiado,Ecoopsos,330925,399
+2021-04-01,subsidiado,Emssanar,1933617,2935
+2021-04-01,subsidiado,Familiar de Colombia,118741,64
+2021-04-01,subsidiado,Mallamas,334812,80
+2021-04-01,subsidiado,Medimás,662992,1420
+2021-04-01,subsidiado,Mutual Ser,2268875,952
+2021-04-01,subsidiado,Nueva EPS,2514191,1803
+2021-04-01,subsidiado,Pijaos Salud,97675,14
+2021-04-01,subsidiado,Savia Salud,1674357,1951
+2021-05-01,contributivo,Aliansalud,245606,321
+2021-05-01,contributivo,Comfenalco Valle,261849,503
+2021-05-01,contributivo,Compensar,1950456,4276
+2021-05-01,contributivo,Coomeva,1424122,5639
+2021-05-01,contributivo,Coosalud,52633,100
+2021-05-01,contributivo,Famisanar,2663739,5035
+2021-05-01,contributivo,Medimás,965717,2900
+2021-05-01,contributivo,Mutual Ser,41202,39
+2021-05-01,contributivo,Nueva EPS,5296607,10099
+2021-05-01,contributivo,SOS,830314,1815
+2021-05-01,contributivo,Salud Mía,45572,62
+2021-05-01,contributivo,Salud Total,3907138,6725
+2021-05-01,contributivo,Sanitas,4137422,6183
+2021-05-01,contributivo,Sura,4408323,5202
+2021-05-01,subsidiado,AIC,541646,81
+2021-05-01,subsidiado,Anas Wayuu,216856,67
+2021-05-01,subsidiado,Asmet Salud,1933564,1121
+2021-05-01,subsidiado,CCF La Guajira,254612,70
+2021-05-01,subsidiado,Cajacopi,1237081,1542
+2021-05-01,subsidiado,Capital Salud,1169904,2639
+2021-05-01,subsidiado,Capresoca,173857,85
+2021-05-01,subsidiado,Comfachocó,178024,85
+2021-05-01,subsidiado,Comfamiliar Huila,552623,390
+2021-05-01,subsidiado,Comfamiliar Nariño,165408,60
+2021-05-01,subsidiado,Comfaoriente,184887,86
+2021-05-01,subsidiado,Comparta,1522317,792
+2021-05-01,subsidiado,Convida,507622,437
+2021-05-01,subsidiado,Coosalud,2847118,1691
+2021-05-01,subsidiado,Dusakawi,248257,36
+2021-05-01,subsidiado,Ecoopsos,330941,398
+2021-05-01,subsidiado,Emssanar,1944024,1845
+2021-05-01,subsidiado,Familiar de Colombia,118651,75
+2021-05-01,subsidiado,Mallamas,335693,51
+2021-05-01,subsidiado,Medimás,659751,1106
+2021-05-01,subsidiado,Mutual Ser,2255075,946
+2021-05-01,subsidiado,Nueva EPS,2537913,1795
+2021-05-01,subsidiado,Pijaos Salud,98428,25
+2021-05-01,subsidiado,Savia Salud,1671562,1837
+2021-06-01,contributivo,Aliansalud,245453,369
+2021-06-01,contributivo,Comfenalco Valle,262568,648
+2021-06-01,contributivo,Compensar,1957987,4663
+2021-06-01,contributivo,Coomeva,1392657,6861
+2021-06-01,contributivo,Coosalud,52382,99
+2021-06-01,contributivo,Famisanar,2663418,5752
+2021-06-01,contributivo,Medimás,956413,3476
+2021-06-01,contributivo,Mutual Ser,48814,60
+2021-06-01,contributivo,Nueva EPS,5297025,11419
+2021-06-01,contributivo,SOS,831191,2402
+2021-06-01,contributivo,Salud Mía,45765,67
+2021-06-01,contributivo,Salud Total,3930777,7436
+2021-06-01,contributivo,Sanitas,4171074,7401
+2021-06-01,contributivo,Sura,4460017,6116
+2021-06-01,subsidiado,AIC,542443,108
+2021-06-01,subsidiado,Anas Wayuu,217714,35
+2021-06-01,subsidiado,Asmet Salud,1937128,1326
+2021-06-01,subsidiado,CCF La Guajira,255795,53
+2021-06-01,subsidiado,Cajacopi,1233236,1439
+2021-06-01,subsidiado,Capital Salud,1170067,3013
+2021-06-01,subsidiado,Capresoca,173946,95
+2021-06-01,subsidiado,Comfachocó,178068,101
+2021-06-01,subsidiado,Comfamiliar Huila,552196,431
+2021-06-01,subsidiado,Comfamiliar Nariño,161056,71
+2021-06-01,subsidiado,Comfaoriente,183857,79
+2021-06-01,subsidiado,Comparta,1519449,824
+2021-06-01,subsidiado,Convida,507185,480
+2021-06-01,subsidiado,Coosalud,2843473,2020
+2021-06-01,subsidiado,Dusakawi,249352,31
+2021-06-01,subsidiado,Ecoopsos,330470,381
+2021-06-01,subsidiado,Emssanar,1945388,2252
+2021-06-01,subsidiado,Familiar de Colombia,118838,86
+2021-06-01,subsidiado,Mallamas,339918,60
+2021-06-01,subsidiado,Medimás,657148,1150
+2021-06-01,subsidiado,Mutual Ser,2250485,889
+2021-06-01,subsidiado,Nueva EPS,2560478,2024
+2021-06-01,subsidiado,Pijaos Salud,98942,23
+2021-06-01,subsidiado,Savia Salud,1668629,1955
+2021-07-01,contributivo,Aliansalud,245344,427
+2021-07-01,contributivo,Comfenalco Valle,260291,778
+2021-07-01,contributivo,Compensar,1958053,4505
+2021-07-01,contributivo,Coomeva,1343099,5932
+2021-07-01,contributivo,Coosalud,52140,98
+2021-07-01,contributivo,Famisanar,2675298,5535
+2021-07-01,contributivo,Medimás,945125,4275
+2021-07-01,contributivo,Mutual Ser,57722,62
+2021-07-01,contributivo,Nueva EPS,5304121,11739
+2021-07-01,contributivo,SOS,827332,2924
+2021-07-01,contributivo,Salud Mía,46006,40
+2021-07-01,contributivo,Salud Total,3953496,7910
+2021-07-01,contributivo,Sanitas,4317675,7071
+2021-07-01,contributivo,Sura,4506071,7202
+2021-07-01,subsidiado,AIC,543315,117
+2021-07-01,subsidiado,Anas Wayuu,218148,66
+2021-07-01,subsidiado,Asmet Salud,1944208,1640
+2021-07-01,subsidiado,CCF La Guajira,256887,72
+2021-07-01,subsidiado,Cajacopi,1229577,1479
+2021-07-01,subsidiado,Capital Salud,1168948,3597
+2021-07-01,subsidiado,Capresoca,173843,116
+2021-07-01,subsidiado,Comfachocó,178141,99
+2021-07-01,subsidiado,Comfamiliar Huila,551224,533
+2021-07-01,subsidiado,Comfamiliar Nariño,0,52
+2021-07-01,subsidiado,Comfaoriente,183270,95
+2021-07-01,subsidiado,Comparta,1516504,1500
+2021-07-01,subsidiado,Convida,505174,491
+2021-07-01,subsidiado,Coosalud,2841849,2224
+2021-07-01,subsidiado,Dusakawi,251066,38
+2021-07-01,subsidiado,Ecoopsos,330755,373
+2021-07-01,subsidiado,Emssanar,1947792,2967
+2021-07-01,subsidiado,Familiar de Colombia,118855,101
+2021-07-01,subsidiado,Mallamas,345155,59
+2021-07-01,subsidiado,Medimás,653950,1496
+2021-07-01,subsidiado,Mutual Ser,2245546,1105
+2021-07-01,subsidiado,Nueva EPS,2624815,2231
+2021-07-01,subsidiado,Pijaos Salud,99610,25
+2021-07-01,subsidiado,Savia Salud,1662915,2290
+2021-08-01,contributivo,Aliansalud,245150,435
+2021-08-01,contributivo,Comfenalco Valle,259320,644
+2021-08-01,contributivo,Compensar,2001079,4214
+2021-08-01,contributivo,Coomeva,1308395,5219
+2021-08-01,contributivo,Coosalud,54072,133
+2021-08-01,contributivo,Famisanar,2726201,5429
+2021-08-01,contributivo,Medimás,937543,4202
+2021-08-01,contributivo,Mutual Ser,61248,88
+2021-08-01,contributivo,Nueva EPS,5343217,12456
+2021-08-01,contributivo,SOS,824125,2904
+2021-08-01,contributivo,Salud Mía,51222,52
+2021-08-01,contributivo,Salud Total,4135603,8436
+2021-08-01,contributivo,Sanitas,4636475,7120
+2021-08-01,contributivo,Sura,4559835,7477
+2021-08-01,subsidiado,AIC,543933,144
+2021-08-01,subsidiado,Anas Wayuu,218963,51
+2021-08-01,subsidiado,Asmet Salud,1947064,1747
+2021-08-01,subsidiado,CCF La Guajira,258993,74
+2021-08-01,subsidiado,Cajacopi,1409144,1710
+2021-08-01,subsidiado,Capital Salud,1167418,3893
+2021-08-01,subsidiado,Capresoca,174015,145
+2021-08-01,subsidiado,Comfachocó,178432,65
+2021-08-01,subsidiado,Comfamiliar Huila,550740,555
+2021-08-01,subsidiado,Comfaoriente,210855,105
+2021-08-01,subsidiado,Comparta,0,1112
+2021-08-01,subsidiado,Convida,503697,643
+2021-08-01,subsidiado,Coosalud,3069367,2643
+2021-08-01,subsidiado,Dusakawi,252479,36
+2021-08-01,subsidiado,Ecoopsos,331507,361
+2021-08-01,subsidiado,Emssanar,1949945,3219
+2021-08-01,subsidiado,Familiar de Colombia,118888,91
+2021-08-01,subsidiado,Mallamas,347568,65
+2021-08-01,subsidiado,Medimás,650453,1660
+2021-08-01,subsidiado,Mutual Ser,2359872,1155
+2021-08-01,subsidiado,Nueva EPS,3037798,2932
+2021-08-01,subsidiado,Pijaos Salud,100336,27
+2021-08-01,subsidiado,Savia Salud,1659091,2509
+2021-09-01,contributivo,Aliansalud,244879,416
+2021-09-01,contributivo,Comfenalco Valle,260022,593
+2021-09-01,contributivo,Compensar,2005061,4406
+2021-09-01,contributivo,Coomeva,1265094,5204
+2021-09-01,contributivo,Coosalud,53974,124
+2021-09-01,contributivo,Famisanar,2739783,5393
+2021-09-01,contributivo,Medimás,927423,4337
+2021-09-01,contributivo,Mutual Ser,63535,86
+2021-09-01,contributivo,Nueva EPS,5367190,12867
+2021-09-01,contributivo,SOS,821620,2977
+2021-09-01,contributivo,Salud Mía,51515,41
+2021-09-01,contributivo,Salud Total,4148346,8969
+2021-09-01,contributivo,Sanitas,4699128,7679
+2021-09-01,contributivo,Sura,4610614,8041
+2021-09-01,subsidiado,AIC,544968,136
+2021-09-01,subsidiado,Anas Wayuu,220046,64
+2021-09-01,subsidiado,Asmet Salud,1952020,1858
+2021-09-01,subsidiado,CCF La Guajira,259965,89
+2021-09-01,subsidiado,Cajacopi,1405842,1754
+2021-09-01,subsidiado,Capital Salud,1171030,3819
+2021-09-01,subsidiado,Capresoca,174441,176
+2021-09-01,subsidiado,Comfachocó,179862,63
+2021-09-01,subsidiado,Comfamiliar Huila,549415,661
+2021-09-01,subsidiado,Comfaoriente,211518,127
+2021-09-01,subsidiado,Comparta,0,0
+2021-09-01,subsidiado,Convida,501815,926
+2021-09-01,subsidiado,Coosalud,3076622,2892
+2021-09-01,subsidiado,Dusakawi,253984,42
+2021-09-01,subsidiado,Ecoopsos,333120,350
+2021-09-01,subsidiado,Emssanar,1952062,3920
+2021-09-01,subsidiado,Familiar de Colombia,119158,109
+2021-09-01,subsidiado,Mallamas,349085,73
+2021-09-01,subsidiado,Medimás,647810,1754
+2021-09-01,subsidiado,Mutual Ser,2366599,1243
+2021-09-01,subsidiado,Nueva EPS,3069584,3580
+2021-09-01,subsidiado,Pijaos Salud,100816,30
+2021-09-01,subsidiado,Savia Salud,1658926,2996
+2021-10-01,contributivo,Aliansalud,244831,316
+2021-10-01,contributivo,Comfenalco Valle,260300,551
+2021-10-01,contributivo,Compensar,2006098,3899
+2021-10-01,contributivo,Coomeva,1236447,4355
+2021-10-01,contributivo,Coosalud,53637,117
+2021-10-01,contributivo,Famisanar,2742876,4743
+2021-10-01,contributivo,Medimás,914843,4118
+2021-10-01,contributivo,Mutual Ser,65215,91
+2021-10-01,contributivo,Nueva EPS,5370934,11789
+2021-10-01,contributivo,SOS,817350,2589
+2021-10-01,contributivo,Salud Mía,51768,46
+2021-10-01,contributivo,Salud Total,4173045,8009
+2021-10-01,contributivo,Sanitas,4726445,6790
+2021-10-01,contributivo,Sura,4648788,7368
+2021-10-01,subsidiado,AIC,545226,113
+2021-10-01,subsidiado,Anas Wayuu,219607,56
+2021-10-01,subsidiado,Asmet Salud,1951053,1725
+2021-10-01,subsidiado,CCF La Guajira,260295,86
+2021-10-01,subsidiado,Cajacopi,1399812,1336
+2021-10-01,subsidiado,Capital Salud,1168061,3398
+2021-10-01,subsidiado,Capresoca,174375,379
+2021-10-01,subsidiado,Comfachocó,179160,58
+2021-10-01,subsidiado,Comfamiliar Huila,548611,651
+2021-10-01,subsidiado,Comfaoriente,210612,98
+2021-10-01,subsidiado,Convida,497058,933
+2021-10-01,subsidiado,Coosalud,3072274,2553
+2021-10-01,subsidiado,Dusakawi,253871,52
+2021-10-01,subsidiado,Ecoopsos,334398,316
+2021-10-01,subsidiado,Emssanar,1950538,3923
+2021-10-01,subsidiado,Familiar de Colombia,118496,78
+2021-10-01,subsidiado,Mallamas,349607,70
+2021-10-01,subsidiado,Medimás,643858,1600
+2021-10-01,subsidiado,Mutual Ser,2365529,1117
+2021-10-01,subsidiado,Nueva EPS,3088001,3080
+2021-10-01,subsidiado,Pijaos Salud,101058,27
+2021-10-01,subsidiado,Savia Salud,1652295,2618
+2021-11-01,contributivo,Aliansalud,244912,338
+2021-11-01,contributivo,Comfenalco Valle,260305,557
+2021-11-01,contributivo,Compensar,2011442,4140
+2021-11-01,contributivo,Coomeva,1211452,4518
+2021-11-01,contributivo,Coosalud,53317,92
+2021-11-01,contributivo,Famisanar,2751729,5335
+2021-11-01,contributivo,Medimás,902971,3860
+2021-11-01,contributivo,Mutual Ser,67089,101
+2021-11-01,contributivo,Nueva EPS,5378036,13284
+2021-11-01,contributivo,SOS,811478,2807
+2021-11-01,contributivo,Salud Mía,51885,43
+2021-11-01,contributivo,Salud Total,4183961,8660
+2021-11-01,contributivo,Sanitas,4756395,7246
+2021-11-01,contributivo,Sura,4685695,8413
+2021-11-01,subsidiado,AIC,545821,107
+2021-11-01,subsidiado,Anas Wayuu,219839,83
+2021-11-01,subsidiado,Asmet Salud,1952097,2004
+2021-11-01,subsidiado,CCF La Guajira,261112,81
+2021-11-01,subsidiado,Cajacopi,1398624,1393
+2021-11-01,subsidiado,Capital Salud,1168056,3283
+2021-11-01,subsidiado,Capresoca,174322,166
+2021-11-01,subsidiado,Comfachocó,178842,65
+2021-11-01,subsidiado,Comfamiliar Huila,547797,720
+2021-11-01,subsidiado,Comfaoriente,211082,104
+2021-11-01,subsidiado,Convida,493822,1047
+2021-11-01,subsidiado,Coosalud,3076143,3068
+2021-11-01,subsidiado,Dusakawi,254844,36
+2021-11-01,subsidiado,Ecoopsos,335422,392
+2021-11-01,subsidiado,Emssanar,1951151,4439
+2021-11-01,subsidiado,Familiar de Colombia,118300,109
+2021-11-01,subsidiado,Mallamas,350263,90
+2021-11-01,subsidiado,Medimás,640159,1759
+2021-11-01,subsidiado,Mutual Ser,2369176,1199
+2021-11-01,subsidiado,Nueva EPS,3109344,3424
+2021-11-01,subsidiado,Pijaos Salud,101597,29
+2021-11-01,subsidiado,Savia Salud,1647719,2909
+2021-12-01,contributivo,Aliansalud,244818,275
+2021-12-01,contributivo,Comfenalco Valle,260295,432
+2021-12-01,contributivo,Compensar,2017269,3086
+2021-12-01,contributivo,Coomeva,1196227,3697
+2021-12-01,contributivo,Coosalud,53281,122
+2021-12-01,contributivo,Famisanar,2757039,4187
+2021-12-01,contributivo,Medimás,893161,3525
+2021-12-01,contributivo,Mutual Ser,68499,95
+2021-12-01,contributivo,Nueva EPS,5397549,10967
+2021-12-01,contributivo,SOS,809158,2046
+2021-12-01,contributivo,Salud Mía,51795,42
+2021-12-01,contributivo,Salud Total,4193187,6166
+2021-12-01,contributivo,Sanitas,4741271,5658
+2021-12-01,contributivo,Sura,4714923,6558
+2021-12-01,subsidiado,AIC,546716,111
+2021-12-01,subsidiado,Anas Wayuu,220451,58
+2021-12-01,subsidiado,Asmet Salud,1953343,1522
+2021-12-01,subsidiado,CCF La Guajira,261789,61
+2021-12-01,subsidiado,Cajacopi,1401496,1013
+2021-12-01,subsidiado,Capital Salud,1177340,2410
+2021-12-01,subsidiado,Capresoca,174610,113
+2021-12-01,subsidiado,Comfachocó,178969,52
+2021-12-01,subsidiado,Comfamiliar Huila,548173,569
+2021-12-01,subsidiado,Comfaoriente,211665,78
+2021-12-01,subsidiado,Convida,493118,745
+2021-12-01,subsidiado,Coosalud,3076644,2256
+2021-12-01,subsidiado,Dusakawi,255591,39
+2021-12-01,subsidiado,Ecoopsos,336672,260
+2021-12-01,subsidiado,Emssanar,1954587,3075
+2021-12-01,subsidiado,Familiar de Colombia,118127,78
+2021-12-01,subsidiado,Mallamas,352743,70
+2021-12-01,subsidiado,Medimás,636888,1530
+2021-12-01,subsidiado,Mutual Ser,2371198,790
+2021-12-01,subsidiado,Nueva EPS,3134004,2749
+2021-12-01,subsidiado,Pijaos Salud,102388,32
+2021-12-01,subsidiado,Savia Salud,1644790,2317
+2022-01-01,contributivo,Aliansalud,249125,332
+2022-01-01,contributivo,Comfenalco Valle,298461,669
+2022-01-01,contributivo,Compensar,2071794,3946
+2022-01-01,contributivo,Coomeva,0,5300
+2022-01-01,contributivo,Coosalud,128367,159
+2022-01-01,contributivo,Famisanar,2819041,4904
+2022-01-01,contributivo,Medimás,885696,4240
+2022-01-01,contributivo,Mutual Ser,85772,357
+2022-01-01,contributivo,Nueva EPS,5625790,12201
+2022-01-01,contributivo,SOS,807893,2822
+2022-01-01,contributivo,Salud Mía,57894,49
+2022-01-01,contributivo,Salud Total,4347341,8013
+2022-01-01,contributivo,Sanitas,4940712,7262
+2022-01-01,contributivo,Sura,4940480,8227
+2022-01-01,subsidiado,AIC,547126,122
+2022-01-01,subsidiado,Anas Wayuu,220542,57
+2022-01-01,subsidiado,Asmet Salud,1954986,1835
+2022-01-01,subsidiado,CCF La Guajira,262025,46
+2022-01-01,subsidiado,Cajacopi,1428114,1168
+2022-01-01,subsidiado,Capital Salud,1179318,2888
+2022-01-01,subsidiado,Capresoca,174559,130
+2022-01-01,subsidiado,Comfachocó,178747,39
+2022-01-01,subsidiado,Comfamiliar Huila,548513,803
+2022-01-01,subsidiado,Comfaoriente,224232,92
+2022-01-01,subsidiado,Convida,493042,888
+2022-01-01,subsidiado,Coosalud,3132039,2767
+2022-01-01,subsidiado,Dusakawi,256076,47
+2022-01-01,subsidiado,Ecoopsos,338449,392
+2022-01-01,subsidiado,Emssanar,1955655,3604
+2022-01-01,subsidiado,Familiar de Colombia,118036,77
+2022-01-01,subsidiado,Mallamas,353353,111
+2022-01-01,subsidiado,Medimás,634338,1672
+2022-01-01,subsidiado,Mutual Ser,2386149,705
+2022-01-01,subsidiado,Nueva EPS,3200252,2829
+2022-01-01,subsidiado,Pijaos Salud,103621,40
+2022-01-01,subsidiado,Savia Salud,1643820,2400
+2022-02-01,contributivo,Aliansalud,249033,398
+2022-02-01,contributivo,Comfenalco Valle,297923,792
+2022-02-01,contributivo,Compensar,2075208,4456
+2022-02-01,contributivo,Coosalud,127764,703
+2022-02-01,contributivo,Famisanar,2817436,5653
+2022-02-01,contributivo,Medimás,874407,4445
+2022-02-01,contributivo,Mutual Ser,87425,370
+2022-02-01,contributivo,Nueva EPS,5698899,13573
+2022-02-01,contributivo,SOS,804153,2947
+2022-02-01,contributivo,Salud Mía,57986,77
+2022-02-01,contributivo,Salud Total,4363381,9388
+2022-02-01,contributivo,Sanitas,4969777,8138
+2022-02-01,contributivo,Sura,4968210,9472
+2022-02-01,subsidiado,AIC,547701,142
+2022-02-01,subsidiado,Anas Wayuu,220498,87
+2022-02-01,subsidiado,Asmet Salud,1956013,1990
+2022-02-01,subsidiado,CCF La Guajira,262168,66
+2022-02-01,subsidiado,Cajacopi,1428072,1466
+2022-02-01,subsidiado,Capital Salud,1175820,3372
+2022-02-01,subsidiado,Capresoca,175289,143
+2022-02-01,subsidiado,Comfachocó,178098,49
+2022-02-01,subsidiado,Comfamiliar Huila,547545,855
+2022-02-01,subsidiado,Comfaoriente,224243,149
+2022-02-01,subsidiado,Convida,490329,988
+2022-02-01,subsidiado,Coosalud,3134985,3309
+2022-02-01,subsidiado,Dusakawi,256906,40
+2022-02-01,subsidiado,Ecoopsos,340747,485
+2022-02-01,subsidiado,Emssanar,1955787,4133
+2022-02-01,subsidiado,Familiar de Colombia,117795,104
+2022-02-01,subsidiado,Mallamas,353920,102
+2022-02-01,subsidiado,Medimás,630189,1934
+2022-02-01,subsidiado,Mutual Ser,2397926,903
+2022-02-01,subsidiado,Nueva EPS,3179864,3275
+2022-02-01,subsidiado,Pijaos Salud,104369,41
+2022-02-01,subsidiado,Savia Salud,1640900,2595
+2022-03-01,contributivo,Aliansalud,257239,469
+2022-03-01,contributivo,Comfenalco Valle,312729,1074
+2022-03-01,contributivo,Compensar,2139167,5459
+2022-03-01,contributivo,Coosalud,151877,767
+2022-03-01,contributivo,Famisanar,2920296,7035
+2022-03-01,contributivo,Medimás,0,2733
+2022-03-01,contributivo,Mutual Ser,100742,310
+2022-03-01,contributivo,Nueva EPS,5977940,16459
+2022-03-01,contributivo,SOS,801450,3002
+2022-03-01,contributivo,Salud Mía,57913,105
+2022-03-01,contributivo,Salud Total,4592846,11605
+2022-03-01,contributivo,Sanitas,5331833,10487
+2022-03-01,contributivo,Sura,5087585,11557
+2022-03-01,subsidiado,AIC,549001,147
+2022-03-01,subsidiado,Anas Wayuu,221399,106
+2022-03-01,subsidiado,Asmet Salud,1965054,2209
+2022-03-01,subsidiado,CCF La Guajira,263121,99
+2022-03-01,subsidiado,Cajacopi,1461143,1677
+2022-03-01,subsidiado,Capital Salud,1180600,4106
+2022-03-01,subsidiado,Capresoca,175444,218
+2022-03-01,subsidiado,Comfachocó,177558,64
+2022-03-01,subsidiado,Comfamiliar Huila,543014,965
+2022-03-01,subsidiado,Comfaoriente,225244,153
+2022-03-01,subsidiado,Convida,487571,1110
+2022-03-01,subsidiado,Coosalud,3210597,4021
+2022-03-01,subsidiado,Dusakawi,257976,55
+2022-03-01,subsidiado,Ecoopsos,343999,577
+2022-03-01,subsidiado,Emssanar,1954031,5485
+2022-03-01,subsidiado,Familiar de Colombia,117625,144
+2022-03-01,subsidiado,Mallamas,360431,116
+2022-03-01,subsidiado,Medimás,0,1245
+2022-03-01,subsidiado,Mutual Ser,2391968,1168
+2022-03-01,subsidiado,Nueva EPS,3405514,3981
+2022-03-01,subsidiado,Pijaos Salud,105012,50
+2022-03-01,subsidiado,Savia Salud,1654390,3144
+2022-04-01,contributivo,Aliansalud,257394,438
+2022-04-01,contributivo,Comfenalco Valle,312543,921
+2022-04-01,contributivo,Compensar,2141650,4615
+2022-04-01,contributivo,Coosalud,149598,591
+2022-04-01,contributivo,Famisanar,2919769,6888
+2022-04-01,contributivo,Medimás,0,0
+2022-04-01,contributivo,Mutual Ser,102194,241
+2022-04-01,contributivo,Nueva EPS,5993767,15041
+2022-04-01,contributivo,SOS,797286,2633
+2022-04-01,contributivo,Salud Mía,57915,65
+2022-04-01,contributivo,Salud Total,4616665,10817
+2022-04-01,contributivo,Sanitas,5335363,10278
+2022-04-01,contributivo,Sura,5112467,11004
+2022-04-01,subsidiado,AIC,549849,117
+2022-04-01,subsidiado,Anas Wayuu,222310,82
+2022-04-01,subsidiado,Asmet Salud,1970168,1816
+2022-04-01,subsidiado,CCF La Guajira,263997,108
+2022-04-01,subsidiado,Cajacopi,1458147,1648
+2022-04-01,subsidiado,Capital Salud,1180716,3230
+2022-04-01,subsidiado,Capresoca,175459,172
+2022-04-01,subsidiado,Comfachocó,177139,68
+2022-04-01,subsidiado,Comfamiliar Huila,544814,837
+2022-04-01,subsidiado,Comfaoriente,225773,97
+2022-04-01,subsidiado,Convida,485040,933
+2022-04-01,subsidiado,Coosalud,3210239,3528
+2022-04-01,subsidiado,Dusakawi,259222,80
+2022-04-01,subsidiado,Ecoopsos,346642,445
+2022-04-01,subsidiado,Emssanar,1952609,4879
+2022-04-01,subsidiado,Familiar de Colombia,117342,106
+2022-04-01,subsidiado,Mallamas,361761,83
+2022-04-01,subsidiado,Medimás,0,0
+2022-04-01,subsidiado,Mutual Ser,2402655,1109
+2022-04-01,subsidiado,Nueva EPS,3437460,3730
+2022-04-01,subsidiado,Pijaos Salud,105464,34
+2022-04-01,subsidiado,Savia Salud,1656454,2556
+2022-05-01,contributivo,Aliansalud,257098,525
+2022-05-01,contributivo,Comfenalco Valle,313015,1003
+2022-05-01,contributivo,Compensar,2151868,5395
+2022-05-01,contributivo,Coosalud,141274,518
+2022-05-01,contributivo,Famisanar,2914751,7969
+2022-05-01,contributivo,Mutual Ser,103116,179
+2022-05-01,contributivo,Nueva EPS,6017138,17068
+2022-05-01,contributivo,SOS,794295,2921
+2022-05-01,contributivo,Salud Mía,57983,97
+2022-05-01,contributivo,Salud Total,4626865,13933
+2022-05-01,contributivo,Sanitas,5416005,11677
+2022-05-01,contributivo,Sura,5136096,12366
+2022-05-01,subsidiado,AIC,550248,150
+2022-05-01,subsidiado,Anas Wayuu,223404,71
+2022-05-01,subsidiado,Asmet Salud,1976707,2091
+2022-05-01,subsidiado,CCF La Guajira,264920,88
+2022-05-01,subsidiado,Cajacopi,1455705,1519
+2022-05-01,subsidiado,Capital Salud,1179642,3673
+2022-05-01,subsidiado,Capresoca,175725,139
+2022-05-01,subsidiado,Comfachocó,177310,74
+2022-05-01,subsidiado,Comfamiliar Huila,545328,1122
+2022-05-01,subsidiado,Comfaoriente,225984,128
+2022-05-01,subsidiado,Convida,483123,974
+2022-05-01,subsidiado,Coosalud,3211804,4026
+2022-05-01,subsidiado,Dusakawi,260292,36
+2022-05-01,subsidiado,Ecoopsos,350716,554
+2022-05-01,subsidiado,Emssanar,1951190,5380
+2022-05-01,subsidiado,Familiar de Colombia,118569,130
+2022-05-01,subsidiado,Mallamas,362893,88
+2022-05-01,subsidiado,Mutual Ser,2412877,1186
+2022-05-01,subsidiado,Nueva EPS,3479336,4337
+2022-05-01,subsidiado,Pijaos Salud,106144,48
+2022-05-01,subsidiado,Savia Salud,1662791,2956
+2022-06-01,contributivo,Aliansalud,256842,658
+2022-06-01,contributivo,Comfenalco Valle,311237,857
+2022-06-01,contributivo,Compensar,2152145,5235
+2022-06-01,contributivo,Coosalud,134195,455
+2022-06-01,contributivo,Famisanar,2910138,7279
+2022-06-01,contributivo,Mutual Ser,104653,156
+2022-06-01,contributivo,Nueva EPS,6019520,16444
+2022-06-01,contributivo,SOS,791110,3077
+2022-06-01,contributivo,Salud Mía,58198,101
+2022-06-01,contributivo,Salud Total,4629705,13160
+2022-06-01,contributivo,Sanitas,5446237,10665
+2022-06-01,contributivo,Sura,5169557,11446
+2022-06-01,subsidiado,AIC,549584,135
+2022-06-01,subsidiado,Anas Wayuu,224052,99
+2022-06-01,subsidiado,Asmet Salud,1980331,2294
+2022-06-01,subsidiado,CCF La Guajira,265963,112
+2022-06-01,subsidiado,Cajacopi,1447111,1512
+2022-06-01,subsidiado,Capital Salud,1186160,3366
+2022-06-01,subsidiado,Capresoca,175835,200
+2022-06-01,subsidiado,Comfachocó,176686,108
+2022-06-01,subsidiado,Comfamiliar Huila,543886,1189
+2022-06-01,subsidiado,Comfaoriente,226552,123
+2022-06-01,subsidiado,Convida,480611,957
+2022-06-01,subsidiado,Coosalud,3213506,3707
+2022-06-01,subsidiado,Dusakawi,261381,39
+2022-06-01,subsidiado,Ecoopsos,353769,511
+2022-06-01,subsidiado,Emssanar,1947290,5064
+2022-06-01,subsidiado,Familiar de Colombia,119207,139
+2022-06-01,subsidiado,Mallamas,364681,73
+2022-06-01,subsidiado,Mutual Ser,2423808,1272
+2022-06-01,subsidiado,Nueva EPS,3510607,4564
+2022-06-01,subsidiado,Pijaos Salud,106642,41
+2022-06-01,subsidiado,Savia Salud,1662510,2895
+2022-07-01,contributivo,Aliansalud,251682,673
+2022-07-01,contributivo,Comfenalco Valle,299032,1170
+2022-07-01,contributivo,Compensar,2100473,5688
+2022-07-01,contributivo,Coosalud,126424,495
+2022-07-01,contributivo,Famisanar,2844999,8130
+2022-07-01,contributivo,Mutual Ser,103002,179
+2022-07-01,contributivo,Nueva EPS,5892680,17373
+2022-07-01,contributivo,SOS,759619,2966
+2022-07-01,contributivo,Salud Mía,56275,99
+2022-07-01,contributivo,Salud Total,4478173,12823
+2022-07-01,contributivo,Sanitas,5320762,12456
+2022-07-01,contributivo,Sura,5051530,12798
+2022-07-01,subsidiado,AIC,551761,156
+2022-07-01,subsidiado,Anas Wayuu,225375,150
+2022-07-01,subsidiado,Asmet Salud,1981768,2663
+2022-07-01,subsidiado,CCF La Guajira,268713,115
+2022-07-01,subsidiado,Cajacopi,1446817,2068
+2022-07-01,subsidiado,Capital Salud,1183559,3979
+2022-07-01,subsidiado,Capresoca,175854,232
+2022-07-01,subsidiado,Comfachocó,175859,139
+2022-07-01,subsidiado,Comfamiliar Huila,541711,1298
+2022-07-01,subsidiado,Comfaoriente,227376,138
+2022-07-01,subsidiado,Convida,478399,1098
+2022-07-01,subsidiado,Coosalud,3214510,4044
+2022-07-01,subsidiado,Dusakawi,262801,68
+2022-07-01,subsidiado,Ecoopsos,358119,758
+2022-07-01,subsidiado,Emssanar,1940550,4709
+2022-07-01,subsidiado,Familiar de Colombia,119325,124
+2022-07-01,subsidiado,Mallamas,363423,87
+2022-07-01,subsidiado,Mutual Ser,2429539,1383
+2022-07-01,subsidiado,Nueva EPS,3547843,4685
+2022-07-01,subsidiado,Pijaos Salud,107359,47
+2022-07-01,subsidiado,Savia Salud,1662172,3361
+2022-08-01,contributivo,Aliansalud,250376,531
+2022-08-01,contributivo,Comfenalco Valle,299878,1004
+2022-08-01,contributivo,Compensar,2108805,5552
+2022-08-01,contributivo,Coosalud,119762,424
+2022-08-01,contributivo,Famisanar,2848209,7924
+2022-08-01,contributivo,Mutual Ser,104440,156
+2022-08-01,contributivo,Nueva EPS,5889147,16102
+2022-08-01,contributivo,SOS,765101,2685
+2022-08-01,contributivo,Salud Mía,57135,93
+2022-08-01,contributivo,Salud Total,4479958,11582
+2022-08-01,contributivo,Sanitas,5349785,12310
+2022-08-01,contributivo,Sura,5085917,11585
+2022-08-01,subsidiado,AIC,552384,183
+2022-08-01,subsidiado,Anas Wayuu,226900,112
+2022-08-01,subsidiado,Asmet Salud,1982505,2594
+2022-08-01,subsidiado,CCF La Guajira,270296,115
+2022-08-01,subsidiado,Cajacopi,1441831,2133
+2022-08-01,subsidiado,Capital Salud,1181493,3874
+2022-08-01,subsidiado,Capresoca,176000,278
+2022-08-01,subsidiado,Comfachocó,174552,72
+2022-08-01,subsidiado,Comfamiliar Huila,539759,1696
+2022-08-01,subsidiado,Comfaoriente,228681,127
+2022-08-01,subsidiado,Convida,477063,889
+2022-08-01,subsidiado,Coosalud,3205832,3636
+2022-08-01,subsidiado,Dusakawi,262687,79
+2022-08-01,subsidiado,Ecoopsos,360219,927
+2022-08-01,subsidiado,Emssanar,1929239,4204
+2022-08-01,subsidiado,Familiar de Colombia,123032,128
+2022-08-01,subsidiado,Mallamas,371803,120
+2022-08-01,subsidiado,Mutual Ser,2438707,1250
+2022-08-01,subsidiado,Nueva EPS,3588225,4553
+2022-08-01,subsidiado,Pijaos Salud,107902,40
+2022-08-01,subsidiado,Savia Salud,1666262,2976
+2022-09-01,contributivo,Aliansalud,248815,597
+2022-09-01,contributivo,Comfenalco Valle,299378,813
+2022-09-01,contributivo,Compensar,2165259,6045
+2022-09-01,contributivo,Coosalud,117834,456
+2022-09-01,contributivo,Famisanar,3023465,8054
+2022-09-01,contributivo,Mutual Ser,106354,138
+2022-09-01,contributivo,Nueva EPS,5910648,16737
+2022-09-01,contributivo,SOS,766114,2868
+2022-09-01,contributivo,Salud Mía,57550,104
+2022-09-01,contributivo,Salud Total,4594986,10768
+2022-09-01,contributivo,Sanitas,5667644,13509
+2022-09-01,contributivo,Sura,5134709,12340
+2022-09-01,subsidiado,AIC,555610,161
+2022-09-01,subsidiado,Anas Wayuu,228605,104
+2022-09-01,subsidiado,Asmet Salud,1986687,2840
+2022-09-01,subsidiado,CCF La Guajira,272049,94
+2022-09-01,subsidiado,Cajacopi,1461645,2401
+2022-09-01,subsidiado,Capital Salud,1182296,3586
+2022-09-01,subsidiado,Capresoca,176592,330
+2022-09-01,subsidiado,Comfachocó,175365,95
+2022-09-01,subsidiado,Comfaoriente,230387,200
+2022-09-01,subsidiado,Coosalud,3248060,3875
+2022-09-01,subsidiado,Dusakawi,265541,65
+2022-09-01,subsidiado,Ecoopsos,362478,1311
+2022-09-01,subsidiado,Emssanar,1928025,4948
+2022-09-01,subsidiado,Familiar de Colombia,129234,129
+2022-09-01,subsidiado,Mallamas,375134,88
+2022-09-01,subsidiado,Mutual Ser,2448919,1307
+2022-09-01,subsidiado,Nueva EPS,3957735,5077
+2022-09-01,subsidiado,Pijaos Salud,108887,59
+2022-09-01,subsidiado,Savia Salud,1673305,2894
+2022-10-01,contributivo,Aliansalud,249469,498
+2022-10-01,contributivo,Comfenalco Valle,298439,817
+2022-10-01,contributivo,Compensar,2171028,6078
+2022-10-01,contributivo,Coosalud,115302,415
+2022-10-01,contributivo,Famisanar,3012013,7902
+2022-10-01,contributivo,Mutual Ser,107342,168
+2022-10-01,contributivo,Nueva EPS,5958508,15902
+2022-10-01,contributivo,SOS,766830,2774
+2022-10-01,contributivo,Salud Mía,57612,121
+2022-10-01,contributivo,Salud Total,4596976,9918
+2022-10-01,contributivo,Sanitas,5701606,12723
+2022-10-01,contributivo,Sura,5154571,11883
+2022-10-01,subsidiado,AIC,556913,173
+2022-10-01,subsidiado,Anas Wayuu,229219,117
+2022-10-01,subsidiado,Asmet Salud,1993259,2804
+2022-10-01,subsidiado,CCF La Guajira,272288,103
+2022-10-01,subsidiado,Cajacopi,1459993,2354
+2022-10-01,subsidiado,Capital Salud,1177474,3182
+2022-10-01,subsidiado,Capresoca,176965,235
+2022-10-01,subsidiado,Comfachocó,174684,102
+2022-10-01,subsidiado,Comfaoriente,231036,164
+2022-10-01,subsidiado,Coosalud,3243063,3725
+2022-10-01,subsidiado,Dusakawi,269069,50
+2022-10-01,subsidiado,Ecoopsos,362357,1339
+2022-10-01,subsidiado,Emssanar,1920977,3965
+2022-10-01,subsidiado,Familiar de Colombia,137789,105
+2022-10-01,subsidiado,Mallamas,376717,131
+2022-10-01,subsidiado,Mutual Ser,2448438,1281
+2022-10-01,subsidiado,Nueva EPS,3995017,5176
+2022-10-01,subsidiado,Pijaos Salud,109512,51
+2022-10-01,subsidiado,Savia Salud,1673345,2995
+2022-11-01,contributivo,Aliansalud,249076,479
+2022-11-01,contributivo,Comfenalco Valle,297303,970
+2022-11-01,contributivo,Compensar,2168702,6064
+2022-11-01,contributivo,Coosalud,113341,441
+2022-11-01,contributivo,Famisanar,3016941,8250
+2022-11-01,contributivo,Mutual Ser,108573,166
+2022-11-01,contributivo,Nueva EPS,5969195,16276
+2022-11-01,contributivo,SOS,764327,3221
+2022-11-01,contributivo,Salud Bolívar Eps,187,0
+2022-11-01,contributivo,Salud Mía,57645,112
+2022-11-01,contributivo,Salud Total,4600890,9758
+2022-11-01,contributivo,Sanitas,5759141,13445
+2022-11-01,contributivo,Sura,5170408,12132
+2022-11-01,subsidiado,AIC,565368,206
+2022-11-01,subsidiado,Anas Wayuu,262749,137
+2022-11-01,subsidiado,Asmet Salud,2008225,2979
+2022-11-01,subsidiado,CCF La Guajira,0,219
+2022-11-01,subsidiado,Cajacopi,1521462,2226
+2022-11-01,subsidiado,Capital Salud,1179927,3306
+2022-11-01,subsidiado,Capresoca,176955,302
+2022-11-01,subsidiado,Comfachocó,174284,73
+2022-11-01,subsidiado,Comfaoriente,232584,213
+2022-11-01,subsidiado,Coosalud,3252727,3766
+2022-11-01,subsidiado,Dusakawi,270347,82
+2022-11-01,subsidiado,Ecoopsos,361666,1297
+2022-11-01,subsidiado,Emssanar,1911346,3851
+2022-11-01,subsidiado,Familiar de Colombia,193856,188
+2022-11-01,subsidiado,Mallamas,378497,133
+2022-11-01,subsidiado,Mutual Ser,2455767,1337
+2022-11-01,subsidiado,Nueva EPS,4084720,5668
+2022-11-01,subsidiado,Pijaos Salud,109962,62
+2022-11-01,subsidiado,Savia Salud,1673928,3404
+2022-12-01,contributivo,Aliansalud,249122,427
+2022-12-01,contributivo,Comfenalco Valle,294852,787
+2022-12-01,contributivo,Compensar,2161232,4668
+2022-12-01,contributivo,Coosalud,111724,382
+2022-12-01,contributivo,Famisanar,3035160,6815
+2022-12-01,contributivo,Mutual Ser,110020,171
+2022-12-01,contributivo,Nueva EPS,5965897,13972
+2022-12-01,contributivo,SOS,761203,2471
+2022-12-01,contributivo,Salud Bolívar Eps,328,0
+2022-12-01,contributivo,Salud Mía,57693,108
+2022-12-01,contributivo,Salud Total,4586119,7846
+2022-12-01,contributivo,Sanitas,5751861,12933
+2022-12-01,contributivo,Sura,5183766,10856
+2022-12-01,subsidiado,AIC,565779,172
+2022-12-01,subsidiado,Anas Wayuu,263270,103
+2022-12-01,subsidiado,Asmet Salud,2026190,2858
+2022-12-01,subsidiado,Cajacopi,1522765,2100
+2022-12-01,subsidiado,Capital Salud,1186963,2778
+2022-12-01,subsidiado,Capresoca,176998,227
+2022-12-01,subsidiado,Comfachocó,173898,74
+2022-12-01,subsidiado,Comfaoriente,233451,191
+2022-12-01,subsidiado,Coosalud,3251568,3375
+2022-12-01,subsidiado,Dusakawi,271353,48
+2022-12-01,subsidiado,Ecoopsos,360544,1525
+2022-12-01,subsidiado,Emssanar,1906842,3522
+2022-12-01,subsidiado,Familiar de Colombia,208211,188
+2022-12-01,subsidiado,Mallamas,379879,88
+2022-12-01,subsidiado,Mutual Ser,2462131,1187
+2022-12-01,subsidiado,Nueva EPS,4108008,4820
+2022-12-01,subsidiado,Pijaos Salud,110473,89
+2022-12-01,subsidiado,Savia Salud,1682709,3506
+2023-01-01,contributivo,Aliansalud,249124,450
+2023-01-01,contributivo,Comfenalco Valle,295122,762
+2023-01-01,contributivo,Compensar,2157045,5350
+2023-01-01,contributivo,Coosalud,109700,386
+2023-01-01,contributivo,Famisanar,3018431,7275
+2023-01-01,contributivo,Mutual Ser,110538,169
+2023-01-01,contributivo,Nueva EPS,5954184,15514
+2023-01-01,contributivo,SOS,752377,2797
+2023-01-01,contributivo,Salud Bolívar Eps,409,0
+2023-01-01,contributivo,Salud Mía,56911,102
+2023-01-01,contributivo,Salud Total,4547684,9308
+2023-01-01,contributivo,Sanitas,5692523,14475
+2023-01-01,contributivo,Sura,5179859,11667
+2023-01-01,subsidiado,Asmet Salud,2030112,3256
+2023-01-01,subsidiado,Cajacopi,1527527,2115
+2023-01-01,subsidiado,Capital Salud,1187927,3388
+2023-01-01,subsidiado,Capresoca,177652,232
+2023-01-01,subsidiado,Comfachocó,173260,79
+2023-01-01,subsidiado,Comfaoriente,233644,201
+2023-01-01,subsidiado,Coosalud,3248448,3480
+2023-01-01,subsidiado,Ecoopsos,359017,972
+2023-01-01,subsidiado,Emssanar,1904589,3512
+2023-01-01,subsidiado,Familiar de Colombia,249063,334
+2023-01-01,subsidiado,Mutual Ser,2466329,1272
+2023-01-01,subsidiado,Nueva EPS,4125831,5366
+2023-01-01,subsidiado,Savia Salud,1681318,4010
+2023-02-01,contributivo,Aliansalud,247739,482
+2023-02-01,contributivo,Comfenalco Valle,295201,808
+2023-02-01,contributivo,Compensar,2164471,6230
+2023-02-01,contributivo,Coosalud,109409,325
+2023-02-01,contributivo,Famisanar,3033327,8091
+2023-02-01,contributivo,Mutual Ser,112040,176
+2023-02-01,contributivo,Nueva EPS,5950244,15927
+2023-02-01,contributivo,SOS,753197,3052
+2023-02-01,contributivo,Salud Bolívar,617,1
+2023-02-01,contributivo,Salud Mía,57014,106
+2023-02-01,contributivo,Salud Total,4559709,10234
+2023-02-01,contributivo,Sanitas,5722527,15186
+2023-02-01,contributivo,Sura,5203158,12258
+2023-02-01,subsidiado,Asmet Salud,2027382,3779
+2023-02-01,subsidiado,Cajacopi,1527519,2205
+2023-02-01,subsidiado,Capital Salud,1186437,3827
+2023-02-01,subsidiado,Capresoca,177434,232
+2023-02-01,subsidiado,Comfachocó,172637,77
+2023-02-01,subsidiado,Comfaoriente,233559,185
+2023-02-01,subsidiado,Coosalud,3251584,3549
+2023-02-01,subsidiado,Ecoopsos,356845,938
+2023-02-01,subsidiado,Emssanar,1894426,3889
+2023-02-01,subsidiado,Familiar de Colombia,221009,193
+2023-02-01,subsidiado,Mutual Ser,2468708,1453
+2023-02-01,subsidiado,Nueva EPS,4145325,5832
+2023-02-01,subsidiado,Savia Salud,1680279,4338
+2023-03-01,contributivo,Aliansalud,247020,546
+2023-03-01,contributivo,Comfenalco Valle,295662,860
+2023-03-01,contributivo,Compensar,2156461,6743
+2023-03-01,contributivo,Coosalud,109384,396
+2023-03-01,contributivo,Famisanar,3037725,9159
+2023-03-01,contributivo,Mutual Ser,113929,217
+2023-03-01,contributivo,Nueva EPS,5995295,18533
+2023-03-01,contributivo,SOS,753125,3387
+2023-03-01,contributivo,Salud Bolívar,768,1
+2023-03-01,contributivo,Salud Mía,57223,104
+2023-03-01,contributivo,Salud Total,4580343,11456
+2023-03-01,contributivo,Sanitas,5740383,16570
+2023-03-01,contributivo,Sura,5231345,14032
+2023-03-01,subsidiado,Asmet Salud,2019059,4681
+2023-03-01,subsidiado,Cajacopi,1531594,2776
+2023-03-01,subsidiado,Capital Salud,1181199,4483
+2023-03-01,subsidiado,Capresoca,177631,197
+2023-03-01,subsidiado,Comfachocó,171827,128
+2023-03-01,subsidiado,Comfaoriente,234247,208
+2023-03-01,subsidiado,Coosalud,3259683,4375
+2023-03-01,subsidiado,Ecoopsos,355032,955
+2023-03-01,subsidiado,Emssanar,1888928,4253
+2023-03-01,subsidiado,Familiar de Colombia,224756,172
+2023-03-01,subsidiado,Mutual Ser,2469263,1842
+2023-03-01,subsidiado,Nueva EPS,4169109,7060
+2023-03-01,subsidiado,Savia Salud,1687679,4674
+2023-04-01,contributivo,Aliansalud,246887,414
+2023-04-01,contributivo,Comfenalco Valle,295646,768
+2023-04-01,contributivo,Compensar,2177630,5986
+2023-04-01,contributivo,Coosalud,108038,364
+2023-04-01,contributivo,Famisanar,3070318,7579
+2023-04-01,contributivo,Mutual Ser,115414,176
+2023-04-01,contributivo,Nueva EPS,6031480,15591
+2023-04-01,contributivo,SOS,750872,2855
+2023-04-01,contributivo,Salud Bolívar,992,0
+2023-04-01,contributivo,Salud Mía,57620,91
+2023-04-01,contributivo,Salud Total,4659443,9922
+2023-04-01,contributivo,Sanitas,5760407,14227
+2023-04-01,contributivo,Sura,5278310,11751
+2023-04-01,subsidiado,Asmet Salud,2010616,4164
+2023-04-01,subsidiado,Cajacopi,1530821,2342
+2023-04-01,subsidiado,Capital Salud,1181163,3621
+2023-04-01,subsidiado,Capresoca,177731,151
+2023-04-01,subsidiado,Comfachocó,171123,101
+2023-04-01,subsidiado,Comfaoriente,234714,182
+2023-04-01,subsidiado,Coosalud,3288257,4031
+2023-04-01,subsidiado,Ecoopsos,0,968
+2023-04-01,subsidiado,Emssanar,1881954,3955
+2023-04-01,subsidiado,Familiar de Colombia,228321,231
+2023-04-01,subsidiado,Mutual Ser,2478307,1557
+2023-04-01,subsidiado,Nueva EPS,4324828,6034
+2023-04-01,subsidiado,Savia Salud,1687951,3908
+2023-05-01,contributivo,Aliansalud,246006,488
+2023-05-01,contributivo,Comfenalco Valle,295114,989
+2023-05-01,contributivo,Compensar,2175908,7262
+2023-05-01,contributivo,Coosalud,106735,404
+2023-05-01,contributivo,Famisanar,3062281,9357
+2023-05-01,contributivo,Mutual Ser,117197,205
+2023-05-01,contributivo,Nueva EPS,6047149,17977
+2023-05-01,contributivo,SOS,748577,2882
+2023-05-01,contributivo,Salud Bolívar,1144,2
+2023-05-01,contributivo,Salud Mía,57810,209
+2023-05-01,contributivo,Salud Total,4657477,11877
+2023-05-01,contributivo,Sanitas,5767091,16230
+2023-05-01,contributivo,Sura,5290033,13447
+2023-05-01,subsidiado,Asmet Salud,1994976,4694
+2023-05-01,subsidiado,Cajacopi,1521414,2775
+2023-05-01,subsidiado,Capital Salud,1179571,4414
+2023-05-01,subsidiado,Capresoca,177817,289
+2023-05-01,subsidiado,Comfachocó,171545,159
+2023-05-01,subsidiado,Comfaoriente,234552,254
+2023-05-01,subsidiado,Coosalud,3286547,4804
+2023-05-01,subsidiado,Emssanar,1869422,3698
+2023-05-01,subsidiado,Familiar de Colombia,232214,253
+2023-05-01,subsidiado,Mutual Ser,2478588,1834
+2023-05-01,subsidiado,Nueva EPS,4351792,7225
+2023-05-01,subsidiado,Savia Salud,1682406,4457
+2023-06-01,contributivo,Aliansalud,245550,507
+2023-06-01,contributivo,Comfenalco Valle,294789,1154
+2023-06-01,contributivo,Compensar,2176758,6737
+2023-06-01,contributivo,Coosalud,105658,374
+2023-06-01,contributivo,Famisanar,3039544,8761
+2023-06-01,contributivo,Mutual Ser,118941,205
+2023-06-01,contributivo,Nueva EPS,6067237,16928
+2023-06-01,contributivo,SOS,747508,3014
+2023-06-01,contributivo,Salud Bolívar,1161,2
+2023-06-01,contributivo,Salud Mía,57696,213
+2023-06-01,contributivo,Salud Total,4656104,10805
+2023-06-01,contributivo,Sanitas,5772143,14000
+2023-06-01,contributivo,Sura,5304511,12431
+2023-06-01,subsidiado,Asmet Salud,1987060,4774
+2023-06-01,subsidiado,Cajacopi,1517568,2771
+2023-06-01,subsidiado,Capital Salud,1170550,4083
+2023-06-01,subsidiado,Capresoca,176780,238
+2023-06-01,subsidiado,Comfachocó,170624,188
+2023-06-01,subsidiado,Comfaoriente,234716,211
+2023-06-01,subsidiado,Coosalud,3272079,4600
+2023-06-01,subsidiado,Emssanar,1860185,3417
+2023-06-01,subsidiado,Familiar de Colombia,235695,157
+2023-06-01,subsidiado,Mutual Ser,2480213,1769
+2023-06-01,subsidiado,Nueva EPS,4381528,6746
+2023-06-01,subsidiado,Savia Salud,1678529,4476
+2023-07-01,contributivo,Aliansalud,245323,511
+2023-07-01,contributivo,Comfenalco Valle,295078,937
+2023-07-01,contributivo,Compensar,2175287,6505
+2023-07-01,contributivo,Coosalud,104412,357
+2023-07-01,contributivo,Famisanar,3049712,9109
+2023-07-01,contributivo,Mutual Ser,120665,194
+2023-07-01,contributivo,Nueva EPS,5786898,16911
+2023-07-01,contributivo,SOS,748124,2756
+2023-07-01,contributivo,Salud Bolívar,1233,0
+2023-07-01,contributivo,Salud Mía,57981,140
+2023-07-01,contributivo,Salud Total,4742052,10655
+2023-07-01,contributivo,Sanitas,5805976,13737
+2023-07-01,contributivo,Sura,5349047,12675
+2023-07-01,subsidiado,Asmet Salud,1724148,3942
+2023-07-01,subsidiado,Cajacopi,1513456,2347
+2023-07-01,subsidiado,Capital Salud,1166429,3863
+2023-07-01,subsidiado,Capresoca,176505,244
+2023-07-01,subsidiado,Comfachocó,169944,124
+2023-07-01,subsidiado,Comfaoriente,234666,215
+2023-07-01,subsidiado,Coosalud,3299489,4314
+2023-07-01,subsidiado,Emssanar,1850393,3361
+2023-07-01,subsidiado,Familiar de Colombia,236167,175
+2023-07-01,subsidiado,Mutual Ser,2484774,1631
+2023-07-01,subsidiado,Nueva EPS,4779605,6580
+2023-07-01,subsidiado,Savia Salud,1671930,4626
+2023-08-01,contributivo,Aliansalud,244251,562
+2023-08-01,contributivo,Comfenalco Valle,292573,939
+2023-08-01,contributivo,Compensar,2174803,7225
+2023-08-01,contributivo,Coosalud,103715,373
+2023-08-01,contributivo,Famisanar,3033931,9888
+2023-08-01,contributivo,Mutual Ser,122568,282
+2023-08-01,contributivo,Nueva EPS,5720103,18194
+2023-08-01,contributivo,SOS,748064,2942
+2023-08-01,contributivo,Salud Bolívar,1429,1
+2023-08-01,contributivo,Salud Mía,58174,157
+2023-08-01,contributivo,Salud Total,4747606,11556
+2023-08-01,contributivo,Sanitas,5820143,15626
+2023-08-01,contributivo,Sura,5378245,14399
+2023-08-01,subsidiado,Asmet Salud,1707380,4055
+2023-08-01,subsidiado,Cajacopi,1512213,2736
+2023-08-01,subsidiado,Capital Salud,1161809,4126
+2023-08-01,subsidiado,Capresoca,176755,279
+2023-08-01,subsidiado,Comfachocó,173718,180
+2023-08-01,subsidiado,Comfaoriente,235069,229
+2023-08-01,subsidiado,Coosalud,3301314,5072
+2023-08-01,subsidiado,Emssanar,1839621,3996
+2023-08-01,subsidiado,Familiar de Colombia,240081,218
+2023-08-01,subsidiado,Mutual Ser,2491830,2195
+2023-08-01,subsidiado,Nueva EPS,4903289,7579
+2023-08-01,subsidiado,Savia Salud,1673731,5683
+2023-09-01,contributivo,Aliansalud,245371,571
+2023-09-01,contributivo,Comfenalco Valle,292680,895
+2023-09-01,contributivo,Compensar,2177885,7105
+2023-09-01,contributivo,Coosalud,102705,373
+2023-09-01,contributivo,Famisanar,3030445,9613
+2023-09-01,contributivo,Mutual Ser,124490,303
+2023-09-01,contributivo,Nueva EPS,5764954,17484
+2023-09-01,contributivo,SOS,749019,2809
+2023-09-01,contributivo,Salud Bolívar,1778,4
+2023-09-01,contributivo,Salud Mía,58217,171
+2023-09-01,contributivo,Salud Total,4739274,11592
+2023-09-01,contributivo,Sanitas,5804605,15860
+2023-09-01,contributivo,Sura,5388649,14995
+2023-09-01,subsidiado,Asmet Salud,1693197,3620
+2023-09-01,subsidiado,Cajacopi,1515424,2903
+2023-09-01,subsidiado,Capital Salud,1164623,3919
+2023-09-01,subsidiado,Capresoca,176512,532
+2023-09-01,subsidiado,Comfachocó,174832,144
+2023-09-01,subsidiado,Comfaoriente,235143,250
+2023-09-01,subsidiado,Coosalud,3285144,5065
+2023-09-01,subsidiado,Emssanar,1827250,3717
+2023-09-01,subsidiado,Familiar de Colombia,234540,223
+2023-09-01,subsidiado,Mutual Ser,2494965,2377
+2023-09-01,subsidiado,Nueva EPS,4970162,7573
+2023-09-01,subsidiado,Savia Salud,1672124,6113
+2023-10-01,contributivo,Aliansalud,245412,581
+2023-10-01,contributivo,Comfenalco Valle,293355,848
+2023-10-01,contributivo,Compensar,2176792,7457
+2023-10-01,contributivo,Coosalud,99770,433
+2023-10-01,contributivo,Famisanar,2998437,10895
+2023-10-01,contributivo,Mutual Ser,126107,283
+2023-10-01,contributivo,Nueva EPS,5798276,17450
+2023-10-01,contributivo,SOS,749801,2724
+2023-10-01,contributivo,Salud Bolívar,2040,1
+2023-10-01,contributivo,Salud Mía,58286,141
+2023-10-01,contributivo,Salud Total,4758125,12154
+2023-10-01,contributivo,Sanitas,5810642,18744
+2023-10-01,contributivo,Sura,5400460,15484
+2023-10-01,subsidiado,Asmet Salud,1683232,3382
+2023-10-01,subsidiado,Cajacopi,1510637,3067
+2023-10-01,subsidiado,Capital Salud,1169239,4115
+2023-10-01,subsidiado,Capresoca,176667,700
+2023-10-01,subsidiado,Comfachocó,174532,151
+2023-10-01,subsidiado,Comfaoriente,235107,229
+2023-10-01,subsidiado,Coosalud,3235339,6064
+2023-10-01,subsidiado,Emssanar,1819751,3999
+2023-10-01,subsidiado,Familiar de Colombia,234859,202
+2023-10-01,subsidiado,Mutual Ser,2499318,2257
+2023-10-01,subsidiado,Nueva EPS,5052443,8161
+2023-10-01,subsidiado,Savia Salud,1673106,5694
+2023-11-01,contributivo,Aliansalud,245438,486
+2023-11-01,contributivo,Comfenalco Valle,292772,693
+2023-11-01,contributivo,Compensar,2172366,6401
+2023-11-01,contributivo,Coosalud,98943,389
+2023-11-01,contributivo,Famisanar,2977443,9363
+2023-11-01,contributivo,Mutual Ser,127253,264
+2023-11-01,contributivo,Nueva EPS,5810281,15682
+2023-11-01,contributivo,SOS,751966,2572
+2023-11-01,contributivo,Salud Bolívar,2446,4
+2023-11-01,contributivo,Salud Mía,58549,109
+2023-11-01,contributivo,Salud Total,4799208,10686
+2023-11-01,contributivo,Sanitas,5834508,18387
+2023-11-01,contributivo,Sura,5416810,13784
+2023-11-01,subsidiado,Asmet Salud,1665597,2991
+2023-11-01,subsidiado,Cajacopi,1498922,3124
+2023-11-01,subsidiado,Capital Salud,1168986,3615
+2023-11-01,subsidiado,Capresoca,176616,594
+2023-11-01,subsidiado,Comfachocó,174106,128
+2023-11-01,subsidiado,Comfaoriente,236144,186
+2023-11-01,subsidiado,Coosalud,3246411,6039
+2023-11-01,subsidiado,Emssanar,1809230,3390
+2023-11-01,subsidiado,Familiar de Colombia,241545,212
+2023-11-01,subsidiado,Mutual Ser,2502109,2013
+2023-11-01,subsidiado,Nueva EPS,5072120,6879
+2023-11-01,subsidiado,Savia Salud,1672055,4874
+2023-12-01,contributivo,Aliansalud,245581,369
+2023-12-01,contributivo,Comfenalco Valle,293336,493
+2023-12-01,contributivo,Compensar,2168600,4545
+2023-12-01,contributivo,Coosalud,97779,273
+2023-12-01,contributivo,Famisanar,2936330,6410
+2023-12-01,contributivo,Mutual Ser,128018,205
+2023-12-01,contributivo,Nueva EPS,5807243,11101
+2023-12-01,contributivo,SOS,751059,1589
+2023-12-01,contributivo,Salud Bolívar,2803,1
+2023-12-01,contributivo,Salud Mía,58623,62
+2023-12-01,contributivo,Salud Total,4812653,7849
+2023-12-01,contributivo,Sanitas,5810012,12589
+2023-12-01,contributivo,Sura,5407580,9642
+2023-12-01,subsidiado,Asmet Salud,1654696,1828
+2023-12-01,subsidiado,Cajacopi,1489433,1931
+2023-12-01,subsidiado,Capital Salud,1166698,2329
+2023-12-01,subsidiado,Capresoca,176461,343
+2023-12-01,subsidiado,Comfachocó,173770,112
+2023-12-01,subsidiado,Comfaoriente,236050,123
+2023-12-01,subsidiado,Coosalud,3237487,3582
+2023-12-01,subsidiado,Emssanar,1798398,2064
+2023-12-01,subsidiado,Familiar de Colombia,241886,164
+2023-12-01,subsidiado,Mutual Ser,2503787,1369
+2023-12-01,subsidiado,Nueva EPS,5099299,4706
+2023-12-01,subsidiado,Savia Salud,1671034,3005
+2024-01-01,contributivo,Aliansalud,245437,435
+2024-01-01,contributivo,Comfenalco Valle,290874,744
+2024-01-01,contributivo,Compensar,2162553,6259
+2024-01-01,contributivo,Coosalud,96911,369
+2024-01-01,contributivo,Famisanar,2918982,8383
+2024-01-01,contributivo,Mutual Ser,128170,316
+2024-01-01,contributivo,Nueva EPS,5773154,14945
+2024-01-01,contributivo,SOS,747230,2138
+2024-01-01,contributivo,Salud Bolívar,2916,2
+2024-01-01,contributivo,Salud Mía,58637,81
+2024-01-01,contributivo,Salud Total,4793519,11195
+2024-01-01,contributivo,Sanitas,5780082,15070
+2024-01-01,contributivo,Sura,5386860,13137
+2024-01-01,subsidiado,Asmet Salud,1648875,2277
+2024-01-01,subsidiado,Cajacopi,1486456,2484
+2024-01-01,subsidiado,Capital Salud,1164988,3425
+2024-01-01,subsidiado,Capresoca,175959,394
+2024-01-01,subsidiado,Comfachocó,174755,105
+2024-01-01,subsidiado,Comfaoriente,235929,157
+2024-01-01,subsidiado,Coosalud,3235276,4976
+2024-01-01,subsidiado,Emssanar,1794206,2927
+2024-01-01,subsidiado,Familiar de Colombia,242572,189
+2024-01-01,subsidiado,Mutual Ser,2506778,1841
+2024-01-01,subsidiado,Nueva EPS,5120384,6529
+2024-01-01,subsidiado,Savia Salud,1672446,4503
+2024-02-01,contributivo,Aliansalud,245601,530
+2024-02-01,contributivo,Comfenalco Valle,291195,695
+2024-02-01,contributivo,Compensar,2161873,7022
+2024-02-01,contributivo,Coosalud,95794,424
+2024-02-01,contributivo,Famisanar,2864747,8919
+2024-02-01,contributivo,Mutual Ser,129838,323
+2024-02-01,contributivo,Nueva EPS,5810662,16137
+2024-02-01,contributivo,SOS,750029,2348
+2024-02-01,contributivo,Salud Bolívar,2985,1
+2024-02-01,contributivo,Salud Mía,59163,103
+2024-02-01,contributivo,Salud Total,4793848,12792
+2024-02-01,contributivo,Sanitas,5790578,15723
+2024-02-01,contributivo,Sura,5412233,13675
+2024-02-01,subsidiado,Asmet Salud,1640359,2641
+2024-02-01,subsidiado,Cajacopi,1478623,3013
+2024-02-01,subsidiado,Capital Salud,1150902,4085
+2024-02-01,subsidiado,Capresoca,175778,484
+2024-02-01,subsidiado,Comfachocó,175731,140
+2024-02-01,subsidiado,Comfaoriente,235896,153
+2024-02-01,subsidiado,Coosalud,3224059,5792
+2024-02-01,subsidiado,Emssanar,1785448,3239
+2024-02-01,subsidiado,Familiar de Colombia,248261,240
+2024-02-01,subsidiado,Mutual Ser,2509296,2117
+2024-02-01,subsidiado,Nueva EPS,5149357,7164
+2024-02-01,subsidiado,Savia Salud,1671778,4644
+2024-03-01,contributivo,Aliansalud,245619,492
+2024-03-01,contributivo,Comfenalco Valle,292804,642
+2024-03-01,contributivo,Compensar,2160851,6946
+2024-03-01,contributivo,Coosalud,95541,381
+2024-03-01,contributivo,Famisanar,2842117,8505
+2024-03-01,contributivo,Mutual Ser,130692,285
+2024-03-01,contributivo,Nueva EPS,5852026,16240
+2024-03-01,contributivo,SOS,751294,2514
+2024-03-01,contributivo,Salud Bolívar,3057,3
+2024-03-01,contributivo,Salud Mía,59389,129
+2024-03-01,contributivo,Salud Total,4823149,14326
+2024-03-01,contributivo,Sanitas,5800047,14367
+2024-03-01,contributivo,Sura,5428849,13652
+2024-03-01,subsidiado,Asmet Salud,1628500,2517
+2024-03-01,subsidiado,Cajacopi,1469072,2792
+2024-03-01,subsidiado,Capital Salud,1144181,3820
+2024-03-01,subsidiado,Capresoca,175413,362
+2024-03-01,subsidiado,Comfachocó,173980,146
+2024-03-01,subsidiado,Comfaoriente,235486,148
+2024-03-01,subsidiado,Coosalud,3212189,5304
+2024-03-01,subsidiado,Emssanar,1775276,3121
+2024-03-01,subsidiado,Familiar de Colombia,254258,275
+2024-03-01,subsidiado,Mutual Ser,2510087,2279
+2024-03-01,subsidiado,Nueva EPS,5195908,7284
+2024-03-01,subsidiado,Savia Salud,1672088,4685
+2024-04-01,contributivo,Aliansalud,246176,607
+2024-04-01,contributivo,Comfenalco Valle,292543,1065
+2024-04-01,contributivo,Compensar,2162758,8183
+2024-04-01,contributivo,Coosalud,95645,479
+2024-04-01,contributivo,Famisanar,2824969,10429
+2024-04-01,contributivo,Mutual Ser,132587,441
+2024-04-01,contributivo,Nueva EPS,5875757,20904
+2024-04-01,contributivo,SOS,751349,3185
+2024-04-01,contributivo,Salud Bolívar,3176,6
+2024-04-01,contributivo,Salud Mía,59799,130
+2024-04-01,contributivo,Salud Total,4836045,18048
+2024-04-01,contributivo,Sanitas,5792735,18778
+2024-04-01,contributivo,Sura,5447201,18823
+2024-04-01,subsidiado,Asmet Salud,1618489,3030
+2024-04-01,subsidiado,Cajacopi,1466760,3203
+2024-04-01,subsidiado,Capital Salud,1137975,4744
+2024-04-01,subsidiado,Capresoca,175549,483
+2024-04-01,subsidiado,Comfachocó,173251,187
+2024-04-01,subsidiado,Comfaoriente,236105,182
+2024-04-01,subsidiado,Coosalud,3206830,6209
+2024-04-01,subsidiado,Emssanar,1766375,3934
+2024-04-01,subsidiado,Familiar de Colombia,255602,339
+2024-04-01,subsidiado,Mutual Ser,2513945,2920
+2024-04-01,subsidiado,Nueva EPS,5238272,9197
+2024-04-01,subsidiado,Savia Salud,1670072,6488
+2024-05-01,contributivo,Aliansalud,247700,588
+2024-05-01,contributivo,Comfenalco Valle,293445,1148
+2024-05-01,contributivo,Compensar,2133642,7340
+2024-05-01,contributivo,Coosalud,95578,396
+2024-05-01,contributivo,Famisanar,2817124,9283
+2024-05-01,contributivo,Mutual Ser,134424,344
+2024-05-01,contributivo,Nueva EPS,5904533,19546
+2024-05-01,contributivo,SOS,750823,3339
+2024-05-01,contributivo,Salud Bolívar,3413,4
+2024-05-01,contributivo,Salud Mía,60126,127
+2024-05-01,contributivo,Salud Total,4867338,15757
+2024-05-01,contributivo,Sanitas,5762929,18050
+2024-05-01,contributivo,Sura,5456245,17750
+2024-05-01,subsidiado,Asmet Salud,1611751,2770
+2024-05-01,subsidiado,Cajacopi,1460913,3582
+2024-05-01,subsidiado,Capital Salud,1132948,4186
+2024-05-01,subsidiado,Capresoca,174546,668
+2024-05-01,subsidiado,Comfachocó,171502,194
+2024-05-01,subsidiado,Comfaoriente,235704,195
+2024-05-01,subsidiado,Coosalud,3196870,5619
+2024-05-01,subsidiado,Emssanar,1752883,3912
+2024-05-01,subsidiado,Familiar de Colombia,258329,268
+2024-05-01,subsidiado,Mutual Ser,2515762,2789
+2024-05-01,subsidiado,Nueva EPS,5283474,9297
+2024-05-01,subsidiado,Savia Salud,1671795,5534
+2024-06-01,contributivo,Aliansalud,248875,562
+2024-06-01,contributivo,Comfenalco Valle,294186,1210
+2024-06-01,contributivo,Compensar,2106654,6420
+2024-06-01,contributivo,Coosalud,97929,380
+2024-06-01,contributivo,Famisanar,2808231,8184
+2024-06-01,contributivo,Mutual Ser,136641,355
+2024-06-01,contributivo,Nueva EPS,5940904,17421
+2024-06-01,contributivo,SOS,751946,3094
+2024-06-01,contributivo,Salud Bolívar,3544,6
+2024-06-01,contributivo,Salud Mía,61330,122
+2024-06-01,contributivo,Salud Total,4907607,14229
+2024-06-01,contributivo,Sanitas,5768149,17062
+2024-06-01,contributivo,Sura,5437287,14610
+2024-06-01,subsidiado,Asmet Salud,1601730,2361
+2024-06-01,subsidiado,Cajacopi,1454112,3342
+2024-06-01,subsidiado,Capital Salud,1133737,3834
+2024-06-01,subsidiado,Capresoca,174464,547
+2024-06-01,subsidiado,Comfachocó,171151,154
+2024-06-01,subsidiado,Comfaoriente,235586,201
+2024-06-01,subsidiado,Coosalud,3196429,5195
+2024-06-01,subsidiado,Emssanar,1743838,3755
+2024-06-01,subsidiado,Familiar de Colombia,260068,255
+2024-06-01,subsidiado,Mutual Ser,2517821,2623
+2024-06-01,subsidiado,Nueva EPS,5323319,8683
+2024-06-01,subsidiado,Savia Salud,1671899,4896
+2024-07-01,contributivo,Aliansalud,249804,647
+2024-07-01,contributivo,Comfenalco Valle,293526,1352
+2024-07-01,contributivo,Compensar,2090815,7774
+2024-07-01,contributivo,Coosalud,97451,451
+2024-07-01,contributivo,Famisanar,2794418,9432
+2024-07-01,contributivo,Mutual Ser,138237,361
+2024-07-01,contributivo,Nueva EPS,5920946,19408
+2024-07-01,contributivo,SOS,752167,3318
+2024-07-01,contributivo,Salud Bolívar,3557,3
+2024-07-01,contributivo,Salud Mía,62357,158
+2024-07-01,contributivo,Salud Total,4933931,16127
+2024-07-01,contributivo,Sanitas,5775816,19288
+2024-07-01,contributivo,Sura,5409527,17252
+2024-07-01,subsidiado,Asmet Salud,1595961,2607
+2024-07-01,subsidiado,Cajacopi,1451436,3539
+2024-07-01,subsidiado,Capital Salud,1130243,4141
+2024-07-01,subsidiado,Capresoca,174265,502
+2024-07-01,subsidiado,Comfachocó,170621,227
+2024-07-01,subsidiado,Comfaoriente,236141,235
+2024-07-01,subsidiado,Coosalud,3200362,6105
+2024-07-01,subsidiado,Emssanar,1735884,4253
+2024-07-01,subsidiado,Familiar de Colombia,265019,315
+2024-07-01,subsidiado,Mutual Ser,2518594,3183
+2024-07-01,subsidiado,Nueva EPS,5349008,9317
+2024-07-01,subsidiado,Savia Salud,1671717,5704
+2024-08-01,contributivo,Aliansalud,250683,624
+2024-08-01,contributivo,Comfenalco Valle,293793,1737
+2024-08-01,contributivo,Compensar,2074033,8065
+2024-08-01,contributivo,Coosalud,96829,448
+2024-08-01,contributivo,Famisanar,2778774,10127
+2024-08-01,contributivo,Mutual Ser,139835,373
+2024-08-01,contributivo,Nueva EPS,5952395,19903
+2024-08-01,contributivo,SOS,752866,3102
+2024-08-01,contributivo,Salud Bolívar,3545,7
+2024-08-01,contributivo,Salud Mía,63363,150
+2024-08-01,contributivo,Salud Total,4961538,15912
+2024-08-01,contributivo,Sanitas,5780265,18340
+2024-08-01,contributivo,Sura,5400029,16788
+2024-08-01,subsidiado,Asmet Salud,1587710,2518
+2024-08-01,subsidiado,Cajacopi,1447827,3511
+2024-08-01,subsidiado,Capital Salud,1126559,4099
+2024-08-01,subsidiado,Capresoca,174277,557
+2024-08-01,subsidiado,Comfachocó,170374,183
+2024-08-01,subsidiado,Comfaoriente,236283,210
+2024-08-01,subsidiado,Coosalud,3194192,5813
+2024-08-01,subsidiado,Emssanar,1724624,3839
+2024-08-01,subsidiado,Familiar de Colombia,274554,340
+2024-08-01,subsidiado,Mutual Ser,2524516,3245
+2024-08-01,subsidiado,Nueva EPS,5393417,9218
+2024-08-01,subsidiado,Savia Salud,1675052,5462
+2024-09-01,contributivo,Aliansalud,251222,748
+2024-09-01,contributivo,Comfenalco Valle,293291,1876
+2024-09-01,contributivo,Compensar,2063703,8815
+2024-09-01,contributivo,Coosalud,96395,494
+2024-09-01,contributivo,Famisanar,2776111,10817
+2024-09-01,contributivo,Mutual Ser,141297,429
+2024-09-01,contributivo,Nueva EPS,5973116,23832
+2024-09-01,contributivo,SOS,754541,3558
+2024-09-01,contributivo,Salud Bolívar,3544,6
+2024-09-01,contributivo,Salud Mía,64005,164
+2024-09-01,contributivo,Salud Total,4982995,16620
+2024-09-01,contributivo,Sanitas,5794477,20034
+2024-09-01,contributivo,Sura,5386655,18455
+2024-09-01,subsidiado,Asmet Salud,1579682,2976
+2024-09-01,subsidiado,Cajacopi,1444393,3426
+2024-09-01,subsidiado,Capital Salud,1123725,4342
+2024-09-01,subsidiado,Capresoca,173932,678
+2024-09-01,subsidiado,Comfachocó,170034,236
+2024-09-01,subsidiado,Comfaoriente,236384,215
+2024-09-01,subsidiado,Coosalud,3184526,6425
+2024-09-01,subsidiado,Emssanar,1714513,4305
+2024-09-01,subsidiado,Familiar de Colombia,282240,395
+2024-09-01,subsidiado,Mutual Ser,2525193,3352
+2024-09-01,subsidiado,Nueva EPS,5425509,10929
+2024-09-01,subsidiado,Savia Salud,1675204,5527
+2024-10-01,contributivo,Aliansalud,251805,721
+2024-10-01,contributivo,Comfenalco Valle,293410,2170
+2024-10-01,contributivo,Compensar,2054563,9980
+2024-10-01,contributivo,Coosalud,95777,652
+2024-10-01,contributivo,Famisanar,2765014,12206
+2024-10-01,contributivo,Mutual Ser,142779,606
+2024-10-01,contributivo,Nueva EPS,5989246,27460
+2024-10-01,contributivo,SOS,754340,5139
+2024-10-01,contributivo,Salud Bolívar,3562,8
+2024-10-01,contributivo,Salud Mía,64690,184
+2024-10-01,contributivo,Salud Total,5009339,21540
+2024-10-01,contributivo,Sanitas,5810220,24366
+2024-10-01,contributivo,Sura,5380444,20623
+2024-10-01,subsidiado,Asmet Salud,1575234,3191
+2024-10-01,subsidiado,Cajacopi,1440147,3570
+2024-10-01,subsidiado,Capital Salud,1119584,5421
+2024-10-01,subsidiado,Capresoca,172597,796
+2024-10-01,subsidiado,Comfachocó,169557,202
+2024-10-01,subsidiado,Comfaoriente,236826,236
+2024-10-01,subsidiado,Coosalud,3180554,7680
+2024-10-01,subsidiado,Emssanar,1705988,4304
+2024-10-01,subsidiado,Familiar de Colombia,289863,507
+2024-10-01,subsidiado,Mutual Ser,2529267,4229
+2024-10-01,subsidiado,Nueva EPS,5458877,12306
+2024-10-01,subsidiado,Savia Salud,1682399,6067
+2024-11-01,contributivo,Aliansalud,252218,593
+2024-11-01,contributivo,Comfenalco Valle,294437,1597
+2024-11-01,contributivo,Compensar,2050784,8642
+2024-11-01,contributivo,Coosalud,95088,522
+2024-11-01,contributivo,Famisanar,2757520,10006
+2024-11-01,contributivo,Mutual Ser,143611,643
+2024-11-01,contributivo,Nueva EPS,6002140,26775
+2024-11-01,contributivo,SOS,754381,4388
+2024-11-01,contributivo,Salud Bolívar,3551,3
+2024-11-01,contributivo,Salud Mía,65438,185
+2024-11-01,contributivo,Salud Total,5029319,20148
+2024-11-01,contributivo,Sanitas,5816702,21989
+2024-11-01,contributivo,Sura,5387537,17131
+2024-11-01,subsidiado,Asmet Salud,1571895,2751
+2024-11-01,subsidiado,Cajacopi,1433194,3032
+2024-11-01,subsidiado,Capital Salud,1112184,4958
+2024-11-01,subsidiado,Capresoca,171905,663
+2024-11-01,subsidiado,Comfachocó,168961,166
+2024-11-01,subsidiado,Comfaoriente,238171,206
+2024-11-01,subsidiado,Coosalud,3174931,6532
+2024-11-01,subsidiado,Emssanar,1696203,3717
+2024-11-01,subsidiado,Familiar de Colombia,312107,408
+2024-11-01,subsidiado,Mutual Ser,2531965,4468
+2024-11-01,subsidiado,Nueva EPS,5493174,11198
+2024-11-01,subsidiado,Savia Salud,1679144,5251
+2024-12-01,contributivo,Aliansalud,252484,571
+2024-12-01,contributivo,Comfenalco Valle,294879,1236
+2024-12-01,contributivo,Compensar,2047464,7116
+2024-12-01,contributivo,Coosalud,94597,452
+2024-12-01,contributivo,Famisanar,2745600,8378
+2024-12-01,contributivo,Mutual Ser,144169,612
+2024-12-01,contributivo,Nueva EPS,6006083,24793
+2024-12-01,contributivo,SOS,753480,3346
+2024-12-01,contributivo,Salud Bolívar,3531,7
+2024-12-01,contributivo,Salud Mía,65918,127
+2024-12-01,contributivo,Salud Total,5047878,19415
+2024-12-01,contributivo,Sanitas,5819205,18495
+2024-12-01,contributivo,Sura,5373664,14080
+2024-12-01,subsidiado,Asmet Salud,1569739,2200
+2024-12-01,subsidiado,Cajacopi,1427285,2382
+2024-12-01,subsidiado,Capital Salud,1107619,4180
+2024-12-01,subsidiado,Capresoca,171667,406
+2024-12-01,subsidiado,Comfachocó,169085,167
+2024-12-01,subsidiado,Comfaoriente,238172,195
+2024-12-01,subsidiado,Coosalud,3178074,5485
+2024-12-01,subsidiado,Emssanar,1689250,2928
+2024-12-01,subsidiado,Familiar de Colombia,314772,352
+2024-12-01,subsidiado,Mutual Ser,2533294,4517
+2024-12-01,subsidiado,Nueva EPS,5540770,9844
+2024-12-01,subsidiado,Savia Salud,1680696,3951
+2025-01-01,contributivo,Aliansalud,252675,588
+2025-01-01,contributivo,Comfenalco Valle,293386,1636
+2025-01-01,contributivo,Compensar,1834599,8799
+2025-01-01,contributivo,Coosalud,125629,535
+2025-01-01,contributivo,Famisanar,2716006,11690
+2025-01-01,contributivo,Mutual Ser,144027,734
+2025-01-01,contributivo,Nueva EPS,5982479,30522
+2025-01-01,contributivo,SOS,748522,3438
+2025-01-01,contributivo,Salud Bolívar,3526,0
+2025-01-01,contributivo,Salud Mía,66110,161
+2025-01-01,contributivo,Salud Total,5094663,23494
+2025-01-01,contributivo,Sanitas,5732076,20960
+2025-01-01,contributivo,Sura,5360751,17813
+2025-01-01,subsidiado,Asmet Salud,1572654,2282
+2025-01-01,subsidiado,Cajacopi,1425111,2645
+2025-01-01,subsidiado,Capital Salud,1105145,4977
+2025-01-01,subsidiado,Capresoca,171744,378
+2025-01-01,subsidiado,Comfachocó,168642,161
+2025-01-01,subsidiado,Comfaoriente,253181,187
+2025-01-01,subsidiado,Coosalud,3275929,6557
+2025-01-01,subsidiado,Emssanar,1715205,3196
+2025-01-01,subsidiado,Familiar de Colombia,334691,397
+2025-01-01,subsidiado,Mutual Ser,2535519,5221
+2025-01-01,subsidiado,Nueva EPS,5624302,10306
+2025-01-01,subsidiado,Savia Salud,1688253,5330
+2025-02-01,contributivo,Aliansalud,253046,595
+2025-02-01,contributivo,Comfenalco Valle,293685,1364
+2025-02-01,contributivo,Compensar,1826107,7887
+2025-02-01,contributivo,Coosalud,124765,629
+2025-02-01,contributivo,Famisanar,2726901,12343
+2025-02-01,contributivo,Mutual Ser,145038,625
+2025-02-01,contributivo,Nueva EPS,6005367,29738
+2025-02-01,contributivo,SOS,749715,3269
+2025-02-01,contributivo,Salud Bolivar,3526,3
+2025-02-01,contributivo,Salud Mía,66944,156
+2025-02-01,contributivo,Salud Total,5114604,20931
+2025-02-01,contributivo,Sanitas,5796732,20132
+2025-02-01,contributivo,Sura,5370696,17928
+2025-02-01,subsidiado,Asmet Salud,1568145,2597
+2025-02-01,subsidiado,Cajacopi,1419842,2368
+2025-02-01,subsidiado,Capital Salud,1101846,4951
+2025-02-01,subsidiado,Capresoca,171017,426
+2025-02-01,subsidiado,Comfachocó,168381,163
+2025-02-01,subsidiado,Comfaoriente,252719,227
+2025-02-01,subsidiado,Coosalud,3254555,6663
+2025-02-01,subsidiado,Emssanar,1707145,3470
+2025-02-01,subsidiado,Familiar de Colombia,340675,415
+2025-02-01,subsidiado,Mutual Ser,2535016,5194
+2025-02-01,subsidiado,Nueva EPS,5643591,10890
+2025-02-01,subsidiado,Savia Salud,1665569,5082
+2025-03-01,contributivo,Aliansalud,253551,637
+2025-03-01,contributivo,Comfenalco Valle,294538,1320
+2025-03-01,contributivo,Compensar,1817552,8444
+2025-03-01,contributivo,Coosalud,123942,630
+2025-03-01,contributivo,Famisanar,2724592,13056
+2025-03-01,contributivo,Mutual Ser,145878,657
+2025-03-01,contributivo,Nueva EPS,6014748,31404
+2025-03-01,contributivo,SOS,750714,3382
+2025-03-01,contributivo,Salud Bolivar,3567,7
+2025-03-01,contributivo,Salud Mía,67696,184
+2025-03-01,contributivo,Salud Total,5142115,22034
+2025-03-01,contributivo,Sanitas,5823875,22207
+2025-03-01,contributivo,Sura,5383408,19789
+2025-03-01,subsidiado,Asmet Salud,1566057,2559
+2025-03-01,subsidiado,Cajacopi,1415745,2933
+2025-03-01,subsidiado,Capital Salud,1097428,5628
+2025-03-01,subsidiado,Capresoca,170386,426
+2025-03-01,subsidiado,Comfachocó,167908,150
+2025-03-01,subsidiado,Comfaoriente,252762,273
+2025-03-01,subsidiado,Coosalud,3252494,6818
+2025-03-01,subsidiado,Emssanar,1701918,3703
+2025-03-01,subsidiado,Familiar de Colombia,344052,386
+2025-03-01,subsidiado,Mutual Ser,2532968,4824
+2025-03-01,subsidiado,Nueva EPS,5659961,11655
+2025-03-01,subsidiado,Savia Salud,1689863,5704
+2025-04-01,contributivo,Aliansalud,253578,534
+2025-04-01,contributivo,Comfenalco Valle,294958,1392
+2025-04-01,contributivo,Compensar,1815017,7485
+2025-04-01,contributivo,Coosalud,122682,668
+2025-04-01,contributivo,Famisanar,2720654,12024
+2025-04-01,contributivo,Mutual Ser,146312,554
+2025-04-01,contributivo,Nueva EPS,6006268,28136
+2025-04-01,contributivo,SOS,748570,3401
+2025-04-01,contributivo,Salud Bolivar,3604,6
+2025-04-01,contributivo,Salud Mía,68402,210
+2025-04-01,contributivo,Salud Total,5174937,20083
+2025-04-01,contributivo,Sanitas,5841662,21292
+2025-04-01,contributivo,Sura,5363691,20937
+2025-04-01,subsidiado,Asmet Salud,1564252,2341
+2025-04-01,subsidiado,Cajacopi,1408269,2948
+2025-04-01,subsidiado,Capital Salud,1096616,5117
+2025-04-01,subsidiado,Capresoca,170214,586
+2025-04-01,subsidiado,Comfachocó,167382,166
+2025-04-01,subsidiado,Comfaoriente,252723,251
+2025-04-01,subsidiado,Coosalud,3246842,6264
+2025-04-01,subsidiado,Emssanar,1697135,3593
+2025-04-01,subsidiado,Familiar de Colombia,346991,394
+2025-04-01,subsidiado,Mutual Ser,2532806,4091
+2025-04-01,subsidiado,Nueva EPS,5679138,10330
+2025-04-01,subsidiado,Savia Salud,1673139,5339
+2025-05-01,contributivo,Aliansalud,257459,667
+2025-05-01,contributivo,Comfenalco Valle,295121,1643
+2025-05-01,contributivo,Compensar,1813935,8176
+2025-05-01,contributivo,Coosalud,121332,691
+2025-05-01,contributivo,Famisanar,2716051,13547
+2025-05-01,contributivo,Mutual Ser,147405,588
+2025-05-01,contributivo,Nueva EPS,6015799,31919
+2025-05-01,contributivo,SOS,749884,3548
+2025-05-01,contributivo,Salud Bolivar,2,12
+2025-05-01,contributivo,Salud Mía,69606,218
+2025-05-01,contributivo,Salud Total,5183980,22033
+2025-05-01,contributivo,Sanitas,5865195,23927
+2025-05-01,contributivo,Sura,5390456,23420
+2025-05-01,subsidiado,Asmet Salud,1561552,2695
+2025-05-01,subsidiado,Cajacopi,1398726,3306
+2025-05-01,subsidiado,Capital Salud,1096127,6183
+2025-05-01,subsidiado,Capresoca,169877,683
+2025-05-01,subsidiado,Comfachocó,170368,195
+2025-05-01,subsidiado,Comfaoriente,252514,303
+2025-05-01,subsidiado,Coosalud,3240552,6683
+2025-05-01,subsidiado,Emssanar,1692026,3785
+2025-05-01,subsidiado,Familiar de Colombia,347463,485
+2025-05-01,subsidiado,Mutual Ser,2531950,4579
+2025-05-01,subsidiado,Nueva EPS,5697138,11568
+2025-05-01,subsidiado,Savia Salud,1687218,5700
+2025-06-01,contributivo,Aliansalud,257882,558
+2025-06-01,contributivo,Comfenalco Valle,295052,1440
+2025-06-01,contributivo,Compensar,1811000,7213
+2025-06-01,contributivo,Coosalud,121088,530
+2025-06-01,contributivo,Famisanar,2702217,12733
+2025-06-01,contributivo,Mutual Ser,148234,574
+2025-06-01,contributivo,Nueva EPS,6032682,27952
+2025-06-01,contributivo,SOS,749248,3106
+2025-06-01,contributivo,Salud Bolivar,0,0
+2025-06-01,contributivo,Salud Mía,70342,190
+2025-06-01,contributivo,Salud Total,5206698,20054
+2025-06-01,contributivo,Sanitas,5883103,20014
+2025-06-01,contributivo,Sura,5405382,20441
+2025-06-01,subsidiado,Asmet Salud,1588189,2193
+2025-06-01,subsidiado,Cajacopi,1389096,2950
+2025-06-01,subsidiado,Capital Salud,1098657,5005
+2025-06-01,subsidiado,Capresoca,169517,487
+2025-06-01,subsidiado,Comfachocó,170525,146
+2025-06-01,subsidiado,Comfaoriente,252556,277
+2025-06-01,subsidiado,Coosalud,3244774,5538
+2025-06-01,subsidiado,Emssanar,1692695,3512
+2025-06-01,subsidiado,Familiar de Colombia,360124,352
+2025-06-01,subsidiado,Mutual Ser,2529828,4219
+2025-06-01,subsidiado,Nueva EPS,5728013,10004
+2025-06-01,subsidiado,Savia Salud,1687566,5146
+2025-07-01,contributivo,Aliansalud,250237,729
+2025-07-01,contributivo,Comfenalco Valle,220876,1771
+2025-07-01,contributivo,Compensar,1528178,8039
+2025-07-01,contributivo,Coosalud,120741,802
+2025-07-01,contributivo,Famisanar,1843228,12722
+2025-07-01,contributivo,Mutual Ser,149015,725
+2025-07-01,contributivo,Nueva EPS,6005998,36445
+2025-07-01,contributivo,SOS,556006,3567
+2025-07-01,contributivo,Salud Mía,71055,210
+2025-07-01,contributivo,Salud Total,3651720,19991
+2025-07-01,contributivo,Sanitas,4425754,20606
+2025-07-01,contributivo,Sura,4525886,24175
+2025-07-01,subsidiado,Aliansalud,7703,29
+2025-07-01,subsidiado,Asmet Salud,1585692,2931
+2025-07-01,subsidiado,Cajacopi,1385960,3933
+2025-07-01,subsidiado,Capital Salud,1106336,6010
+2025-07-01,subsidiado,Capresoca,169066,585
+2025-07-01,subsidiado,Comfachocó,169578,195
+2025-07-01,subsidiado,Comfaoriente,252601,378
+2025-07-01,subsidiado,Comfenalco Valle,73773,245
+2025-07-01,subsidiado,Compensar,274910,1049
+2025-07-01,subsidiado,Coosalud,3240877,7292
+2025-07-01,subsidiado,Emssanar,1689599,4630
+2025-07-01,subsidiado,Familiar de Colombia,360036,517
+2025-07-01,subsidiado,Famisanar,853518,3520
+2025-07-01,subsidiado,Mutual Ser,2529706,5075
+2025-07-01,subsidiado,Nueva EPS,5740026,13540
+2025-07-01,subsidiado,SOS,194213,536
+2025-07-01,subsidiado,Salud Mía,29,47
+2025-07-01,subsidiado,Salud Total,1576347,4784
+2025-07-01,subsidiado,Sanitas,1473221,4302
+2025-07-01,subsidiado,Savia Salud,1690468,7016
+2025-07-01,subsidiado,Sura,887179,2799
+2025-08-01,contributivo,Aliansalud,250377,534
+2025-08-01,contributivo,Comfenalco Valle,221134,1416
+2025-08-01,contributivo,Compensar,1526509,5775
+2025-08-01,contributivo,Coosalud,120197,633
+2025-08-01,contributivo,Famisanar,1831155,8949
+2025-08-01,contributivo,Mutual Ser,149897,542
+2025-08-01,contributivo,Nueva EPS,5992724,27155
+2025-08-01,contributivo,SOS,553905,3234
+2025-08-01,contributivo,Salud Mía,72022,162
+2025-08-01,contributivo,Salud Total,3670459,16036
+2025-08-01,contributivo,Sanitas,4444037,16778
+2025-08-01,contributivo,Sura,4546766,18178
+2025-08-01,subsidiado,Aliansalud,7655,20
+2025-08-01,subsidiado,Asmet Salud,1583041,2525
+2025-08-01,subsidiado,Cajacopi,1380560,3533
+2025-08-01,subsidiado,Capital Salud,1104243,4894
+2025-08-01,subsidiado,Capresoca,168949,551
+2025-08-01,subsidiado,Comfachocó,168951,156
+2025-08-01,subsidiado,Comfaoriente,252636,556
+2025-08-01,subsidiado,Comfenalco Valle,73762,195
+2025-08-01,subsidiado,Compensar,271373,771
+2025-08-01,subsidiado,Coosalud,3236772,6146
+2025-08-01,subsidiado,Emssanar,1684694,4020
+2025-08-01,subsidiado,Familiar de Colombia,359513,449
+2025-08-01,subsidiado,Famisanar,846594,2703
+2025-08-01,subsidiado,Mutual Ser,2528908,3624
+2025-08-01,subsidiado,Nueva EPS,5754895,10977
+2025-08-01,subsidiado,SOS,196476,457
+2025-08-01,subsidiado,Salud Mía,66,30
+2025-08-01,subsidiado,Salud Total,1578648,4012
+2025-08-01,subsidiado,Sanitas,1476658,3537
+2025-08-01,subsidiado,Savia Salud,1688724,5960
+2025-08-01,subsidiado,Sura,888201,2180
+2025-09-01,contributivo,Aliansalud,250084,662
+2025-09-01,contributivo,Comfenalco Valle,220903,1619
+2025-09-01,contributivo,Compensar,1530282,7442
+2025-09-01,contributivo,Coosalud,120060,757
+2025-09-01,contributivo,Famisanar,1821128,12750
+2025-09-01,contributivo,Mutual Ser,150930,689
+2025-09-01,contributivo,Nueva EPS,5977373,34370
+2025-09-01,contributivo,SOS,552098,3973
+2025-09-01,contributivo,Salud Mía,72769,218
+2025-09-01,contributivo,Salud Total,3695723,21450
+2025-09-01,contributivo,Sanitas,4482249,21424
+2025-09-01,contributivo,Sura,4558704,23104
+2025-09-01,subsidiado,Aliansalud,7585,30
+2025-09-01,subsidiado,Asmet Salud,1581707,3496
+2025-09-01,subsidiado,Cajacopi,1377129,4342
+2025-09-01,subsidiado,Capital Salud,1117714,6674
+2025-09-01,subsidiado,Capresoca,168592,712
+2025-09-01,subsidiado,Comfachocó,168689,148
+2025-09-01,subsidiado,Comfaoriente,252888,1015
+2025-09-01,subsidiado,Comfenalco Valle,74012,234
+2025-09-01,subsidiado,Compensar,268519,1050
+2025-09-01,subsidiado,Coosalud,3239227,7805
+2025-09-01,subsidiado,Emssanar,1681985,4874
+2025-09-01,subsidiado,Familiar de Colombia,361927,567
+2025-09-01,subsidiado,Famisanar,842144,3735
+2025-09-01,subsidiado,Mutual Ser,2531767,4635
+2025-09-01,subsidiado,Nueva EPS,5763580,16780
+2025-09-01,subsidiado,SOS,196114,586
+2025-09-01,subsidiado,Salud Mía,100,29
+2025-09-01,subsidiado,Salud Total,1576537,5119
+2025-09-01,subsidiado,Sanitas,1460577,4553
+2025-09-01,subsidiado,Savia Salud,1688206,8222
+2025-09-01,subsidiado,Sura,888943,2778
+2025-10-01,contributivo,Aliansalud,250311,628
+2025-10-01,contributivo,Comfenalco Valle,221525,1639
+2025-10-01,contributivo,Compensar,1529854,6893
+2025-10-01,contributivo,Coosalud,119791,748
+2025-10-01,contributivo,Famisanar,1804112,11507
+2025-10-01,contributivo,Mutual Ser,152771,666
+2025-10-01,contributivo,Nueva EPS,5954677,34775
+2025-10-01,contributivo,SOS,551940,3473
+2025-10-01,contributivo,Salud Bolivar,23482851,122885
+2025-10-01,contributivo,Salud Mía,74073,165
+2025-10-01,contributivo,Salud Total,3727702,19951
+2025-10-01,contributivo,Sanitas,4518346,20991
+2025-10-01,contributivo,Sura,4577749,21449
+2025-10-01,subsidiado,Aliansalud,7588,31
+2025-10-01,subsidiado,Asmet Salud,1584977,3792
+2025-10-01,subsidiado,Cajacopi,1373880,4038
+2025-10-01,subsidiado,Capital Salud,1119880,5936
+2025-10-01,subsidiado,Capresoca,168628,714
+2025-10-01,subsidiado,Comfachocó,168269,179
+2025-10-01,subsidiado,Comfaoriente,251324,372
+2025-10-01,subsidiado,Comfenalco Valle,74445,262
+2025-10-01,subsidiado,Compensar,267246,891
+2025-10-01,subsidiado,Coosalud,3240922,7651
+2025-10-01,subsidiado,Emssanar,1679164,4803
+2025-10-01,subsidiado,Familiar de Colombia,362496,533
+2025-10-01,subsidiado,Famisanar,840305,3326
+2025-10-01,subsidiado,Mutual Ser,2531517,4946
+2025-10-01,subsidiado,Nueva EPS,5772927,17022
+2025-10-01,subsidiado,SOS,196161,549
+2025-10-01,subsidiado,Salud Mía,146,34
+2025-10-01,subsidiado,Salud Total,1578353,4801
+2025-10-01,subsidiado,Sanitas,1454392,4248
+2025-10-01,subsidiado,Savia Salud,1679262,7598
+2025-10-01,subsidiado,Sura,895739,2583
+2025-11-01,contributivo,Aliansalud,250172,560
+2025-11-01,contributivo,Comfenalco Valle,221756,1341
+2025-11-01,contributivo,Compensar,1531169,5896
+2025-11-01,contributivo,Coosalud,119501,629
+2025-11-01,contributivo,Famisanar,1802875,9326
+2025-11-01,contributivo,Mutual Ser,153974,562
+2025-11-01,contributivo,Nueva EPS,5905689,29371
+2025-11-01,contributivo,SOS,551326,3500
+2025-11-01,contributivo,Salud Mía,75352,168
+2025-11-01,contributivo,Salud Total,3758054,17324
+2025-11-01,contributivo,Sanitas,4537011,18490
+2025-11-01,contributivo,Sura,4606108,18905
+2025-11-01,subsidiado,Aliansalud,7517,28
+2025-11-01,subsidiado,Asmet Salud,1587835,3188
+2025-11-01,subsidiado,Cajacopi,1369238,3619
+2025-11-01,subsidiado,Capital Salud,1120703,4872
+2025-11-01,subsidiado,Capresoca,168077,675
+2025-11-01,subsidiado,Comfachocó,167926,166
+2025-11-01,subsidiado,Comfaoriente,253284,307
+2025-11-01,subsidiado,Comfenalco Valle,74891,222
+2025-11-01,subsidiado,Compensar,264977,775
+2025-11-01,subsidiado,Coosalud,3239427,6558
+2025-11-01,subsidiado,Emssanar,1675471,3820
+2025-11-01,subsidiado,Familiar de Colombia,363739,470
+2025-11-01,subsidiado,Famisanar,835558,2772
+2025-11-01,subsidiado,Mutual Ser,2530304,4145
+2025-11-01,subsidiado,Nueva EPS,5768840,13778
+2025-11-01,subsidiado,SOS,195736,463
+2025-11-01,subsidiado,Salud Mía,210,18
+2025-11-01,subsidiado,Salud Total,1578255,4363
+2025-11-01,subsidiado,Sanitas,1448289,3793
+2025-11-01,subsidiado,Savia Salud,1667506,6439
+2025-11-01,subsidiado,Sura,889714,2285
+2025-12-01,contributivo,Aliansalud,250509,477
+2025-12-01,contributivo,Comfenalco Valle,221984,1147
+2025-12-01,contributivo,Compensar,1525385,5115
+2025-12-01,contributivo,Coosalud,119257,566
+2025-12-01,contributivo,Famisanar,1786744,7866
+2025-12-01,contributivo,Mutual Ser,154779,491
+2025-12-01,contributivo,Nueva EPS,5879519,27464
+2025-12-01,contributivo,SOS,548657,3190
+2025-12-01,contributivo,Salud Mía,76423,148
+2025-12-01,contributivo,Salud Total,3769947,13601
+2025-12-01,contributivo,Sanitas,4556059,15662
+2025-12-01,contributivo,Sura,4609604,15240
+2025-12-01,subsidiado,Aliansalud,7463,22
+2025-12-01,subsidiado,Asmet Salud,1587009,2757
+2025-12-01,subsidiado,Cajacopi,1367842,2918
+2025-12-01,subsidiado,Capital Salud,1127012,3853
+2025-12-01,subsidiado,Capresoca,167764,548
+2025-12-01,subsidiado,Comfachocó,167478,111
+2025-12-01,subsidiado,Comfaoriente,253568,414
+2025-12-01,subsidiado,Comfenalco Valle,74586,188
+2025-12-01,subsidiado,Compensar,264508,598
+2025-12-01,subsidiado,Coosalud,3238531,5254
+2025-12-01,subsidiado,Emssanar,1673150,3353
+2025-12-01,subsidiado,Familiar de Colombia,367424,469
+2025-12-01,subsidiado,Famisanar,833303,2329
+2025-12-01,subsidiado,Mutual Ser,2535660,3324
+2025-12-01,subsidiado,Nueva EPS,5769461,12110
+2025-12-01,subsidiado,SOS,197630,449
+2025-12-01,subsidiado,Salud Mía,241,18
+2025-12-01,subsidiado,Salud Total,1579648,3251
+2025-12-01,subsidiado,Sanitas,1455150,2980
+2025-12-01,subsidiado,Savia Salud,1682413,4811
+2025-12-01,subsidiado,Sura,891158,1795
+2026-01-01,contributivo,Aliansalud,250259,634
+2026-01-01,contributivo,Comfenalco Valle,217796,1390
+2026-01-01,contributivo,Compensar,1514550,6034
+2026-01-01,contributivo,Coosalud,119080,652
+2026-01-01,contributivo,Famisanar,1756120,8960
+2026-01-01,contributivo,Mutual Ser,154685,597
+2026-01-01,contributivo,Nueva EPS,5820919,26383
+2026-01-01,contributivo,SOS,535721,4409
+2026-01-01,contributivo,Salud Mía,76568,167
+2026-01-01,contributivo,Salud Total,3709945,15616
+2026-01-01,contributivo,Sanitas,4509952,17549
+2026-01-01,contributivo,Sura,4577223,17655
+2026-01-01,subsidiado,Aliansalud,7421,26
+2026-01-01,subsidiado,Asmet Salud,1584755,3213
+2026-01-01,subsidiado,Cajacopi,1367866,3525
+2026-01-01,subsidiado,Capital Salud,1130816,4846
+2026-01-01,subsidiado,Capresoca,167740,421
+2026-01-01,subsidiado,Comfachocó,167412,136
+2026-01-01,subsidiado,Comfaoriente,253932,340
+2026-01-01,subsidiado,Comfenalco Valle,77374,240
+2026-01-01,subsidiado,Compensar,273215,816
+2026-01-01,subsidiado,Coosalud,3240412,6427
+2026-01-01,subsidiado,Emssanar,1671593,3830
+2026-01-01,subsidiado,Familiar de Colombia,370752,491
+2026-01-01,subsidiado,Famisanar,852444,2713
+2026-01-01,subsidiado,Mutual Ser,2535113,3969
+2026-01-01,subsidiado,Nueva EPS,5759348,12436
+2026-01-01,subsidiado,SOS,206076,552
+2026-01-01,subsidiado,Salud Mía,303,25
+2026-01-01,subsidiado,Salud Total,1615139,3878
+2026-01-01,subsidiado,Sanitas,1483830,3292
+2026-01-01,subsidiado,Savia Salud,1683458,6731
+2026-01-01,subsidiado,Sura,913809,2200
+2026-02-01,contributivo,Aliansalud,250245,646
+2026-02-01,contributivo,Comfenalco Valle,217584,1388
+2026-02-01,contributivo,Compensar,1516868,6340
+2026-02-01,contributivo,Coosalud,119006,636
+2026-02-01,contributivo,Famisanar,1724234,9714
+2026-02-01,contributivo,Mutual Ser,157420,563
+2026-02-01,contributivo,Nueva EPS,5757422,27677
+2026-02-01,contributivo,SOS,537903,4366
+2026-02-01,contributivo,Salud Mía,77965,187
+2026-02-01,contributivo,Salud Total,3740079,16096
+2026-02-01,contributivo,Sanitas,4536105,17983
+2026-02-01,contributivo,Sura,4624073,17810
+2026-02-01,subsidiado,Aliansalud,7376,27
+2026-02-01,subsidiado,Asmet Salud,1585721,3816
+2026-02-01,subsidiado,Cajacopi,1365962,3463
+2026-02-01,subsidiado,Capital Salud,1136347,5615
+2026-02-01,subsidiado,Capresoca,166995,598
+2026-02-01,subsidiado,Comfachocó,167208,184
+2026-02-01,subsidiado,Comfaoriente,254369,399
+2026-02-01,subsidiado,Comfenalco Valle,78010,194
+2026-02-01,subsidiado,Compensar,271362,939
+2026-02-01,subsidiado,Coosalud,3244508,6765
+2026-02-01,subsidiado,Emssanar,1668880,4083
+2026-02-01,subsidiado,Familiar de Colombia,370530,483
+2026-02-01,subsidiado,Famisanar,875131,3198
+2026-02-01,subsidiado,Mutual Ser,2535138,4028
+2026-02-01,subsidiado,Nueva EPS,5755487,13371
+2026-02-01,subsidiado,SOS,202705,689
+2026-02-01,subsidiado,Salud Mía,459,24
+2026-02-01,subsidiado,Salud Total,1637308,4068
+2026-02-01,subsidiado,Sanitas,1512128,3768
+2026-02-01,subsidiado,Savia Salud,1670205,7666
+2026-02-01,subsidiado,Sura,930626,2404
+2026-03-01,contributivo,Aliansalud,250448,703
+2026-03-01,contributivo,Comfenalco Valle,219033,1369
+2026-03-01,contributivo,Compensar,1514285,6953
+2026-03-01,contributivo,Coosalud,118573,775
+2026-03-01,contributivo,Famisanar,1729534,11050
+2026-03-01,contributivo,Mutual Ser,159517,668
+2026-03-01,contributivo,Nueva EPS,5696188,25937
+2026-03-01,contributivo,SOS,540584,4552
+2026-03-01,contributivo,Salud Mía,79114,176
+2026-03-01,contributivo,Salud Total,3791016,17730
+2026-03-01,contributivo,Sanitas,4591472,20469
+2026-03-01,contributivo,Sura,4669295,19701
+2026-03-01,subsidiado,Aliansalud,1,85
+2026-03-01,subsidiado,Asmet Salud,1583713,4202
+2026-03-01,subsidiado,Cajacopi,1365183,4200
+2026-03-01,subsidiado,Capital Salud,1147310,6449
+2026-03-01,subsidiado,Capresoca,166762,544
+2026-03-01,subsidiado,Comfachocó,167477,171
+2026-03-01,subsidiado,Comfaoriente,254623,383
+2026-03-01,subsidiado,Comfenalco Valle,78129,190
+2026-03-01,subsidiado,Compensar,272709,946
+2026-03-01,subsidiado,Coosalud,3249921,7708
+2026-03-01,subsidiado,Emssanar,1666759,4620
+2026-03-01,subsidiado,Familiar de Colombia,372189,528
+2026-03-01,subsidiado,Famisanar,863398,3647
+2026-03-01,subsidiado,Mutual Ser,2537890,4778
+2026-03-01,subsidiado,Nueva EPS,5749921,13826
+2026-03-01,subsidiado,SOS,199061,664
+2026-03-01,subsidiado,Salud Mía,607,32
+2026-03-01,subsidiado,Salud Total,1627465,4530
+2026-03-01,subsidiado,Sanitas,1494270,4128
+2026-03-01,subsidiado,Savia Salud,1647579,8645
+2026-03-01,subsidiado,Sura,901652,2627
+2026-04-01,contributivo,Aliansalud,250223,735
+2026-04-01,contributivo,Comfenalco Valle,218518,1302
+2026-04-01,contributivo,Compensar,1508318,6616
+2026-04-01,contributivo,Coosalud,118066,815
+2026-04-01,contributivo,Famisanar,1708905,10561
+2026-04-01,contributivo,Mutual Ser,161703,681
+2026-04-01,contributivo,Nueva EPS,5654586,25265
+2026-04-01,contributivo,SOS,537988,4070
+2026-04-01,contributivo,Salud Mía,80773,182
+2026-04-01,contributivo,Salud Total,3798047,18038
+2026-04-01,contributivo,Sanitas,4609956,20579
+2026-04-01,contributivo,Sura,4701778,19676
+2026-04-01,subsidiado,Aliansalud,0,0
+2026-04-01,subsidiado,Asmet Salud,1581945,4378
+2026-04-01,subsidiado,Cajacopi,1370089,4009
+2026-04-01,subsidiado,Capital Salud,1152487,6442
+2026-04-01,subsidiado,Capresoca,166481,439
+2026-04-01,subsidiado,Comfachocó,167447,208
+2026-04-01,subsidiado,Comfaoriente,254696,378
+2026-04-01,subsidiado,Comfenalco Valle,78914,240
+2026-04-01,subsidiado,Compensar,272571,910
+2026-04-01,subsidiado,Coosalud,3253177,7679
+2026-04-01,subsidiado,Emssanar,1664767,4453
+2026-04-01,subsidiado,Familiar de Colombia,375841,558
+2026-04-01,subsidiado,Famisanar,857631,3513
+2026-04-01,subsidiado,Mutual Ser,2541359,4410
+2026-04-01,subsidiado,Nueva EPS,5759818,13684
+2026-04-01,subsidiado,SOS,196960,593
+2026-04-01,subsidiado,Salud Mía,773,22
+2026-04-01,subsidiado,Salud Total,1640427,4515
+2026-04-01,subsidiado,Sanitas,1479216,3791
+2026-04-01,subsidiado,Savia Salud,1652014,8487
+2026-04-01,subsidiado,Sura,903619,2306
+2026-05-01,contributivo,Aliansalud,250977,632
+2026-05-01,contributivo,Comfenalco Valle,219842,1310
+2026-05-01,contributivo,Compensar,1511704,6177
+2026-05-01,contributivo,Coosalud,117578,740
+2026-05-01,contributivo,Famisanar,1698554,9957
+2026-05-01,contributivo,Mutual Ser,163780,627
+2026-05-01,contributivo,Nueva EPS,5631977,24872
+2026-05-01,contributivo,SOS,535742,3807
+2026-05-01,contributivo,Salud Mía,81662,186
+2026-05-01,contributivo,Salud Total,3841868,17070
+2026-05-01,contributivo,Sanitas,4636154,20303
+2026-05-01,contributivo,Sura,4721828,17793
+2026-05-01,subsidiado,Aliansalud,0,0
+2026-05-01,subsidiado,Asmet Salud,1575946,3895
+2026-05-01,subsidiado,Cajacopi,1369757,3902
+2026-05-01,subsidiado,Capital Salud,1154958,5805
+2026-05-01,subsidiado,Capresoca,166060,415
+2026-05-01,subsidiado,Comfachocó,167432,171
+2026-05-01,subsidiado,Comfaoriente,254785,336
+2026-05-01,subsidiado,Comfenalco Valle,78207,209
+2026-05-01,subsidiado,Compensar,275893,881
+2026-05-01,subsidiado,Coosalud,3246687,7723
+2026-05-01,subsidiado,Emssanar,1660894,4538
+2026-05-01,subsidiado,Familiar de Colombia,378457,488
+2026-05-01,subsidiado,Famisanar,858356,3257
+2026-05-01,subsidiado,Mutual Ser,2539504,4248
+2026-05-01,subsidiado,Nueva EPS,5761607,13271
+2026-05-01,subsidiado,SOS,196015,529
+2026-05-01,subsidiado,Salud Mía,900,33
+2026-05-01,subsidiado,Salud Total,1639157,4204
+2026-05-01,subsidiado,Sanitas,1478440,3743
+2026-05-01,subsidiado,Savia Salud,1669104,7942
+2026-05-01,subsidiado,Sura,911527,2332
+2026-06-01,contributivo,Aliansalud,250934,665
+2026-06-01,contributivo,Comfenalco Valle,220861,1212
+2026-06-01,contributivo,Compensar,1502574,6448
+2026-06-01,contributivo,Coosalud,117454,740
+2026-06-01,contributivo,Famisanar,1694856,9705
+2026-06-01,contributivo,Mutual Ser,165116,657
+2026-06-01,contributivo,Nueva EPS,5589848,22315
+2026-06-01,contributivo,SOS,532069,3519
+2026-06-01,contributivo,Salud Mía,82859,224
+2026-06-01,contributivo,Salud Total,3868136,17797
+2026-06-01,contributivo,Sanitas,4649751,21503
+2026-06-01,contributivo,Sura,4729230,18866
+2026-06-01,subsidiado,Aliansalud,0,0
+2026-06-01,subsidiado,Asmet Salud,1569928,3855
+2026-06-01,subsidiado,Cajacopi,1372310,3755
+2026-06-01,subsidiado,Capital Salud,1157721,5881
+2026-06-01,subsidiado,Capresoca,165670,461
+2026-06-01,subsidiado,Comfachocó,167110,149
+2026-06-01,subsidiado,Comfaoriente,255184,328
+2026-06-01,subsidiado,Comfenalco Valle,78669,214
+2026-06-01,subsidiado,Compensar,278143,903
+2026-06-01,subsidiado,Coosalud,3244891,7916
+2026-06-01,subsidiado,Emssanar,1656903,4292
+2026-06-01,subsidiado,Familiar de Colombia,379701,482
+2026-06-01,subsidiado,Famisanar,856325,3173
+2026-06-01,subsidiado,Mutual Ser,2539147,4159
+2026-06-01,subsidiado,Nueva EPS,5754748,12455
+2026-06-01,subsidiado,SOS,199244,564
+2026-06-01,subsidiado,Salud Mía,1084,26
+2026-06-01,subsidiado,Salud Total,1647032,4521
+2026-06-01,subsidiado,Sanitas,1491578,3662
+2026-06-01,subsidiado,Savia Salud,1651825,8289
+2026-06-01,subsidiado,Sura,929949,2253
+2026-07-01,contributivo,Aliansalud,251055,725
+2026-07-01,contributivo,Comfenalco Valle,219943,1228
+2026-07-01,contributivo,Compensar,1493283,7051
+2026-07-01,contributivo,Coosalud,116422,892
+2026-07-01,contributivo,Famisanar,1684942,10085
+2026-07-01,contributivo,Mutual Ser,166464,725
+2026-07-01,contributivo,Nueva EPS,5568741,23469
+2026-07-01,contributivo,SOS,525345,4027
+2026-07-01,contributivo,Salud Mía,83809,227
+2026-07-01,contributivo,Salud Total,3855644,20630
+2026-07-01,contributivo,Sanitas,4639332,22897
+2026-07-01,contributivo,Sura,4742810,20348
+2026-07-01,subsidiado,Aliansalud,0,0
+2026-07-01,subsidiado,Asmet Salud,1566169,4168
+2026-07-01,subsidiado,Cajacopi,1371884,4372
+2026-07-01,subsidiado,Capital Salud,1161572,6759
+2026-07-01,subsidiado,Capresoca,164933,523
+2026-07-01,subsidiado,Comfachocó,166918,146
+2026-07-01,subsidiado,Comfaoriente,255389,443
+2026-07-01,subsidiado,Comfenalco Valle,79730,185
+2026-07-01,subsidiado,Compensar,280638,976
+2026-07-01,subsidiado,Coosalud,3238450,8806
+2026-07-01,subsidiado,Emssanar,1651783,4692
+2026-07-01,subsidiado,Familiar de Colombia,383946,541
+2026-07-01,subsidiado,Famisanar,851385,3416
+2026-07-01,subsidiado,Mutual Ser,2539629,4338
+2026-07-01,subsidiado,Nueva EPS,5749404,13456
+2026-07-01,subsidiado,SOS,203118,577
+2026-07-01,subsidiado,Salud Mía,1294,32
+2026-07-01,subsidiado,Salud Total,1654897,5122
+2026-07-01,subsidiado,Sanitas,1500022,4099
+2026-07-01,subsidiado,Savia Salud,1665437,8479
+2026-07-01,subsidiado,Sura,941725,2474
+2026-08-01,contributivo,Aliansalud,250234,615
+2026-08-01,contributivo,Comfenalco Valle,219544,797
+2026-08-01,contributivo,Compensar,1492074,5539
+2026-08-01,contributivo,Coosalud,115289,710
+2026-08-01,contributivo,Famisanar,1669287,8483
+2026-08-01,contributivo,Mutual Ser,168514,583
+2026-08-01,contributivo,Nueva EPS,5556465,18257
+2026-08-01,contributivo,SOS,521211,2241
+2026-08-01,contributivo,Salud Mía,85086,157
+2026-08-01,contributivo,Salud Total,3861543,15895
+2026-08-01,contributivo,Sanitas,4628224,18877
+2026-08-01,contributivo,Sura,4759795,15988
+2026-08-01,subsidiado,Aliansalud,0,0
+2026-08-01,subsidiado,Asmet Salud,1557674,2538
+2026-08-01,subsidiado,Cajacopi,1373134,3373
+2026-08-01,subsidiado,Capital Salud,1166376,5773
+2026-08-01,subsidiado,Capresoca,164268,555
+2026-08-01,subsidiado,Comfachocó,166647,103
+2026-08-01,subsidiado,Comfaoriente,255674,365
+2026-08-01,subsidiado,Comfenalco Valle,80910,137
+2026-08-01,subsidiado,Compensar,283851,804
+2026-08-01,subsidiado,Coosalud,3232812,6898
+2026-08-01,subsidiado,Emssanar,1648884,3051
+2026-08-01,subsidiado,Familiar de Colombia,388597,536
+2026-08-01,subsidiado,Famisanar,847312,2953
+2026-08-01,subsidiado,Mutual Ser,2540099,3639
+2026-08-01,subsidiado,Nueva EPS,5756175,10030
+2026-08-01,subsidiado,SOS,206167,300
+2026-08-01,subsidiado,Salud Mía,1489,29
+2026-08-01,subsidiado,Salud Total,1659132,3866
+2026-08-01,subsidiado,Sanitas,1520637,3297
+2026-08-01,subsidiado,Savia Salud,1678045,6588
+2026-08-01,subsidiado,Sura,953890,1955
