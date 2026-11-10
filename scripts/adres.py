@@ -50,7 +50,7 @@ def leer(contenido):
     }
 
 
-def main():
+def main(textos=None):
     print("Giros de la ADRES (Lupa al giro):")
     enlaces = {}
     for p in PAGINAS:
@@ -76,7 +76,12 @@ def main():
         if f in tengo:
             continue
         try:
-            r = leer(bajar(enlaces[f]))
+            pdf = bajar(enlaces[f])
+            if textos:   # para revisar la redacción de cada boletín
+                Path(textos).mkdir(parents=True, exist_ok=True)
+                (Path(textos) / f"{f}.txt").write_text(" ".join(p.extract_text() or "" for p in PdfReader(io.BytesIO(pdf)).pages[:4]))
+                continue
+            r = leer(pdf)
         except Exception as e:  # noqa: BLE001
             print(f"  {f}: no se pudo leer ({e})")
             continue
@@ -89,4 +94,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[2] if len(sys.argv) > 2 and sys.argv[1] == "--textos" else None)

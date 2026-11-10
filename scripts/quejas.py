@@ -83,7 +83,7 @@ def tipo_tabla(titulo):
 def leer_rq(contenido):
     """Tablas mes a mes de un archivo 'RQ-PQRD y solicitudes de información'."""
     x = pd.ExcelFile(io.BytesIO(contenido), engine="calamine")
-    d = x.parse(x.sheet_names[0], header=None)
+    d = pd.read_excel(x, sheet_name=x.sheet_names[0], header=None)
     F = filas(d)
     out, afil = [], []
     for i, f in enumerate(F):
@@ -130,7 +130,7 @@ def leer_ejecutivo(contenido):
     x = pd.ExcelFile(io.BytesIO(contenido), engine="calamine")
     out = []
     for hoja in x.sheet_names[:1]:
-        F = filas(x.parse(hoja, header=None))
+        F = filas(pd.read_excel(x, sheet_name=hoja, header=None))
         regimen = None
         for i, f in enumerate(F):
             cel = [llave(v) if isinstance(v, str) else "" for v in f]

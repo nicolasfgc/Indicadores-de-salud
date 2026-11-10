@@ -1,0 +1,11 @@
+name: sondeo
+on: workflow_dispatch
+permissions: {contents: write}
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: pip install -r requirements.txt && python scripts/adres.py --textos out || true
+      - run: |
+          cd out && git init -q && git checkout -q -b sondeo && git add . && git -c user.name=bot -c user.email=bot@x commit -qm s && git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" sondeo
