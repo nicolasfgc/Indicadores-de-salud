@@ -1,28 +1,25 @@
-"""Sondeo temporal 2: guarda HTML crudo de páginas clave y baja archivos de muestra."""
-import sys, urllib.request, pathlib, time, re
+"""Sondeo temporal 3: catálogo del portal de datos abiertos de la Supersalud (ArcGIS) y carpetas de docs."""
+import sys, json, urllib.request, urllib.parse, pathlib, time
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
 OUT = pathlib.Path(sys.argv[1]); OUT.mkdir(parents=True, exist_ok=True)
-S = "https://www.supersalud.gov.co/es-co/Paginas/"
-COSAS = {
- "sup_financiera.html": S + "Delegada%20Supervision%20de%20Riesgos/informacion-financiera-EPS-EMP-SAP-regimenes-de-excepcion-y-especiales.aspx",
- "sup_pqrd.html": S + "Protecci%C3%B3n%20al%20Usuario/reportes-de-peticiones-quejas-reclamos-o-denuncias.aspx",
- "sup_afil.html": S + "Delegada%20Supervisi%C3%B3n%20Institucional/Indicadores-de-Afiliaciones.aspx",
- "sup_calidad.html": S + "Delegada%20Supervisi%C3%B3n%20Institucional/Indicadores-de-Calidad-EPS.aspx",
- "sup_alerta.html": S + "Delegada%20Supervisi%C3%B3n%20Institucional/Indicadores-de-Alerta-Temprana.aspx",
- "sispro_afil.html": "https://www.sispro.gov.co/Pages/Consulta-predefinidia-afiliaciones.aspx",
- "adres_upc.html": "https://www.adres.gov.co/eps/reconocimientos-upc",
- "adres_bdua_rep.html": "https://www.adres.gov.co/eps/procesos/bdua/reportes",
- "adres_lma.html": "https://www.adres.gov.co/eps/procesos/regimen-subsidiado/resumen-lma",
- "adres_gdh.html": "https://www.adres.gov.co/eps/giro-directo/regimen-subsidiado/giro-directo-historico",
- "invima_home.html": "https://www.invima.gov.co/",
- "gd_rs_ago2026.xlsx": "https://www.adres.gov.co/api/media/file/RS-Agosto_2026.xlsx",
- "gd_tipo_jun2026.xlsx": "https://www.adres.gov.co/api/media/file/gd-giro-tipo-contratacion-giro-directo-discriminado-capita-y-evento-junio-2026.xlsx",
- "lupa_ago2026.pdf": "https://www.adres.gov.co/api/media/file/Boletin_lupa_al_giro_UPC_Agosto_2026.pdf",
-}
-for nombre, u in COSAS.items():
-    try:
-        r = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA}), timeout=60)
-        (OUT / nombre).write_bytes(r.read()); print("ok", nombre)
-    except Exception as e:
-        print("ERR", nombre, e)
-    time.sleep(1)
+def get(u, t=60):
+    return urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA}), timeout=t).read()
+P = "https://mapas.supersalud.gov.co/arcgisportal/sharing/rest"
+items, start = [], 1
+try:
+    while start > 0 and len(items) < 3000:
+        d = json.loads(get(f"{P}/search?q=" + urllib.parse.quote("NOT type:\"Code Attachment\"") + f"&f=json&num=100&start={start}&sortField=modified&sortOrder=desc"))
+        items += [{k: x.get(k) for k in ("id", "title", "type", "modified", "snippet", "owner", "url", "size", "tags")} for x in d.get("results", [])]
+        start = d.get("nextStart", -1); time.sleep(0.5)
+except Exception as e:
+    print("ERR search", e)
+json.dump(items, open(OUT / "arcgis_items.json", "w"), ensure_ascii=False, indent=0)
+print("items", len(items))
+for f, u in {"docs_pqrd.html": "https://docs.supersalud.gov.co/PortalWeb/ProteccionUsuario/EstadisticasPQRD/",
+             "docs_pqrd_mensual.html": "https://docs.supersalud.gov.co/PortalWeb/ProteccionUsuario/Informe%20PQRD%20Mensual/",
+             "docs_fin_contrib.html": "https://docs.supersalud.gov.co/PortalWeb/SupervisionRiesgos/EstadisticasEPSRegimenContributivo/",
+             "docs_prepagada.html": "https://docs.supersalud.gov.co/PortalWeb/SupervisionRiesgos/Estadisticas%20Entidades%20de%20medicina%20prepagada/",
+             "docs_afil.html": "https://docs.supersalud.gov.co/PortalWeb/SupervisionInstitucional/IndicadoresAfiliacion/",
+             "item_fin.json": f"{P}/content/items/788a7d8601c74c748ade2151c59e2ad0?f=json"}.items():
+    try: (OUT / f).write_bytes(get(u)); print("ok", f)
+    except Exception as e: print("ERR", f, e)
