@@ -1,0 +1,180 @@
+ 
+ 
+www.adres.gov.co 
+Boletín técnico diciembre de 2024  
+Lupa al Giro 
+Medio de difusión oficial  
+Corte bases de datos: 02 de enero de 2025 
+ 
+En diciembre de 2024, la ADRES reconoció UPC a las EPS por valor de $7,09 billones, recursos con 
+los que financió la prestación de servicios de salud de los afiliados a los regímenes subsidiado y 
+contributivo.   
+ 
+Unidad de Pago por Capitación – UPC 
+ 
+En el régimen subsidiado, la UPC reconocida fue por valor de $3,47 billones, de los cuales se giraron 
+desde la ADRES $3,15 billones, de esta cifra se pagaron directamente $2,60 billones a 3.326 IPS y 
+proveedores de servicios de salud y tecnologías en salud y $530,64 mil millones a las EPS, de acuerdo 
+con la siguiente liquidación: 
+ 
+V alores en pesos corrientes 
+ 
+ 
+Concepto 
+ 
+Régimen Subsidiado  
+(Liquidación Mensual de Afiliados) ($) 
+a UPC reconocida 3.473.593.001.875,43 
+b UPC restituida 77.649.835.829,03 
+c=a-b UPC neta 3.395.943.166.046,40 
+d Recursos Cajas de Compensación Familiar  292.078.513,71 
+e Esfuerzo propio territorial sin situación de fondos 241.812.029.829,13 
+f Descuentos a las EPS 22.492.576.562,62 
+g Giro directo autorizado por las EPS a las IPS y proveedores 2.304.868.528.456,80 
+h Giro directo posterior a la LMA de diciembre  295.838.931.003,00 
+i=c-
+(d+e+f+g+h) 
+Giro neto a las EPS 530.639.021.681,14 
+Fuente: Aplicativo Liquidación Mensual de Afiliados – LMA (corte 02 de enero de 2025) 
+ 
+En el régimen contributivo, de la UPC reconocida por valor de $3,62 billones, se giraron 
+directamente $2,24 billones a 2.925 IPS y proveedores de servicios de salud, y $1,34 billones a las 
+EPS de acuerdo con la siguiente liquidación: 
+ 
+                                    V alores en pesos corrientes 
+Concepto Régimen contributivo 
+(procesos de compensación) ($) 
+a UPC reconocida 3.617.467.826.694,00 
+b Descuentos a las EPS 17.563.143.256,00 
+c Giro directo autorizado por las EPS a las IPS y proveedores 2.244.308.183.880,00 
+d Giro directo pendiente de programación por parte de las EPS  14.463.131.526,00 
+e=a-b-c-d Giro neto a las EPS 1.341.133.368.032 
+Fuente: Aplicativo régimen contributivo (corte 02 de enero de 2025) 
+ 
+Adicionalmente se giraron a las EPS $144,490 mil millones de provisión de incapacidades por 
+enfermedad general, $45,51 mil millones para el desarrollo de actividades de promoción y prevención 
+de las enfermedades (PyP) y $110,14 mil millones por 12.074 licencias de maternidad, 7.696 de 
+paternidad y 79 fallos de acción de tutela reportados por las EPS.              
+ 
+Giro directo del proceso 
+   
+ 
+www.adres.gov.co 
+Del valor total de la UPC reconocida en diciembre y con corte al 2 de enero de 2025, la ADRES 
+aplicó giro directo a 3.583 IPS y proveedores de servicios y tecnologías en salud de los regímenes 
+contributivo y subsidiado por $4,84 billones de acuerdo con la programación de las EPS y las 
+comunicaciones de la Superintendencia Nacional de Salud – SNS soportadas en la certificación del 
+Contralor designado para la aplicación de giro directo de este mes, para las EPS Asmet Salud, 
+Emssanar y Dusakawi, así: el 61,97 % de la UPC por $2,24 billones en el régimen contributivo y el 
+74,87 % de la UPC por $2,60 billones en el régimen subsidiado.  
+ 
+Valores reconocidos (2023-2024) 
+ 
+Entre enero y diciembre de 2024, la ADRES ha reconocido para el aseguramiento de los afiliados al 
+SGSSS1 $85,52 billones, $43,92 billones por el régimen contributivo y por el régimen subsidiado 
+$41,59 billones; así mismo, reconoció licencias de maternidad, paternidad y fallos de tutela por $1,29 
+billones. 
+ 
+En comparación durante el mismo periodo en la vigencia 2023 la ADRES reconoció $75,86 billones, 
+$39,3 billones por el régimen contributivo y $36,56 billones por el régimen subsidiado. Así mismo, 
+reconoció por licencias de maternidad y paternidad $1,00 billones.  
+ 
+El reconocimiento de los regímenes contributivo y subsidiado aumentó en 11,77 % y 13,76 % 
+respectivamente y, el reconocimiento de las licencias de maternidad y paternidad aumentó 31,48 %. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfica 1. V alores del reconocimiento (2023-2024) 
+ 
+                                                             
+1 Sistema General de Seguridad Social en Salud    
+ 
+www.adres.gov.co 
+ 
+Fuente: Resultados de los procesos de Compensación y de LMA, regímenes contributivo y subsidiado 
+ 
+El detalle de los beneficiarios y giros efectuados, lo puede consultar en la sección "La Lupa al Giro" 
+de nuestra página web www.adres.gov.co. 
+ 
+Glosario 
+ 
+ Valor UPC Reconocida: corresponde al valor de la Unidad de Pago por Capitación (UPC) liquidada a las EPS, con fundamento en la información 
+contenida en la Base de Datos Única de Afiliados (BDUA).   
+ Valor UPC Restituida: corresponde a la UPC reintegrada al Sistema General de Seguridad Social en Salud producto de las novedades reportadas 
+por las EPS y/o entidades territoriales en la BDUA.    
+ UPC Neta: corresponde a la diferencia aritmética entre la UPC reconocida y la UPC restituida. 
+ Recursos Cajas de Compensación Familiar: Corresponde a los recursos de las cajas de compensación familiar que administran directamente los 
+recursos del régimen subsidiado y, conforme a los lineamientos establecidos por Ministerio de Salud y Protección Social, ejecutan los recursos de 
+acuerdo con los resultados registrados en la Liquidación Mensual de Afiliados. Estos son disminuidos del valor neto de la UPC, en razón a que no 
+constituyen un giro desde el nivel central (ADRES).    
+ Esfuerzo Propio Territorial Sin situación de Fondos: son los recursos de las rentas territoriales descritas en el Decreto 2497 de 2018 que no fueron 
+giradas a la ADRES por las entidades territoriales, por lo cual, de acuerdo con lo establecido en el artículo 10 del Decreto 971 de 2011, modificado 
+por el artículo 1 del Decreto 1713 de 2012 y compilado en los artículos 2.3.2.2.3 y 2.3.2.2.9 del Decreto 780 de 2016, deben ser girados 
+directamente por estas últimas a las EPS, de acuerdo con el resultado de la Liquidación Mensual de Afiliados.   
+  
+ Descuentos a la EPS: corresponde a los valores descontados a la EPS producto de autorizaciones efectuadas por las aseguradoras, operaciones de 
+compra de cartera, giros no efectuados a la Cuenta de Alto Costo y actos administrativos expedidos por la Superintendencia Nacional de Salud. 
+ Giro a las IPS y/o proveedores: corresponde a los valores girados a las Instituciones Prestadoras de Servicios de Salud (IPS) y a los proveedores 
+de servicios y tecnologías en salud, en virtud de la programación y autorización efectuada por cada EPS. 
+ Giro Neto a la EPS: corresponde al valor neto final girado a las EPS.  
+ 
+Giro directo de la UPC enero a diciembre (2023-2024) 
+ 
+  
+ 
+www.adres.gov.co 
+En el Sistema de Salud colombiano, el proceso de asignación de recursos a las Instituciones 
+Prestadoras de Salud - IPS y proveedores de servicios y tecnologías en salud es crucial para asegurar 
+la calidad y continuidad de los servicios médicos. Un aspecto destacado de esta dinámica es la 
+programación del giro directo de la Unidad de Pago por Capitación - UPC por parte de las Entidades 
+Promotoras de Salud - EPS. Este mecanismo se aplica en el régimen contributivo y en el subsidiado. 
+ 
+En este sentido, entre enero y diciembre de 2024 la ADRES giró directamente para el aseguramiento 
+de los afiliados al SGSSS2 $47,95 billones a las IPS y/o proveedores de servicios y tecnologías en 
+salud, previa autorización de las EPS. De estos, el 60,07 % por valor de $28,59 billones, fue aplicado 
+en los procesos de la Liquidación Mensual de Afiliados- LMA del régimen subsidiado y el 40,37 % 
+restante por valor de $19.36 billones correspondió a los valores generados en los procesos de 
+compensación del régimen contributivo. 
+ 
+En comparación con el mismo periodo en la vigencia 2023, en el que los recursos totales girados a 
+las IPS y/o proveedores de servicios y tecnologías en salud correspondieron a $22,12 billones, se 
+observa un aumento del 116,75 % en el giro directo, en razón a la entrada en vigor del Decreto 489 
+de 2024 y las medidas de vigilancia especial e intervenciones efectuadas por la Superintendencia 
+Nacional de Salud. 
+ 
+ 
+En la siguiente gráfica encuentra los valores girados a los beneficiarios, discriminados por régimen 
+en las vigencias 2023 y 2024: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfica 2. V alores del giro directo 2023 - 2024 
+ 
+ 
+                                                             
+2 Sistema General de Seguridad Social en Salud  
+$ 21.07
+$ 28.59
+$ 1.05
+$ 19.36
+116.75%
+0.00
+10.00
+20.00
+30.00
+40.00
+50.00
+60.00
+2,023 2,024
+valores en billones de pesos
+GD Subsidiado GD Contributivo Variación %

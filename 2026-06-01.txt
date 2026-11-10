@@ -1,0 +1,139 @@
+Para el mes de junio de 2026, la ADRES reconoció por concepto de UPC por los afiliados de los 
+regímenes subsidiado y contributivo $8,43 billones, de los cuales:
+ 
+• Giró $1,68 billones a las EPS para el cubrimiento de los gastos de administración y  
+otros pagos de servicios y tecnologías en salud a través de su tesorería. 
+• Dispersó por el mecanismo de giro directo a IPS y proveedores $6,58 billones, que  
+corresponde a la programación de terceros y montos que las EPS allegaron para la  
+distribución de los recursos en cada proceso -uno para el régimen subsidiado y cuatro 
+para el régimen contributivo. 
+• Descontó por autorización de las EPS $13,34 mil millones. 
+• Restituyó $0,10 billones en el régimen subsidiado por novedades en las condiciones  
+de afiliación. 
+ 
+Resultado del reconocimiento de la UPC 
+En el régimen subsidiado, el valor de la UPC reconocida fue de $4,41 billones. De esta, se restituye-
+ron $0,10 billones de UPC reliquidadas por novedades en la afiliación y, en consecuencia, $4,31 billo-
+nes fueron objeto de giro. De esos $4,31 billones, la ADRES giró directamente $3,48 billones a 3.290 
+IPS y proveedores de servicios y tecnologías en salud. Y, una vez aplicados descuentos por valor de 
+$7,91 mil millones, a las EPS se les giraron $0,82 billones, los cuales incluyen el 8 % de los gastos de 
+administración. Finalmente, los $1,88 mil millones restantes corresponden a recursos girados por las 
+cajas de compensación familiar a las EPS y a recursos por girar por las entidades territoriales como 
+esfuerzo propio. Por lo anterior, la liquidación es la siguiente: 
+Boletín técnico No. 72
+Reconocimiento mensual de UPC  
+Medio de difusión oficial  
+Dirección de Liquidaciones y Garantías 
+Fecha de consulta: 15 de julio de 2026 
+www.adres.gov.co Concepto Régimen Subsidiado  (Liquidación Mensual de Afiliados) ($)
+ a UPC Reconocida 4.410.329.099.916,00
+b UPC Restituida 102.418.496.463,00 
+c=a-b UPC Neta 4.307.910.603.453,00
+d Recursos Cajas de Compensación Familiar 317.515.395,00
+e Esfuerzo Propio Territorial Sin situación de Fondos 1.566.148.507,00
+f Descuentos a las EPS 7.914.071.113,00
+g Giro Directo Autorizado por las EPS a las IPS 
+y Proveedores 2.654.240.064.210,00
+h Giro directo posterior a la LMA del mes 827.645.443.581,00
+i=c-(d+e+f+g+h) Giro Neto a las EPS 816.227.360.647,00
+Concepto Régimen Contributivo (Procesos de Compensación) ($) 
+A UPC Reconocida 4.018.255.699.607,00 
+B Descuentos a las EPS 5.423.735.355,00 
+C Giro Directo Autorizado por las EPS a las IPS y 
+Proveedores 3.097.793.603.939,00 
+D Giro Directo Pendiente de programación por parte 
+de las EPS 49.264.219.644,00 
+E=A-B-C-D  Giro Neto a las EPS 865.774.140.669,00 
+Fuente: Aplicativo Liquidación Mensual de Afiliados1 – LMA (corte 15 de julio de 2026) 
+Fuente: Aplicativo régimen contributivo (corte 15 de julio de 2026) 
+En el régimen contributivo, la UPC reconocida correspondió a $4,02 billones, de los cuales se gira-
+ron directamente $3,10 billones a 2.992 IPS y proveedores de servicios de salud. El giro neto de la 
+UPC con destino a las EPS fue de $0,87 billones, que incluye el 10 % para destinar a los gastos de 
+administración de acuerdo con la siguiente liquidación: 
+Tabla No. 2 – Resultado de los Procesos de Compensación de junio de 2026
+Tabla No. 1 –  Resultado del Proceso de la Liquidación Mensual de Afiliados de junio de 2026
+www.adres.gov.co
+1 • Valor UPC Reconocida: corresponde al valor de la Unidad de Pago por Capitación (UPC) liquidada a las EPS, con fundamento en la 
+información contenida en la Base de Datos Única de Afiliados (BDUA). 
+• Valor UPC Restituida: corresponde a la UPC reintegrada al Sistema General de Seguridad Social en Salud producto de las novedades 
+reportadas por las EPS y/o entidades territoriales en la BDUA. 
+• UPC Neta: corresponde a la diferencia aritmética entre la UPC reconocida y la UPC restituida.
+• Recursos Cajas de Compensación Familiar: Corresponde a los recursos de las cajas de compensación familiar que administran di-
+rectamente los recursos del régimen subsidiado y, conforme a los lineamientos establecidos por Ministerio de Salud y Protección Social, 
+ejecutan los recursos de acuerdo con los resultados registrados en la Liquidación Mensual de Afiliados. Estos son disminuidos del valor 
+neto de la UPC, en razón a que no constituyen un giro desde el nivel central (ADRES).  
+• Esfuerzo Propio Territorial Sin situación de Fondos: son los recursos de las rentas territoriales descritas en el Decreto 2497 de 2018 
+que no fueron giradas a la ADRES por las entidades territoriales, por lo cual, de acuerdo con lo establecido en el artículo 10 del Decreto 
+971 de 2011, modificado por el artículo 1 del Decreto 1713 de 2012 y compilado en los artículos 2.3.2.2.3 y 2.3.2.2.9 del Decreto 780 
+de 2016, deben ser girados directamente por estas últimas a las EPS, de acuerdo con el resultado de la Liquidación Mensual de Afiliados.
+• Descuentos a la EPS: corresponde a los valores descontados a la EPS producto de autorizaciones efectuadas por las aseguradoras, 
+operaciones de compra de cartera, giros no efectuados a la Cuenta de Alto Costo y actos administrativos expedidos por la Superinten-
+dencia Nacional de Salud.
+• Giro a las IPS y/o proveedores: corresponde a los valores girados a las Instituciones Prestadoras de Servicios de Salud (IPS) y a los 
+proveedores de servicios y tecnologías en salud, en virtud de la programación y autorización efectuada por cada EPS.
+• Giro neto a la EPS: corresponde al valor neto final girado a las EPS. Giro directo a las IPS y proveedores  
+de servicios y tecnologías en Salud 
+Del total de la UPC reconocida para el mes de junio, la ADRES distribuyó a través del mecanismo de 
+giro directo la suma de $6,58 billones a 3.673 IPS y proveedores de servicios y tecnologías en salud 
+con NIT único, procedentes de 17 EPS del régimen contributivo y 26 EPS del régimen subsidiado. La 
+participación del giro directo sobre la UPC reconocida fue: 77,09 % de UPC por $3,10 billones en el 
+régimen contributivo y el 78,95 % de la UPC por $3,48 billones en el régimen subsidiado. 
+Comparativo del reconocimiento y distribución  
+de los recursos (enero a junio 2025 y 2026)  
+Entre enero y junio de 2026, la ADRES reconoció para el aseguramiento de los afiliados al SGSSS2 
+$52,16 billones, que equivalen a $26,42 billones por el régimen subsidiado y $25,74 billones por el 
+régimen contributivo. Así mismo, reconoció licencias de maternidad, paternidad y fallos de tutela por 
+valor de $686,10 mil millones. 
+Durante el mismo periodo de la vigencia 2025, la ADRES reconoció la suma de $45,47 billones, co -
+rrespondientes a $22,31 billones por el régimen subsidiado y $23,16 billones por el régimen contri-
+butivo. Para los conceptos de licencias de maternidad y paternidad reconoció $605,00 mil millones. 
+Lo anterior significa que el reconocimiento de recursos para los regímenes subsidiado y contri-
+butivo aumentó en 18,42 % y 11,15 %, respectivamente, y el reconocimiento de las licencias de 
+maternidad y paternidad aumentó 13,41 %. 
+Tabla No. 3 – Otros reconocimientos de junio de 2026
+Concepto Valor ($) 
+Provisión de incapacidades por enfermedad general 162.674.801.954 
+Actividades de promoción y prevención 43.800.601.145 
+Licencias de maternidad (11.360) 94.153.291.958 
+Licencias de paternidad (7.125) 9.185.796.231 
+Fallos de acciones de tutela (62) 298.508.458 
+Fuente: Aplicativo régimen contributivo (corte 15 de julio de 2026)
+www.adres.gov.co
+Adicionalmente, a las EPS se les giró la suma de $162,67 mil millones de provisión de incapacidades 
+por enfermedad general. Además, $43,80 mil millones para el desarrollo de actividades de promoción 
+de la salud y prevención de la enfermedad (PyP) y $103,64 mil millones por 9.129 licencias de ma-
+ternidad, 6.002 de paternidad y 40 fallos de acción de tutela reportados por las EPS.  Gráfica 1. Valores de reconocimiento (2025-2026)
+Comportamiento 
+del reconocimiento
+En 2026 la ADRES ha  
+aumentado el reconocimiento 
+de recursos en los regímenes 
+contributivo y subsidiado  
+respecto al mismo período  
+de la vigencia anterior
+* Incluye la UPC reconocida, per  
+cápita de promoción y prevención, 
+provisión de incapacidades por  
+enfermedad general
+** Hace referencia a la UPC  
+reconocida para los afiliados al  
+régimen subsidiado.
+Fuente: Resultados de los procesos de Compensación y de LMA,  
+regímenes contributivo y subsidiado (corte 15 de julio de 2026) 
+Para consultar el detalle de los beneficiarios y giros efectuados, invitamos a visitar la sección “Lupa al Giro” 
+y el tablero de giro directo en el módulo de analítica de nuestra página web www.adres.gov.co. 
+Comportamiento mensual del giro directo a las IPS y proveedores 
+de servicios y tecnologías en salud, de enero a junio (2025-2026)  
+En el sistema de salud colombiano, el proceso de asignación de recursos a las Instituciones Presta-
+doras de Salud - IPS y Proveedores de Servicios y Tecnologías en Salud es crucial para asegurar la 
+calidad y continuidad de los servicios médicos. Un aspecto destacado de esta dinámica es la progra-
+mación del giro directo de la Unidad de Pago por Capitación - UPC a cargo de las Entidades Promo-
+toras de Salud - EPS. Este mecanismo se aplica en el régimen contributivo y en el subsidiado. 
+ En este sentido, entre enero y junio de 2026 la ADRES giró directamente para el aseguramiento de 
+los afiliados al SGSSS3 $39,79 billones a las IPS y/o proveedores de servicios y tecnologías en salud, 
+previa programación de las EPS. De estos, el 51,92 %, equivalentes a $20,66 billones, corresponden 
+a el proceso de la Liquidación Mensual de Afiliados del régimen subsidiado; y el 48,08 % restante por 
+valor de $19,13 billones se aplicaron a los valores generados en los procesos de compensación del 
+régimen contributivo. 
+www.adres.gov.co
+Enero - Junio
