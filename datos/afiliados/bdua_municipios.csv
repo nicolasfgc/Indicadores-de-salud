@@ -1,0 +1,2247 @@
+cod_depto,municipio,regimen,afiliados
+05,ABEJORRAL,contributivo,2989
+05,ABEJORRAL,subsidiado,11830
+05,ABRIAQUI,contributivo,320
+05,ABRIAQUI,subsidiado,1354
+05,ALEJANDRIA,contributivo,539
+05,ALEJANDRIA,subsidiado,2773
+05,AMAGA,contributivo,15765
+05,AMAGA,subsidiado,11323
+05,AMALFI,contributivo,2967
+05,AMALFI,subsidiado,18321
+05,ANDES,contributivo,12233
+05,ANDES,subsidiado,27342
+05,ANGELOPOLIS,contributivo,1131
+05,ANGELOPOLIS,subsidiado,2208
+05,ANGOSTURA,contributivo,1032
+05,ANGOSTURA,subsidiado,8458
+05,ANORI,contributivo,1375
+05,ANORI,subsidiado,15713
+05,ANTIOQUIA,contributivo,8880
+05,ANTIOQUIA,subsidiado,19742
+05,ANZA,contributivo,1131
+05,ANZA,subsidiado,5706
+05,APARTADO,contributivo,79577
+05,APARTADO,subsidiado,70970
+05,ARBOLETES,contributivo,4049
+05,ARBOLETES,subsidiado,24277
+05,ARGELIA,contributivo,607
+05,ARGELIA,subsidiado,5904
+05,ARMENIA,contributivo,635
+05,ARMENIA,subsidiado,2420
+05,BARBOSA,contributivo,25622
+05,BARBOSA,subsidiado,22563
+05,BELLO,contributivo,360626
+05,BELLO,subsidiado,161275
+05,BELMIRA,contributivo,1238
+05,BELMIRA,subsidiado,2679
+05,BETANIA,contributivo,1075
+05,BETANIA,subsidiado,6136
+05,BETULIA,contributivo,1110
+05,BETULIA,subsidiado,13667
+05,BOLIVAR,contributivo,6382
+05,BOLIVAR,subsidiado,18153
+05,BRICEÑO,contributivo,578
+05,BRICEÑO,subsidiado,5232
+05,BURITICA,contributivo,1844
+05,BURITICA,subsidiado,6465
+05,CACERES,contributivo,1307
+05,CACERES,subsidiado,23270
+05,CAICEDO,contributivo,512
+05,CAICEDO,subsidiado,6926
+05,CALDAS,contributivo,74436
+05,CALDAS,subsidiado,21975
+05,CAMPAMENTO,contributivo,507
+05,CAMPAMENTO,subsidiado,6229
+05,CARACOLI,contributivo,741
+05,CARACOLI,subsidiado,2981
+05,CARAMANTA,contributivo,684
+05,CARAMANTA,subsidiado,3297
+05,CAREPA,contributivo,26162
+05,CAREPA,subsidiado,33784
+05,CARMEN DE VIBORAL,contributivo,40082
+05,CARMEN DE VIBORAL,subsidiado,20960
+05,CAROLINA,contributivo,1046
+05,CAROLINA,subsidiado,1624
+05,CAUCASIA,contributivo,19217
+05,CAUCASIA,subsidiado,83210
+05,CAÑASGORDAS,contributivo,2101
+05,CAÑASGORDAS,subsidiado,11387
+05,CHIGORODO,contributivo,30800
+05,CHIGORODO,subsidiado,44728
+05,CISNEROS,contributivo,3022
+05,CISNEROS,subsidiado,6711
+05,COCORNA,contributivo,2652
+05,COCORNA,subsidiado,11926
+05,CONCEPCION,contributivo,948
+05,CONCEPCION,subsidiado,2655
+05,CONCORDIA,contributivo,2928
+05,CONCORDIA,subsidiado,12181
+05,COPACABANA,contributivo,50084
+05,COPACABANA,subsidiado,21612
+05,DABEIBA,contributivo,2124
+05,DABEIBA,subsidiado,21831
+05,DON MATIAS,contributivo,13132
+05,DON MATIAS,subsidiado,10126
+05,EBEJICO,contributivo,1620
+05,EBEJICO,subsidiado,6456
+05,EL BAGRE,contributivo,8340
+05,EL BAGRE,subsidiado,49732
+05,ENTRERRIOS,contributivo,5986
+05,ENTRERRIOS,subsidiado,3157
+05,ENVIGADO,contributivo,186989
+05,ENVIGADO,subsidiado,31533
+05,FREDONIA,contributivo,5326
+05,FREDONIA,subsidiado,7945
+05,FRONTINO,contributivo,2596
+05,FRONTINO,subsidiado,18843
+05,GIRALDO,contributivo,868
+05,GIRALDO,subsidiado,4265
+05,GIRARDOTA,contributivo,38417
+05,GIRARDOTA,subsidiado,17477
+05,GOMEZ PLATA,contributivo,1830
+05,GOMEZ PLATA,subsidiado,4766
+05,GRANADA,contributivo,1916
+05,GRANADA,subsidiado,6588
+05,GUADALUPE,contributivo,978
+05,GUADALUPE,subsidiado,3754
+05,GUARNE,contributivo,36598
+05,GUARNE,subsidiado,18130
+05,GUATAPE,contributivo,2613
+05,GUATAPE,subsidiado,4432
+05,HELICONIA,contributivo,658
+05,HELICONIA,subsidiado,2908
+05,HISPANIA,contributivo,724
+05,HISPANIA,subsidiado,2580
+05,ITAGUI,contributivo,252265
+05,ITAGUI,subsidiado,80505
+05,ITUANGO,contributivo,2311
+05,ITUANGO,subsidiado,15354
+05,JARDIN,contributivo,3412
+05,JARDIN,subsidiado,9267
+05,JERICO,contributivo,3061
+05,JERICO,subsidiado,6581
+05,LA CEJA,contributivo,65932
+05,LA CEJA,subsidiado,18131
+05,LA ESTRELLA,contributivo,48896
+05,LA ESTRELLA,subsidiado,14997
+05,LA PINTADA,contributivo,2785
+05,LA PINTADA,subsidiado,4838
+05,LA UNION,contributivo,14013
+05,LA UNION,subsidiado,10817
+05,LIBORINA,contributivo,1099
+05,LIBORINA,subsidiado,7088
+05,MACEO,contributivo,2000
+05,MACEO,subsidiado,5828
+05,MARINILLA,contributivo,48338
+05,MARINILLA,subsidiado,30073
+05,MEDELLIN,contributivo,2040369
+05,MEDELLIN,subsidiado,856902
+05,MONTEBELLO,contributivo,756
+05,MONTEBELLO,subsidiado,4276
+05,MURINDO,contributivo,402
+05,MURINDO,subsidiado,4855
+05,MUTATA,contributivo,2280
+05,MUTATA,subsidiado,20173
+05,NARIÑO,contributivo,680
+05,NARIÑO,subsidiado,7422
+05,NECHI,contributivo,1168
+05,NECHI,subsidiado,27048
+05,NECOCLI,contributivo,5710
+05,NECOCLI,subsidiado,49070
+05,OLAYA,contributivo,283
+05,OLAYA,subsidiado,1856
+05,PEQUE,contributivo,487
+05,PEQUE,subsidiado,6401
+05,PEÑOL,contributivo,5983
+05,PEÑOL,subsidiado,13831
+05,PUEBLORRICO,contributivo,738
+05,PUEBLORRICO,subsidiado,5221
+05,PUERTO BERRIO,contributivo,14658
+05,PUERTO BERRIO,subsidiado,25384
+05,PUERTO NARE,contributivo,2318
+05,PUERTO NARE,subsidiado,6728
+05,PUERTO TRIUNFO,contributivo,4057
+05,PUERTO TRIUNFO,subsidiado,10652
+05,REMEDIOS,contributivo,6017
+05,REMEDIOS,subsidiado,25699
+05,RETIRO,contributivo,16123
+05,RETIRO,subsidiado,4774
+05,RIONEGRO,contributivo,174236
+05,RIONEGRO,subsidiado,46152
+05,SABANALARGA,contributivo,719
+05,SABANALARGA,subsidiado,6840
+05,SABANETA,contributivo,85161
+05,SABANETA,subsidiado,17106
+05,SALGAR,contributivo,2036
+05,SALGAR,subsidiado,12062
+05,SAN ANDRES,contributivo,1143
+05,SAN ANDRES,subsidiado,4192
+05,SAN CARLOS,contributivo,2788
+05,SAN CARLOS,subsidiado,10322
+05,SAN FRANCISCO,contributivo,500
+05,SAN FRANCISCO,subsidiado,4762
+05,SAN JERONIMO,contributivo,5051
+05,SAN JERONIMO,subsidiado,8376
+05,SAN JOSE DE LA MONTANA,contributivo,913
+05,SAN JOSE DE LA MONTANA,subsidiado,1720
+05,SAN JUAN DE URABA,contributivo,1944
+05,SAN JUAN DE URABA,subsidiado,21182
+05,SAN LUIS,contributivo,3166
+05,SAN LUIS,subsidiado,10563
+05,SAN PEDRO,contributivo,14746
+05,SAN PEDRO,subsidiado,11048
+05,SAN PEDRO DE URABA,contributivo,2706
+05,SAN PEDRO DE URABA,subsidiado,29900
+05,SAN RAFAEL,contributivo,3605
+05,SAN RAFAEL,subsidiado,10186
+05,SAN ROQUE,contributivo,3823
+05,SAN ROQUE,subsidiado,13863
+05,SAN VICENTE,contributivo,2688
+05,SAN VICENTE,subsidiado,11689
+05,SANTA BARBARA,contributivo,4647
+05,SANTA BARBARA,subsidiado,12413
+05,SANTA ROSA DE OSOS,contributivo,22087
+05,SANTA ROSA DE OSOS,subsidiado,17987
+05,SANTO DOMINGO,contributivo,1647
+05,SANTO DOMINGO,subsidiado,6220
+05,SANTUARIO,contributivo,18382
+05,SANTUARIO,subsidiado,18842
+05,SEGOVIA,contributivo,13889
+05,SEGOVIA,subsidiado,30425
+05,SONSON,contributivo,7375
+05,SONSON,subsidiado,23958
+05,SOPETRAN,contributivo,2614
+05,SOPETRAN,subsidiado,9224
+05,TAMESIS,contributivo,4128
+05,TAMESIS,subsidiado,8992
+05,TARAZA,contributivo,1939
+05,TARAZA,subsidiado,25586
+05,TARSO,contributivo,1612
+05,TARSO,subsidiado,3058
+05,TITIRIBI,contributivo,2990
+05,TITIRIBI,subsidiado,3343
+05,TOLEDO,contributivo,695
+05,TOLEDO,subsidiado,3754
+05,TURBO,contributivo,41290
+05,TURBO,subsidiado,99911
+05,URAMITA,contributivo,615
+05,URAMITA,subsidiado,5387
+05,URRAO,contributivo,4999
+05,URRAO,subsidiado,25646
+05,VALDIVIA,contributivo,911
+05,VALDIVIA,subsidiado,12790
+05,VALPARAISO,contributivo,1275
+05,VALPARAISO,subsidiado,2857
+05,VEGACHI,contributivo,2222
+05,VEGACHI,subsidiado,11743
+05,VENECIA,contributivo,3098
+05,VENECIA,subsidiado,5418
+05,VIGIA DEL FUERTE,contributivo,361
+05,VIGIA DEL FUERTE,subsidiado,7106
+05,YALI,contributivo,982
+05,YALI,subsidiado,5553
+05,YARUMAL,contributivo,16238
+05,YARUMAL,subsidiado,26041
+05,YOLOMBO,contributivo,3974
+05,YOLOMBO,subsidiado,15688
+05,YONDO,contributivo,1054
+05,YONDO,subsidiado,8526
+05,ZARAGOZA,contributivo,1725
+05,ZARAGOZA,subsidiado,24957
+08,BARANOA,contributivo,15584
+08,BARANOA,subsidiado,44260
+08,BARRANQUILLA,contributivo,778203
+08,BARRANQUILLA,subsidiado,778624
+08,CAMPO DE LA CRUZ,contributivo,2282
+08,CAMPO DE LA CRUZ,subsidiado,24010
+08,CANDELARIA,contributivo,1532
+08,CANDELARIA,subsidiado,14952
+08,GALAPA,contributivo,13074
+08,GALAPA,subsidiado,33792
+08,JUAN DE ACOSTA,contributivo,2175
+08,JUAN DE ACOSTA,subsidiado,15871
+08,LURUACO,contributivo,1973
+08,LURUACO,subsidiado,22075
+08,MALAMBO,contributivo,23322
+08,MALAMBO,subsidiado,86797
+08,MANATI,contributivo,1002
+08,MANATI,subsidiado,18256
+08,PALMAR DE VARELA,contributivo,3148
+08,PALMAR DE VARELA,subsidiado,16679
+08,PIOJO,contributivo,503
+08,PIOJO,subsidiado,3794
+08,POLO NUEVO,contributivo,3165
+08,POLO NUEVO,subsidiado,12084
+08,PONEDERA,contributivo,2059
+08,PONEDERA,subsidiado,19328
+08,PUERTO COLOMBIA,contributivo,12301
+08,PUERTO COLOMBIA,subsidiado,19808
+08,REPELON,contributivo,2726
+08,REPELON,subsidiado,22368
+08,SABANAGRANDE,contributivo,5815
+08,SABANAGRANDE,subsidiado,20633
+08,SABANALARGA,contributivo,30694
+08,SABANALARGA,subsidiado,72938
+08,SANTA LUCIA,contributivo,810
+08,SANTA LUCIA,subsidiado,12026
+08,SANTO TOMAS,contributivo,8699
+08,SANTO TOMAS,subsidiado,19702
+08,SOLEDAD,contributivo,277376
+08,SOLEDAD,subsidiado,331206
+08,SUAN,contributivo,1177
+08,SUAN,subsidiado,9510
+08,TUBARA,contributivo,2149
+08,TUBARA,subsidiado,7442
+08,USIACURI,contributivo,1197
+08,USIACURI,subsidiado,6539
+11,BOGOTA D.C.,contributivo,5917291
+11,BOGOTA D.C.,subsidiado,1832227
+13,ACHI,contributivo,1087
+13,ACHI,subsidiado,20891
+13,ALTOS DEL ROSARIO,contributivo,682
+13,ALTOS DEL ROSARIO,subsidiado,9727
+13,ARENAL,contributivo,569
+13,ARENAL,subsidiado,7821
+13,ARJONA,contributivo,12305
+13,ARJONA,subsidiado,55245
+13,ARROYOHONDO,contributivo,806
+13,ARROYOHONDO,subsidiado,8334
+13,BARRANCO DE LOBA,contributivo,1112
+13,BARRANCO DE LOBA,subsidiado,15736
+13,CALAMAR,contributivo,2615
+13,CALAMAR,subsidiado,21809
+13,CANTAGALLO,contributivo,1296
+13,CANTAGALLO,subsidiado,6332
+13,CARTAGENA,contributivo,545660
+13,CARTAGENA,subsidiado,709135
+13,CICUCO,contributivo,1367
+13,CICUCO,subsidiado,12332
+13,CLEMENCIA,contributivo,972
+13,CLEMENCIA,subsidiado,11394
+13,CORDOBA,contributivo,1386
+13,CORDOBA,subsidiado,14916
+13,EL CARMEN DE BOLIVAR,contributivo,10262
+13,EL CARMEN DE BOLIVAR,subsidiado,69559
+13,EL GUAMO,contributivo,1013
+13,EL GUAMO,subsidiado,7036
+13,EL PEÑON,contributivo,722
+13,EL PEÑON,subsidiado,6084
+13,HATILLO DE LOBA,contributivo,1009
+13,HATILLO DE LOBA,subsidiado,12272
+13,MAGANGUE,contributivo,18286
+13,MAGANGUE,subsidiado,113857
+13,MAHATES,contributivo,2790
+13,MAHATES,subsidiado,23184
+13,MARGARITA,contributivo,396
+13,MARGARITA,subsidiado,8272
+13,MARIA LA BAJA,contributivo,6723
+13,MARIA LA BAJA,subsidiado,44736
+13,MOMPOS,contributivo,7030
+13,MOMPOS,subsidiado,43926
+13,MONTECRISTO,contributivo,493
+13,MONTECRISTO,subsidiado,11041
+13,MORALES,contributivo,938
+13,MORALES,subsidiado,13121
+13,NOROSI,contributivo,457
+13,NOROSI,subsidiado,6749
+13,PINILLOS,contributivo,1713
+13,PINILLOS,subsidiado,21462
+13,REGIDOR,contributivo,960
+13,REGIDOR,subsidiado,5421
+13,RIO VIEJO,contributivo,1107
+13,RIO VIEJO,subsidiado,7035
+13,SAN CRISTOBAL,contributivo,1044
+13,SAN CRISTOBAL,subsidiado,7126
+13,SAN ESTANISLAO,contributivo,1697
+13,SAN ESTANISLAO,subsidiado,14581
+13,SAN FERNANDO,contributivo,374
+13,SAN FERNANDO,subsidiado,9162
+13,SAN JACINTO,contributivo,3509
+13,SAN JACINTO,subsidiado,22206
+13,SAN JACINTO DEL CAUCA,contributivo,666
+13,SAN JACINTO DEL CAUCA,subsidiado,8488
+13,SAN JUAN NEPOMUCENO,contributivo,5492
+13,SAN JUAN NEPOMUCENO,subsidiado,32637
+13,SAN MARTIN DE LOBA,contributivo,791
+13,SAN MARTIN DE LOBA,subsidiado,15063
+13,SAN PABLO,contributivo,3201
+13,SAN PABLO,subsidiado,26285
+13,SANTA CATALINA,contributivo,968
+13,SANTA CATALINA,subsidiado,11056
+13,SANTA ROSA,contributivo,2817
+13,SANTA ROSA,subsidiado,16325
+13,SANTA ROSA DEL SUR,contributivo,5939
+13,SANTA ROSA DEL SUR,subsidiado,41809
+13,SIMITI,contributivo,1666
+13,SIMITI,subsidiado,16885
+13,SOPLAVIENTO,contributivo,1548
+13,SOPLAVIENTO,subsidiado,6910
+13,TALAIGUA NUEVO,contributivo,1564
+13,TALAIGUA NUEVO,subsidiado,11657
+13,TIQUISIO,contributivo,874
+13,TIQUISIO,subsidiado,21467
+13,TURBACO,contributivo,35817
+13,TURBACO,subsidiado,54877
+13,TURBANA,contributivo,3999
+13,TURBANA,subsidiado,10528
+13,VILLANUEVA,contributivo,2564
+13,VILLANUEVA,subsidiado,17607
+13,ZAMBRANO,contributivo,1953
+13,ZAMBRANO,subsidiado,10405
+15,ALMEIDA,contributivo,192
+15,ALMEIDA,subsidiado,1086
+15,AQUITANIA,contributivo,997
+15,AQUITANIA,subsidiado,12286
+15,ARCABUCO,contributivo,837
+15,ARCABUCO,subsidiado,3646
+15,BELEN,contributivo,1901
+15,BELEN,subsidiado,4925
+15,BERBEO,contributivo,188
+15,BERBEO,subsidiado,1100
+15,BETEITIVA,contributivo,273
+15,BETEITIVA,subsidiado,912
+15,BOAVITA,contributivo,537
+15,BOAVITA,subsidiado,3299
+15,BOYACA,contributivo,639
+15,BOYACA,subsidiado,3832
+15,BRICENO,contributivo,196
+15,BRICENO,subsidiado,1687
+15,BUENAVISTA,contributivo,333
+15,BUENAVISTA,subsidiado,3598
+15,BUSBANZA,contributivo,279
+15,BUSBANZA,subsidiado,521
+15,CALDAS,contributivo,222
+15,CALDAS,subsidiado,2074
+15,CAMPOHERMOSO,contributivo,285
+15,CAMPOHERMOSO,subsidiado,1956
+15,CERINZA,contributivo,656
+15,CERINZA,subsidiado,2112
+15,CHINAVITA,contributivo,342
+15,CHINAVITA,subsidiado,1939
+15,CHIQUINQUIRA,contributivo,27032
+15,CHIQUINQUIRA,subsidiado,31072
+15,CHIQUIZA,contributivo,283
+15,CHIQUIZA,subsidiado,3622
+15,CHISCAS,contributivo,202
+15,CHISCAS,subsidiado,2304
+15,CHITA,contributivo,680
+15,CHITA,subsidiado,5968
+15,CHITARAQUE,contributivo,368
+15,CHITARAQUE,subsidiado,4777
+15,CHIVATA,contributivo,452
+15,CHIVATA,subsidiado,1941
+15,CHIVOR,contributivo,299
+15,CHIVOR,subsidiado,1417
+15,CIENEGA,contributivo,350
+15,CIENEGA,subsidiado,3272
+15,COMBITA,contributivo,1170
+15,COMBITA,subsidiado,6029
+15,COPER,contributivo,212
+15,COPER,subsidiado,2032
+15,CORRALES,contributivo,660
+15,CORRALES,subsidiado,1073
+15,COVARACHIA,contributivo,204
+15,COVARACHIA,subsidiado,2310
+15,CUBARA,contributivo,1119
+15,CUBARA,subsidiado,10111
+15,CUCAITA,contributivo,458
+15,CUCAITA,subsidiado,2644
+15,CUITIVA,contributivo,168
+15,CUITIVA,subsidiado,1193
+15,DUITAMA,contributivo,78713
+15,DUITAMA,subsidiado,53349
+15,EL COCUY,contributivo,451
+15,EL COCUY,subsidiado,2962
+15,EL ESPINO,contributivo,224
+15,EL ESPINO,subsidiado,1641
+15,FIRAVITOBA,contributivo,1141
+15,FIRAVITOBA,subsidiado,2939
+15,FLORESTA,contributivo,449
+15,FLORESTA,subsidiado,2360
+15,GACHANTIVA,contributivo,267
+15,GACHANTIVA,subsidiado,2193
+15,GAMEZA,contributivo,842
+15,GAMEZA,subsidiado,2888
+15,GARAGOA,contributivo,5861
+15,GARAGOA,subsidiado,9548
+15,GUACAMAYAS,contributivo,133
+15,GUACAMAYAS,subsidiado,990
+15,GUATEQUE,contributivo,3006
+15,GUATEQUE,subsidiado,5479
+15,GUAYATA,contributivo,333
+15,GUAYATA,subsidiado,2062
+15,GUICAN,contributivo,365
+15,GUICAN,subsidiado,3338
+15,IZA,contributivo,464
+15,IZA,subsidiado,1035
+15,JENESANO,contributivo,638
+15,JENESANO,subsidiado,4878
+15,JERICO,contributivo,529
+15,JERICO,subsidiado,2762
+15,LA CAPILLA,contributivo,159
+15,LA CAPILLA,subsidiado,1657
+15,LA UVITA,contributivo,292
+15,LA UVITA,subsidiado,1479
+15,LA VICTORIA,contributivo,88
+15,LA VICTORIA,subsidiado,782
+15,LABRANZAGRANDE,contributivo,440
+15,LABRANZAGRANDE,subsidiado,2248
+15,MACANAL,contributivo,363
+15,MACANAL,subsidiado,2480
+15,MARIPI,contributivo,357
+15,MARIPI,subsidiado,3987
+15,MIRAFLORES,contributivo,1968
+15,MIRAFLORES,subsidiado,5506
+15,MONGUA,contributivo,772
+15,MONGUA,subsidiado,2453
+15,MONGUI,contributivo,853
+15,MONGUI,subsidiado,2464
+15,MONIQUIRA,contributivo,10901
+15,MONIQUIRA,subsidiado,19776
+15,MOTAVITA,contributivo,570
+15,MOTAVITA,subsidiado,3512
+15,MUZO,contributivo,1127
+15,MUZO,subsidiado,5731
+15,NOBSA,contributivo,4153
+15,NOBSA,subsidiado,5452
+15,NUEVO COLON,contributivo,346
+15,NUEVO COLON,subsidiado,3769
+15,OICATA,contributivo,460
+15,OICATA,subsidiado,1451
+15,OTANCHE,contributivo,848
+15,OTANCHE,subsidiado,5839
+15,PACHAVITA,contributivo,145
+15,PACHAVITA,subsidiado,1306
+15,PAEZ,contributivo,303
+15,PAEZ,subsidiado,2099
+15,PAIPA,contributivo,19810
+15,PAIPA,subsidiado,16328
+15,PAJARITO,contributivo,357
+15,PAJARITO,subsidiado,1281
+15,PANQUEBA,contributivo,150
+15,PANQUEBA,subsidiado,1103
+15,PAUNA,contributivo,506
+15,PAUNA,subsidiado,5051
+15,PAYA,contributivo,163
+15,PAYA,subsidiado,1688
+15,PAZ DE RIO,contributivo,1769
+15,PAZ DE RIO,subsidiado,1644
+15,PESCA,contributivo,586
+15,PESCA,subsidiado,4896
+15,PISBA,contributivo,149
+15,PISBA,subsidiado,1297
+15,PUERTO BOYACA,contributivo,17722
+15,PUERTO BOYACA,subsidiado,31437
+15,QUIPAMA,contributivo,506
+15,QUIPAMA,subsidiado,3541
+15,RAMIRIQUI,contributivo,1495
+15,RAMIRIQUI,subsidiado,7290
+15,RAQUIRA,contributivo,986
+15,RAQUIRA,subsidiado,4709
+15,RONDON,contributivo,135
+15,RONDON,subsidiado,1581
+15,SABOYA,contributivo,901
+15,SABOYA,subsidiado,8939
+15,SACHICA,contributivo,560
+15,SACHICA,subsidiado,4226
+15,SAMACA,contributivo,9357
+15,SAMACA,subsidiado,12898
+15,SAN EDUARDO,contributivo,149
+15,SAN EDUARDO,subsidiado,1246
+15,SAN JOSE DE PARE,contributivo,243
+15,SAN JOSE DE PARE,subsidiado,3565
+15,SAN LUIS DE GACENO,contributivo,531
+15,SAN LUIS DE GACENO,subsidiado,3042
+15,SAN MATEO,contributivo,372
+15,SAN MATEO,subsidiado,2181
+15,SAN MIGUEL DE SEMA,contributivo,573
+15,SAN MIGUEL DE SEMA,subsidiado,1642
+15,SAN PABLO DE BORBUR,contributivo,521
+15,SAN PABLO DE BORBUR,subsidiado,5430
+15,SANTA MARIA,contributivo,687
+15,SANTA MARIA,subsidiado,1900
+15,SANTA ROSA DE VITERBO,contributivo,1556
+15,SANTA ROSA DE VITERBO,subsidiado,4936
+15,SANTA SOFIA,contributivo,260
+15,SANTA SOFIA,subsidiado,2201
+15,SANTANA,contributivo,1099
+15,SANTANA,subsidiado,6642
+15,SATIVANORTE,contributivo,256
+15,SATIVANORTE,subsidiado,1377
+15,SATIVASUR,contributivo,247
+15,SATIVASUR,subsidiado,564
+15,SIACHOQUE,contributivo,576
+15,SIACHOQUE,subsidiado,5143
+15,SOATA,contributivo,3220
+15,SOATA,subsidiado,5727
+15,SOCHA,contributivo,3863
+15,SOCHA,subsidiado,4532
+15,SOCOTA,contributivo,1762
+15,SOCOTA,subsidiado,4742
+15,SOGAMOSO,contributivo,85272
+15,SOGAMOSO,subsidiado,59576
+15,SOMONDOCO,contributivo,196
+15,SOMONDOCO,subsidiado,1416
+15,SORA,contributivo,288
+15,SORA,subsidiado,1882
+15,SORACA,contributivo,909
+15,SORACA,subsidiado,4582
+15,SOTAQUIRA,contributivo,1559
+15,SOTAQUIRA,subsidiado,3845
+15,SUSACON,contributivo,163
+15,SUSACON,subsidiado,1569
+15,SUTAMARCHAN,contributivo,808
+15,SUTAMARCHAN,subsidiado,4680
+15,SUTATENZA,contributivo,543
+15,SUTATENZA,subsidiado,2210
+15,TASCO,contributivo,1798
+15,TASCO,subsidiado,2796
+15,TENZA,contributivo,575
+15,TENZA,subsidiado,2233
+15,TIBANA,contributivo,519
+15,TIBANA,subsidiado,5870
+15,TIBASOSA,contributivo,2015
+15,TIBASOSA,subsidiado,5242
+15,TINJACA,contributivo,388
+15,TINJACA,subsidiado,1998
+15,TIPACOQUE,contributivo,317
+15,TIPACOQUE,subsidiado,2580
+15,TOCA,contributivo,2041
+15,TOCA,subsidiado,6803
+15,TOGUI,contributivo,231
+15,TOGUI,subsidiado,3762
+15,TOPAGA,contributivo,831
+15,TOPAGA,subsidiado,1923
+15,TOTA,contributivo,304
+15,TOTA,subsidiado,3984
+15,TUNJA,contributivo,139843
+15,TUNJA,subsidiado,71045
+15,TUNUNGUA,contributivo,106
+15,TUNUNGUA,subsidiado,1231
+15,TURMEQUE,contributivo,477
+15,TURMEQUE,subsidiado,4218
+15,TUTA,contributivo,1506
+15,TUTA,subsidiado,4574
+15,TUTASA,contributivo,99
+15,TUTASA,subsidiado,1260
+15,UMBITA,contributivo,415
+15,UMBITA,subsidiado,4807
+15,VENTAQUEMADA,contributivo,2413
+15,VENTAQUEMADA,subsidiado,10692
+15,VILLA DE LEYVA,contributivo,6009
+15,VILLA DE LEYVA,subsidiado,9420
+15,VIRACACHA,contributivo,162
+15,VIRACACHA,subsidiado,1844
+15,ZETAQUIRA,contributivo,407
+15,ZETAQUIRA,subsidiado,3524
+17,AGUADAS,contributivo,5679
+17,AGUADAS,subsidiado,13953
+17,ANSERMA,contributivo,7557
+17,ANSERMA,subsidiado,23663
+17,ARANZAZU,contributivo,2991
+17,ARANZAZU,subsidiado,8881
+17,BELALCAZAR,contributivo,1972
+17,BELALCAZAR,subsidiado,6919
+17,CHINCHINA,contributivo,25810
+17,CHINCHINA,subsidiado,28915
+17,FILADELFIA,contributivo,1448
+17,FILADELFIA,subsidiado,6041
+17,LA DORADA,contributivo,27107
+17,LA DORADA,subsidiado,40616
+17,LA MERCED,contributivo,966
+17,LA MERCED,subsidiado,3386
+17,MANIZALES,contributivo,328214
+17,MANIZALES,subsidiado,109344
+17,MANZANARES,contributivo,2700
+17,MANZANARES,subsidiado,12316
+17,MARMATO,contributivo,3748
+17,MARMATO,subsidiado,5847
+17,MARQUETALIA,contributivo,1698
+17,MARQUETALIA,subsidiado,10460
+17,MARULANDA,contributivo,392
+17,MARULANDA,subsidiado,1283
+17,NEIRA,contributivo,5357
+17,NEIRA,subsidiado,11005
+17,NORCASIA,contributivo,1309
+17,NORCASIA,subsidiado,4776
+17,PACORA,contributivo,3265
+17,PACORA,subsidiado,8851
+17,PALESTINA,contributivo,2828
+17,PALESTINA,subsidiado,7828
+17,PENSILVANIA,contributivo,3506
+17,PENSILVANIA,subsidiado,12307
+17,RIOSUCIO,contributivo,10928
+17,RIOSUCIO,subsidiado,36045
+17,RISARALDA,contributivo,2062
+17,RISARALDA,subsidiado,7763
+17,SALAMINA,contributivo,4547
+17,SALAMINA,subsidiado,9619
+17,SAMANA,contributivo,2199
+17,SAMANA,subsidiado,15735
+17,SAN JOSE DE CALDAS,contributivo,769
+17,SAN JOSE DE CALDAS,subsidiado,2891
+17,SUPIA,contributivo,9156
+17,SUPIA,subsidiado,19197
+17,VICTORIA,contributivo,1622
+17,VICTORIA,subsidiado,5404
+17,VILLAMARIA,contributivo,12320
+17,VILLAMARIA,subsidiado,13228
+17,VITERBO,contributivo,4458
+17,VITERBO,subsidiado,6955
+18,ALBANIA,contributivo,403
+18,ALBANIA,subsidiado,3942
+18,BELEN DE LOS ANDAQUIES,contributivo,872
+18,BELEN DE LOS ANDAQUIES,subsidiado,8188
+18,CARTAGENA DEL CHAIRA,contributivo,1843
+18,CARTAGENA DEL CHAIRA,subsidiado,32119
+18,CURILLO,contributivo,478
+18,CURILLO,subsidiado,8704
+18,EL DONCELLO,contributivo,2319
+18,EL DONCELLO,subsidiado,15932
+18,EL PAUJIL,contributivo,1037
+18,EL PAUJIL,subsidiado,12817
+18,FLORENCIA,contributivo,55664
+18,FLORENCIA,subsidiado,121411
+18,LA MONTANITA,contributivo,686
+18,LA MONTANITA,subsidiado,12568
+18,MILAN,contributivo,384
+18,MILAN,subsidiado,7176
+18,MORELIA,contributivo,326
+18,MORELIA,subsidiado,3313
+18,PUERTO RICO,contributivo,1929
+18,PUERTO RICO,subsidiado,22365
+18,SAN JOSE DE FRAGUA,contributivo,849
+18,SAN JOSE DE FRAGUA,subsidiado,12144
+18,SAN VICENTE DEL CAGUAN,contributivo,5526
+18,SAN VICENTE DEL CAGUAN,subsidiado,52984
+18,SOLANO,contributivo,410
+18,SOLANO,subsidiado,9337
+18,SOLITA,contributivo,291
+18,SOLITA,subsidiado,8420
+18,VALPARAISO,contributivo,380
+18,VALPARAISO,subsidiado,5221
+19,ALMAGUER,contributivo,763
+19,ALMAGUER,subsidiado,14630
+19,ARGELIA,contributivo,816
+19,ARGELIA,subsidiado,26078
+19,BALBOA,contributivo,685
+19,BALBOA,subsidiado,20114
+19,BOLIVAR,contributivo,2009
+19,BOLIVAR,subsidiado,32162
+19,BUENOS AIRES,contributivo,1480
+19,BUENOS AIRES,subsidiado,22493
+19,CAJIBIO,contributivo,1528
+19,CAJIBIO,subsidiado,31058
+19,CALDONO,contributivo,2470
+19,CALDONO,subsidiado,35976
+19,CALOTO,contributivo,3886
+19,CALOTO,subsidiado,18573
+19,CORINTO,contributivo,3948
+19,CORINTO,subsidiado,22575
+19,EL TAMBO,contributivo,2188
+19,EL TAMBO,subsidiado,40415
+19,FLORENCIA,contributivo,294
+19,FLORENCIA,subsidiado,5436
+19,GUACHENE,contributivo,3626
+19,GUACHENE,subsidiado,7390
+19,GUAPI,contributivo,2558
+19,GUAPI,subsidiado,20265
+19,INZA,contributivo,1621
+19,INZA,subsidiado,24209
+19,JAMBALO,contributivo,931
+19,JAMBALO,subsidiado,15501
+19,LA SIERRA,contributivo,593
+19,LA SIERRA,subsidiado,9031
+19,LA VEGA,contributivo,980
+19,LA VEGA,subsidiado,15963
+19,LOPEZ DE MICAY,contributivo,462
+19,LOPEZ DE MICAY,subsidiado,11545
+19,MERCADERES,contributivo,810
+19,MERCADERES,subsidiado,13553
+19,MIRANDA,contributivo,8096
+19,MIRANDA,subsidiado,17139
+19,MORALES,contributivo,1655
+19,MORALES,subsidiado,30080
+19,PADILLA,contributivo,1657
+19,PADILLA,subsidiado,5172
+19,PAEZ,contributivo,2203
+19,PAEZ,subsidiado,33136
+19,PATIA (EL BORDO),contributivo,3340
+19,PATIA (EL BORDO),subsidiado,28199
+19,PIAMONTE,contributivo,506
+19,PIAMONTE,subsidiado,7843
+19,PIENDAMO,contributivo,6366
+19,PIENDAMO,subsidiado,32001
+19,POPAYAN,contributivo,150436
+19,POPAYAN,subsidiado,184142
+19,PUERTO TEJADA,contributivo,27121
+19,PUERTO TEJADA,subsidiado,26469
+19,PURACE,contributivo,1068
+19,PURACE,subsidiado,13900
+19,ROSAS,contributivo,666
+19,ROSAS,subsidiado,8223
+19,SAN SEBASTIAN,contributivo,432
+19,SAN SEBASTIAN,subsidiado,7572
+19,SANTA ROSA,contributivo,330
+19,SANTA ROSA,subsidiado,3107
+19,SANTANDER DE QUILICHAO,contributivo,37743
+19,SANTANDER DE QUILICHAO,subsidiado,79584
+19,SILVIA,contributivo,2734
+19,SILVIA,subsidiado,31827
+19,SOTARA,contributivo,660
+19,SOTARA,subsidiado,8192
+19,SUAREZ,contributivo,1061
+19,SUAREZ,subsidiado,19744
+19,SUCRE,contributivo,314
+19,SUCRE,subsidiado,6118
+19,TIMBIO,contributivo,3878
+19,TIMBIO,subsidiado,25388
+19,TIMBIQUI,contributivo,1056
+19,TIMBIQUI,subsidiado,18093
+19,TORIBIO,contributivo,1672
+19,TORIBIO,subsidiado,32108
+19,TOTORO,contributivo,1284
+19,TOTORO,subsidiado,19117
+19,VILLA RICA,contributivo,4847
+19,VILLA RICA,subsidiado,8984
+20,AGUACHICA,contributivo,30787
+20,AGUACHICA,subsidiado,85060
+20,ASTREA,contributivo,1466
+20,ASTREA,subsidiado,18633
+20,BECERRIL,contributivo,1924
+20,BECERRIL,subsidiado,19530
+20,BOSCONIA,contributivo,10819
+20,BOSCONIA,subsidiado,37307
+20,CHIMICHAGUA,contributivo,2196
+20,CHIMICHAGUA,subsidiado,27285
+20,CHIRIGUANA,contributivo,4877
+20,CHIRIGUANA,subsidiado,24233
+20,CODAZZI,contributivo,14802
+20,CODAZZI,subsidiado,58091
+20,CURUMANI,contributivo,5085
+20,CURUMANI,subsidiado,36555
+20,EL COPEY,contributivo,6558
+20,EL COPEY,subsidiado,24874
+20,EL PASO,contributivo,12057
+20,EL PASO,subsidiado,28906
+20,GAMARRA,contributivo,1116
+20,GAMARRA,subsidiado,9811
+20,GONZALEZ,contributivo,193
+20,GONZALEZ,subsidiado,3595
+20,LA GLORIA,contributivo,1814
+20,LA GLORIA,subsidiado,9847
+20,LA JAGUA DE IBIRICO,contributivo,13538
+20,LA JAGUA DE IBIRICO,subsidiado,31810
+20,LA PAZ  ROBLES,contributivo,1562
+20,LA PAZ  ROBLES,subsidiado,22378
+20,MANAURE BALCON DEL CESAR,contributivo,740
+20,MANAURE BALCON DEL CESAR,subsidiado,9452
+20,PAILITAS,contributivo,1947
+20,PAILITAS,subsidiado,19598
+20,PELAYA,contributivo,3186
+20,PELAYA,subsidiado,18909
+20,PUEBLO BELLO,contributivo,959
+20,PUEBLO BELLO,subsidiado,37625
+20,RIO DE ORO,contributivo,672
+20,RIO DE ORO,subsidiado,8336
+20,SAN ALBERTO,contributivo,12845
+20,SAN ALBERTO,subsidiado,16984
+20,SAN DIEGO,contributivo,1213
+20,SAN DIEGO,subsidiado,17398
+20,SAN MARTIN,contributivo,6680
+20,SAN MARTIN,subsidiado,17805
+20,TAMALAMEQUE,contributivo,1111
+20,TAMALAMEQUE,subsidiado,10562
+20,VALLEDUPAR,contributivo,195970
+20,VALLEDUPAR,subsidiado,353313
+23,AYAPEL,contributivo,3771
+23,AYAPEL,subsidiado,37918
+23,BUENAVISTA,contributivo,2251
+23,BUENAVISTA,subsidiado,15891
+23,CANALETE,contributivo,1417
+23,CANALETE,subsidiado,15828
+23,CERETE,contributivo,25371
+23,CERETE,subsidiado,69683
+23,CHIMA,contributivo,874
+23,CHIMA,subsidiado,11225
+23,CHINU,contributivo,5287
+23,CHINU,subsidiado,36907
+23,CIENAGA DE ORO,contributivo,7797
+23,CIENAGA DE ORO,subsidiado,47277
+23,COTORRA,contributivo,1790
+23,COTORRA,subsidiado,14453
+23,LA APARTADA,contributivo,913
+23,LA APARTADA,subsidiado,10235
+23,LORICA,contributivo,17440
+23,LORICA,subsidiado,91847
+23,LOS CORDOBAS,contributivo,676
+23,LOS CORDOBAS,subsidiado,13833
+23,MOMIL,contributivo,1459
+23,MOMIL,subsidiado,13565
+23,MONITOS,contributivo,1654
+23,MONITOS,subsidiado,23291
+23,MONTELIBANO,contributivo,22246
+23,MONTELIBANO,subsidiado,59922
+23,MONTERIA,contributivo,191019
+23,MONTERIA,subsidiado,327656
+23,PLANETA RICA,contributivo,12810
+23,PLANETA RICA,subsidiado,53807
+23,PUEBLO NUEVO,contributivo,4679
+23,PUEBLO NUEVO,subsidiado,25769
+23,PUERTO ESCONDIDO,contributivo,1236
+23,PUERTO ESCONDIDO,subsidiado,18760
+23,PUERTO LIBERTADOR,contributivo,4099
+23,PUERTO LIBERTADOR,subsidiado,37062
+23,PURISIMA,contributivo,1504
+23,PURISIMA,subsidiado,13246
+23,SAHAGUN,contributivo,13873
+23,SAHAGUN,subsidiado,76740
+23,SAN ANDRES DE SOTAVENTO,contributivo,3092
+23,SAN ANDRES DE SOTAVENTO,subsidiado,36580
+23,SAN ANTERO,contributivo,3626
+23,SAN ANTERO,subsidiado,25928
+23,SAN BERNARDO DEL VIENTO,contributivo,2942
+23,SAN BERNARDO DEL VIENTO,subsidiado,28976
+23,SAN CARLOS,contributivo,1052
+23,SAN CARLOS,subsidiado,16420
+23,SAN JOSE DE URE,contributivo,584
+23,SAN JOSE DE URE,subsidiado,8197
+23,SAN PELAYO,contributivo,3411
+23,SAN PELAYO,subsidiado,32570
+23,TIERRALTA,contributivo,8573
+23,TIERRALTA,subsidiado,85881
+23,TUCHIN,contributivo,1901
+23,TUCHIN,subsidiado,37378
+23,VALENCIA,contributivo,2706
+23,VALENCIA,subsidiado,28878
+25,AGUA DE DIOS,contributivo,3397
+25,AGUA DE DIOS,subsidiado,4595
+25,ALBAN,contributivo,679
+25,ALBAN,subsidiado,2226
+25,ANAPOIMA,contributivo,4205
+25,ANAPOIMA,subsidiado,5883
+25,ANOLAIMA,contributivo,2761
+25,ANOLAIMA,subsidiado,7382
+25,APULO,contributivo,2007
+25,APULO,subsidiado,3891
+25,ARBELAEZ,contributivo,2205
+25,ARBELAEZ,subsidiado,5412
+25,BELTRAN,contributivo,140
+25,BELTRAN,subsidiado,936
+25,BITUIMA,contributivo,180
+25,BITUIMA,subsidiado,1064
+25,BOJACA,contributivo,3147
+25,BOJACA,subsidiado,2215
+25,CABRERA,contributivo,228
+25,CABRERA,subsidiado,2923
+25,CACHIPAY,contributivo,1791
+25,CACHIPAY,subsidiado,5579
+25,CAJICA,contributivo,61305
+25,CAJICA,subsidiado,16825
+25,CAPARRAPI,contributivo,700
+25,CAPARRAPI,subsidiado,7517
+25,CAQUEZA,contributivo,5474
+25,CAQUEZA,subsidiado,12019
+25,CARMEN DE CARUPA,contributivo,1144
+25,CARMEN DE CARUPA,subsidiado,4758
+25,CHAGUANI,contributivo,289
+25,CHAGUANI,subsidiado,1822
+25,CHIA,contributivo,162063
+25,CHIA,subsidiado,31432
+25,CHIPAQUE,contributivo,1765
+25,CHIPAQUE,subsidiado,5506
+25,CHOACHI,contributivo,1796
+25,CHOACHI,subsidiado,5103
+25,CHOCONTA,contributivo,8756
+25,CHOCONTA,subsidiado,11633
+25,COGUA,contributivo,5941
+25,COGUA,subsidiado,4798
+25,COTA,contributivo,17266
+25,COTA,subsidiado,7385
+25,CUCUNUBA,contributivo,2833
+25,CUCUNUBA,subsidiado,2259
+25,EL COLEGIO,contributivo,6274
+25,EL COLEGIO,subsidiado,13449
+25,EL PEÑOL,contributivo,474
+25,EL PEÑOL,subsidiado,2505
+25,EL ROSAL,contributivo,15629
+25,EL ROSAL,subsidiado,8544
+25,FACATATIVA,contributivo,121437
+25,FACATATIVA,subsidiado,45442
+25,FOMEQUE,contributivo,2923
+25,FOMEQUE,subsidiado,7247
+25,FOSCA,contributivo,626
+25,FOSCA,subsidiado,4355
+25,FUNZA,contributivo,83896
+25,FUNZA,subsidiado,22767
+25,FUQUENE,contributivo,1020
+25,FUQUENE,subsidiado,2232
+25,FUSAGASUGA,contributivo,89528
+25,FUSAGASUGA,subsidiado,64695
+25,GACHALA,contributivo,681
+25,GACHALA,subsidiado,2391
+25,GACHANCIPA,contributivo,8218
+25,GACHANCIPA,subsidiado,3626
+25,GACHETA,contributivo,2586
+25,GACHETA,subsidiado,5224
+25,GAMA,contributivo,330
+25,GAMA,subsidiado,1896
+25,GIRARDOT,contributivo,86993
+25,GIRARDOT,subsidiado,56305
+25,GRANADA,contributivo,699
+25,GRANADA,subsidiado,3369
+25,GUACHETA,contributivo,7023
+25,GUACHETA,subsidiado,5281
+25,GUADUAS,contributivo,6442
+25,GUADUAS,subsidiado,13332
+25,GUASCA,contributivo,7804
+25,GUASCA,subsidiado,3850
+25,GUATAQUI,contributivo,336
+25,GUATAQUI,subsidiado,999
+25,GUATAVITA,contributivo,2567
+25,GUATAVITA,subsidiado,2830
+25,GUAYABAL DE SIQUIMA,contributivo,425
+25,GUAYABAL DE SIQUIMA,subsidiado,1850
+25,GUAYABETAL,contributivo,647
+25,GUAYABETAL,subsidiado,3270
+25,GUTIERREZ,contributivo,298
+25,GUTIERREZ,subsidiado,2448
+25,JERUSALEN,contributivo,235
+25,JERUSALEN,subsidiado,1410
+25,JUNIN,contributivo,494
+25,JUNIN,subsidiado,3332
+25,LA CALERA,contributivo,13737
+25,LA CALERA,subsidiado,6115
+25,LA MESA,contributivo,18922
+25,LA MESA,subsidiado,20417
+25,LA PALMA,contributivo,997
+25,LA PALMA,subsidiado,5676
+25,LA PEÑA,contributivo,321
+25,LA PEÑA,subsidiado,3250
+25,LA VEGA,contributivo,6005
+25,LA VEGA,subsidiado,9110
+25,LENGUAZAQUE,contributivo,3341
+25,LENGUAZAQUE,subsidiado,4535
+25,MACHETA,contributivo,728
+25,MACHETA,subsidiado,4005
+25,MADRID,contributivo,91453
+25,MADRID,subsidiado,29203
+25,MANTA,contributivo,350
+25,MANTA,subsidiado,2038
+25,MEDINA,contributivo,1601
+25,MEDINA,subsidiado,5766
+25,MOSQUERA,contributivo,77182
+25,MOSQUERA,subsidiado,27675
+25,NARIÑO,contributivo,246
+25,NARIÑO,subsidiado,1039
+25,NEMOCON,contributivo,7333
+25,NEMOCON,subsidiado,4460
+25,NILO,contributivo,675
+25,NILO,subsidiado,1793
+25,NIMAIMA,contributivo,275
+25,NIMAIMA,subsidiado,1544
+25,NOCAIMA,contributivo,743
+25,NOCAIMA,subsidiado,2776
+25,PACHO,contributivo,8207
+25,PACHO,subsidiado,16265
+25,PAIME,contributivo,294
+25,PAIME,subsidiado,2866
+25,PANDI,contributivo,362
+25,PANDI,subsidiado,2750
+25,PARATEBUENO,contributivo,2519
+25,PARATEBUENO,subsidiado,3590
+25,PASCA,contributivo,803
+25,PASCA,subsidiado,6739
+25,PUERTO SALGAR,contributivo,2264
+25,PUERTO SALGAR,subsidiado,6187
+25,PULI,contributivo,126
+25,PULI,subsidiado,1188
+25,QUEBRADANEGRA,contributivo,457
+25,QUEBRADANEGRA,subsidiado,2215
+25,QUETAME,contributivo,750
+25,QUETAME,subsidiado,3714
+25,QUIPILE,contributivo,238
+25,QUIPILE,subsidiado,3757
+25,RICAURTE,contributivo,1802
+25,RICAURTE,subsidiado,3597
+25,S.ANTONIO TEQUENDAMA,contributivo,1633
+25,S.ANTONIO TEQUENDAMA,subsidiado,4546
+25,SAN BERNARDO,contributivo,660
+25,SAN BERNARDO,subsidiado,5288
+25,SAN CAYETANO,contributivo,265
+25,SAN CAYETANO,subsidiado,2199
+25,SAN FRANCISCO,contributivo,2001
+25,SAN FRANCISCO,subsidiado,4302
+25,SAN JUAN DE RIO SECO,contributivo,928
+25,SAN JUAN DE RIO SECO,subsidiado,5243
+25,SASAIMA,contributivo,2897
+25,SASAIMA,subsidiado,4753
+25,SESQUILE,contributivo,6122
+25,SESQUILE,subsidiado,3680
+25,SIBATE,contributivo,8276
+25,SIBATE,subsidiado,10802
+25,SILVANIA,contributivo,3319
+25,SILVANIA,subsidiado,13511
+25,SIMIJACA,contributivo,1864
+25,SIMIJACA,subsidiado,5793
+25,SOACHA,contributivo,401380
+25,SOACHA,subsidiado,195503
+25,SOPO,contributivo,18435
+25,SOPO,subsidiado,4152
+25,SUBACHOQUE,contributivo,6057
+25,SUBACHOQUE,subsidiado,4458
+25,SUESCA,contributivo,10199
+25,SUESCA,subsidiado,4909
+25,SUPATA,contributivo,540
+25,SUPATA,subsidiado,2438
+25,SUSA,contributivo,936
+25,SUSA,subsidiado,3859
+25,SUTATAUSA,contributivo,1804
+25,SUTATAUSA,subsidiado,1513
+25,TABIO,contributivo,9826
+25,TABIO,subsidiado,5038
+25,TAUSA,contributivo,2679
+25,TAUSA,subsidiado,3051
+25,TENA,contributivo,971
+25,TENA,subsidiado,3382
+25,TENJO,contributivo,12504
+25,TENJO,subsidiado,5189
+25,TIBACUY,contributivo,394
+25,TIBACUY,subsidiado,2304
+25,TIBIRITA,contributivo,74
+25,TIBIRITA,subsidiado,1425
+25,TOCAIMA,contributivo,2874
+25,TOCAIMA,subsidiado,7587
+25,TOCANCIPA,contributivo,41709
+25,TOCANCIPA,subsidiado,12136
+25,TOPAIPI,contributivo,254
+25,TOPAIPI,subsidiado,2232
+25,UBALA,contributivo,878
+25,UBALA,subsidiado,4306
+25,UBAQUE,contributivo,708
+25,UBAQUE,subsidiado,3624
+25,UBATE,contributivo,34834
+25,UBATE,subsidiado,20456
+25,UNE,contributivo,657
+25,UNE,subsidiado,4920
+25,UTICA,contributivo,541
+25,UTICA,subsidiado,2582
+25,VENECIA,contributivo,367
+25,VENECIA,subsidiado,3163
+25,VERGARA,contributivo,531
+25,VERGARA,subsidiado,4175
+25,VIANI,contributivo,495
+25,VIANI,subsidiado,2364
+25,VILLAGOMEZ,contributivo,209
+25,VILLAGOMEZ,subsidiado,1212
+25,VILLAPINZON,contributivo,3755
+25,VILLAPINZON,subsidiado,10182
+25,VILLETA,contributivo,17269
+25,VILLETA,subsidiado,14827
+25,VIOTA,contributivo,1651
+25,VIOTA,subsidiado,7796
+25,YACOPI,contributivo,811
+25,YACOPI,subsidiado,7194
+25,ZIPACON,contributivo,768
+25,ZIPACON,subsidiado,1640
+25,ZIPAQUIRA,contributivo,134402
+25,ZIPAQUIRA,subsidiado,42385
+27,ACANDI,contributivo,975
+27,ACANDI,subsidiado,11972
+27,ALTO BAUDO,contributivo,1028
+27,ALTO BAUDO,subsidiado,18728
+27,ATRATO,contributivo,310
+27,ATRATO,subsidiado,4382
+27,BAGADO,contributivo,559
+27,BAGADO,subsidiado,9756
+27,BAHIA SOLANO,contributivo,407
+27,BAHIA SOLANO,subsidiado,9880
+27,BAJO BAUDO,contributivo,644
+27,BAJO BAUDO,subsidiado,15449
+27,BELEN DE BAJIRA,subsidiado,2
+27,BOJAYA,contributivo,850
+27,BOJAYA,subsidiado,11883
+27,CANTON DE SAN PABLO,contributivo,217
+27,CANTON DE SAN PABLO,subsidiado,4967
+27,CARMEN DEL DARIEN,contributivo,449
+27,CARMEN DEL DARIEN,subsidiado,10368
+27,CERTEGUI,contributivo,152
+27,CERTEGUI,subsidiado,3633
+27,CONDOTO,contributivo,764
+27,CONDOTO,subsidiado,9655
+27,EL CARMEN,contributivo,1826
+27,EL CARMEN,subsidiado,6763
+27,EL LITORAL DEL SAN JUAN,contributivo,611
+27,EL LITORAL DEL SAN JUAN,subsidiado,9023
+27,ITSMINA,contributivo,5956
+27,ITSMINA,subsidiado,26324
+27,JURADO,contributivo,183
+27,JURADO,subsidiado,4593
+27,LLORO,contributivo,456
+27,LLORO,subsidiado,10423
+27,MEDIO ATRATO,contributivo,211
+27,MEDIO ATRATO,subsidiado,5951
+27,MEDIO BAUDO,contributivo,513
+27,MEDIO BAUDO,subsidiado,10478
+27,MEDIO SAN JUAN,contributivo,342
+27,MEDIO SAN JUAN,subsidiado,7558
+27,NOVITA,contributivo,238
+27,NOVITA,subsidiado,5157
+27,NUEVO BELÉN DE BAJIRÁ,contributivo,10
+27,NUEVO BELÉN DE BAJIRÁ,subsidiado,3708
+27,NUQUI,contributivo,318
+27,NUQUI,subsidiado,7164
+27,QUIBDO,contributivo,34068
+27,QUIBDO,subsidiado,106543
+27,RIO IRO,contributivo,205
+27,RIO IRO,subsidiado,3937
+27,RIO QUITO,contributivo,326
+27,RIO QUITO,subsidiado,7234
+27,RIOSUCIO,contributivo,1702
+27,RIOSUCIO,subsidiado,23937
+27,SAN JOSE DEL PALMAR,contributivo,96
+27,SAN JOSE DEL PALMAR,subsidiado,3758
+27,SIPI,contributivo,95
+27,SIPI,subsidiado,3260
+27,TADO,contributivo,1089
+27,TADO,subsidiado,16807
+27,UNGUIA,contributivo,304
+27,UNGUIA,subsidiado,9411
+27,UNION PANAMERICANA,contributivo,340
+27,UNION PANAMERICANA,subsidiado,5075
+41,ACEVEDO,contributivo,1588
+41,ACEVEDO,subsidiado,32163
+41,AGRADO,contributivo,888
+41,AGRADO,subsidiado,7595
+41,AIPE,contributivo,3170
+41,AIPE,subsidiado,11712
+41,ALGECIRAS,contributivo,1946
+41,ALGECIRAS,subsidiado,22502
+41,ALTAMIRA,contributivo,416
+41,ALTAMIRA,subsidiado,2100
+41,BARAYA,contributivo,540
+41,BARAYA,subsidiado,5011
+41,CAMPOALEGRE,contributivo,7337
+41,CAMPOALEGRE,subsidiado,23002
+41,COLOMBIA,contributivo,484
+41,COLOMBIA,subsidiado,5791
+41,ELIAS,contributivo,376
+41,ELIAS,subsidiado,3450
+41,GARZON,contributivo,18974
+41,GARZON,subsidiado,62831
+41,GIGANTE,contributivo,3691
+41,GIGANTE,subsidiado,19156
+41,GUADALUPE,contributivo,1409
+41,GUADALUPE,subsidiado,17145
+41,HOBO,contributivo,1599
+41,HOBO,subsidiado,5434
+41,IQUIRA,contributivo,916
+41,IQUIRA,subsidiado,8883
+41,ISNOS,contributivo,1922
+41,ISNOS,subsidiado,26996
+41,LA ARGENTINA,contributivo,910
+41,LA ARGENTINA,subsidiado,13925
+41,LA PLATA,contributivo,10642
+41,LA PLATA,subsidiado,57778
+41,NATAGA,contributivo,571
+41,NATAGA,subsidiado,5099
+41,NEIVA,contributivo,207221
+41,NEIVA,subsidiado,201426
+41,OPORAPA,contributivo,743
+41,OPORAPA,subsidiado,11111
+41,PAICOL,contributivo,756
+41,PAICOL,subsidiado,4061
+41,PALERMO,contributivo,3735
+41,PALERMO,subsidiado,15022
+41,PALESTINA,contributivo,736
+41,PALESTINA,subsidiado,11039
+41,PITAL,contributivo,1049
+41,PITAL,subsidiado,10910
+41,PITALITO,contributivo,39179
+41,PITALITO,subsidiado,119694
+41,RIVERA,contributivo,4011
+41,RIVERA,subsidiado,14868
+41,SALADOBLANCO,contributivo,763
+41,SALADOBLANCO,subsidiado,12412
+41,SAN AGUSTIN,contributivo,3032
+41,SAN AGUSTIN,subsidiado,31494
+41,SANTA MARIA,contributivo,783
+41,SANTA MARIA,subsidiado,9435
+41,SUAZA,contributivo,1348
+41,SUAZA,subsidiado,22415
+41,TARQUI,contributivo,1345
+41,TARQUI,subsidiado,14311
+41,TELLO,contributivo,1180
+41,TELLO,subsidiado,8367
+41,TERUEL,contributivo,729
+41,TERUEL,subsidiado,5877
+41,TESALIA,contributivo,1837
+41,TESALIA,subsidiado,7393
+41,TIMANA,contributivo,2067
+41,TIMANA,subsidiado,17547
+41,VILLAVIEJA,contributivo,812
+41,VILLAVIEJA,subsidiado,4831
+41,YAGUARA,contributivo,1923
+41,YAGUARA,subsidiado,4497
+44,ALBANIA,contributivo,7715
+44,ALBANIA,subsidiado,20396
+44,BARRANCAS,contributivo,7595
+44,BARRANCAS,subsidiado,23976
+44,DIBULLA,contributivo,2437
+44,DIBULLA,subsidiado,31444
+44,DISTRACCION,contributivo,931
+44,DISTRACCION,subsidiado,8677
+44,EL MOLINO,contributivo,463
+44,EL MOLINO,subsidiado,6388
+44,FONSECA,contributivo,11453
+44,FONSECA,subsidiado,34591
+44,HATONUEVO,contributivo,4949
+44,HATONUEVO,subsidiado,14237
+44,LA JAGUA DEL PILAR,contributivo,110
+44,LA JAGUA DEL PILAR,subsidiado,1905
+44,MAICAO,contributivo,27894
+44,MAICAO,subsidiado,269873
+44,MANAURE,contributivo,4162
+44,MANAURE,subsidiado,77971
+44,RIOHACHA,contributivo,65648
+44,RIOHACHA,subsidiado,245334
+44,SAN JUAN DEL CESAR,contributivo,12378
+44,SAN JUAN DEL CESAR,subsidiado,37973
+44,URIBIA,contributivo,11873
+44,URIBIA,subsidiado,183745
+44,URUMITA,contributivo,1311
+44,URUMITA,subsidiado,6773
+44,VILLANUEVA,contributivo,4313
+44,VILLANUEVA,subsidiado,19945
+47,ALGARROBO,contributivo,4860
+47,ALGARROBO,subsidiado,9802
+47,ARACATACA,contributivo,2618
+47,ARACATACA,subsidiado,23884
+47,ARIGUANI,contributivo,1593
+47,ARIGUANI,subsidiado,26633
+47,CERRO SAN ANTONIO,contributivo,348
+47,CERRO SAN ANTONIO,subsidiado,7888
+47,CHIVOLO,contributivo,897
+47,CHIVOLO,subsidiado,18421
+47,CIENAGA,contributivo,45131
+47,CIENAGA,subsidiado,90615
+47,CONCORDIA,contributivo,297
+47,CONCORDIA,subsidiado,8810
+47,EL BANCO,contributivo,7852
+47,EL BANCO,subsidiado,56722
+47,EL PIJI¥O DEL CARMEN,contributivo,606
+47,EL PIJI¥O DEL CARMEN,subsidiado,9965
+47,EL PIÑON,contributivo,616
+47,EL PIÑON,subsidiado,13355
+47,EL RETEN,contributivo,1452
+47,EL RETEN,subsidiado,14384
+47,FUNDACION,contributivo,24822
+47,FUNDACION,subsidiado,65390
+47,GUAMAL,contributivo,1756
+47,GUAMAL,subsidiado,23816
+47,NUEVA GRANADA,contributivo,1480
+47,NUEVA GRANADA,subsidiado,20482
+47,PEDRAZA,contributivo,247
+47,PEDRAZA,subsidiado,7483
+47,PIVIJAY,contributivo,3176
+47,PIVIJAY,subsidiado,34162
+47,PLATO,contributivo,7751
+47,PLATO,subsidiado,52129
+47,PUEBLOVIEJO,contributivo,1174
+47,PUEBLOVIEJO,subsidiado,22791
+47,REMOLINO,contributivo,297
+47,REMOLINO,subsidiado,6510
+47,SABANA DE SAN ANGEL,contributivo,696
+47,SABANA DE SAN ANGEL,subsidiado,13209
+47,SALAMINA,contributivo,761
+47,SALAMINA,subsidiado,7846
+47,SAN SEBASTIAN BUENAVIST,contributivo,1562
+47,SAN SEBASTIAN BUENAVIST,subsidiado,18946
+47,SAN ZENON,contributivo,587
+47,SAN ZENON,subsidiado,8724
+47,SANTA ANA,contributivo,2297
+47,SANTA ANA,subsidiado,19578
+47,SANTA BARBARA DE PINTO,contributivo,630
+47,SANTA BARBARA DE PINTO,subsidiado,9270
+47,SANTA MARTA,contributivo,244841
+47,SANTA MARTA,subsidiado,343575
+47,SITIONUEVO,contributivo,905
+47,SITIONUEVO,subsidiado,17385
+47,TENERIFE,contributivo,640
+47,TENERIFE,subsidiado,10976
+47,ZAPAYAN,contributivo,306
+47,ZAPAYAN,subsidiado,8237
+47,ZONA BANANERA,contributivo,24207
+47,ZONA BANANERA,subsidiado,39636
+50,ACACIAS,contributivo,46430
+50,ACACIAS,subsidiado,47308
+50,BARRANCA DE UPIA,contributivo,2494
+50,BARRANCA DE UPIA,subsidiado,3876
+50,CABUYARO,contributivo,2855
+50,CABUYARO,subsidiado,3783
+50,CASTILLA LA NUEVA,contributivo,5648
+50,CASTILLA LA NUEVA,subsidiado,8031
+50,CUBARRAL,contributivo,920
+50,CUBARRAL,subsidiado,4294
+50,CUMARAL,contributivo,10405
+50,CUMARAL,subsidiado,13603
+50,EL CALVARIO,contributivo,139
+50,EL CALVARIO,subsidiado,1055
+50,EL CASTILLO,contributivo,548
+50,EL CASTILLO,subsidiado,6361
+50,EL DORADO,contributivo,537
+50,EL DORADO,subsidiado,3565
+50,FUENTE DE ORO,contributivo,1038
+50,FUENTE DE ORO,subsidiado,9196
+50,GRANADA,contributivo,22159
+50,GRANADA,subsidiado,63787
+50,GUAMAL,contributivo,4883
+50,GUAMAL,subsidiado,8313
+50,LA MACARENA,contributivo,951
+50,LA MACARENA,subsidiado,10424
+50,LA URIBE,contributivo,794
+50,LA URIBE,subsidiado,9308
+50,LEJANIAS,contributivo,741
+50,LEJANIAS,subsidiado,9750
+50,MAPIRIPAN,contributivo,1307
+50,MAPIRIPAN,subsidiado,5825
+50,MESETAS,contributivo,925
+50,MESETAS,subsidiado,9718
+50,PUERTO CONCORDIA,contributivo,948
+50,PUERTO CONCORDIA,subsidiado,7957
+50,PUERTO GAITAN,contributivo,27117
+50,PUERTO GAITAN,subsidiado,43638
+50,PUERTO LLERAS,contributivo,1057
+50,PUERTO LLERAS,subsidiado,6693
+50,PUERTO LOPEZ,contributivo,11631
+50,PUERTO LOPEZ,subsidiado,21788
+50,PUERTO RICO,contributivo,1782
+50,PUERTO RICO,subsidiado,9993
+50,RESTREPO,contributivo,5031
+50,RESTREPO,subsidiado,9010
+50,SAN CARLOS GUAROA,contributivo,5455
+50,SAN CARLOS GUAROA,subsidiado,6530
+50,SAN JUAN DE ARAMA,contributivo,652
+50,SAN JUAN DE ARAMA,subsidiado,5604
+50,SAN JUANITO,contributivo,185
+50,SAN JUANITO,subsidiado,1247
+50,SAN MARTIN,contributivo,7836
+50,SAN MARTIN,subsidiado,14257
+50,VILLAVICENCIO,contributivo,289579
+50,VILLAVICENCIO,subsidiado,263270
+50,VISTA HERMOSA,contributivo,1326
+50,VISTA HERMOSA,subsidiado,15131
+52,ALBAN,contributivo,419
+52,ALBAN,subsidiado,6813
+52,ALDANA,contributivo,884
+52,ALDANA,subsidiado,6582
+52,ANCUYA,contributivo,433
+52,ANCUYA,subsidiado,5644
+52,ARBOLEDA,contributivo,319
+52,ARBOLEDA,subsidiado,5713
+52,BARBACOAS,contributivo,1507
+52,BARBACOAS,subsidiado,34200
+52,BELEN,contributivo,344
+52,BELEN,subsidiado,4319
+52,BUESACO,contributivo,1360
+52,BUESACO,subsidiado,17548
+52,CHACHAGUI,contributivo,1304
+52,CHACHAGUI,subsidiado,9023
+52,COLON,contributivo,366
+52,COLON,subsidiado,7102
+52,CONSACA,contributivo,762
+52,CONSACA,subsidiado,7711
+52,CONTADERO,contributivo,610
+52,CONTADERO,subsidiado,5775
+52,CORDOBA,contributivo,740
+52,CORDOBA,subsidiado,13149
+52,CUASPUD,contributivo,548
+52,CUASPUD,subsidiado,8591
+52,CUMBAL,contributivo,2557
+52,CUMBAL,subsidiado,31288
+52,CUMBITARA,contributivo,250
+52,CUMBITARA,subsidiado,7136
+52,EL CHARCO,contributivo,628
+52,EL CHARCO,subsidiado,20104
+52,EL PENOL,contributivo,340
+52,EL PENOL,subsidiado,5266
+52,EL ROSARIO,contributivo,292
+52,EL ROSARIO,subsidiado,6810
+52,EL TABLON,contributivo,765
+52,EL TABLON,subsidiado,12361
+52,EL TAMBO,contributivo,870
+52,EL TAMBO,subsidiado,11067
+52,FRANCIS PIZARRO,contributivo,417
+52,FRANCIS PIZARRO,subsidiado,5811
+52,FUNES,contributivo,555
+52,FUNES,subsidiado,5196
+52,GUACHUCAL,contributivo,1929
+52,GUACHUCAL,subsidiado,15470
+52,GUAITARILLA,contributivo,563
+52,GUAITARILLA,subsidiado,9497
+52,GUALMATAN,contributivo,458
+52,GUALMATAN,subsidiado,5035
+52,ILES,contributivo,456
+52,ILES,subsidiado,6374
+52,IMUES,contributivo,435
+52,IMUES,subsidiado,4787
+52,IPIALES,contributivo,27594
+52,IPIALES,subsidiado,102636
+52,LA CRUZ,contributivo,1205
+52,LA CRUZ,subsidiado,13400
+52,LA FLORIDA,contributivo,542
+52,LA FLORIDA,subsidiado,7248
+52,LA LLANADA,contributivo,312
+52,LA LLANADA,subsidiado,4217
+52,LA TOLA,contributivo,284
+52,LA TOLA,subsidiado,5314
+52,LA UNION,contributivo,4544
+52,LA UNION,subsidiado,26942
+52,LEYVA,contributivo,266
+52,LEYVA,subsidiado,8491
+52,LINARES,contributivo,466
+52,LINARES,subsidiado,7841
+52,LOS ANDES,contributivo,479
+52,LOS ANDES,subsidiado,8484
+52,MAGUI,contributivo,240
+52,MAGUI,subsidiado,7517
+52,MALLAMA,contributivo,553
+52,MALLAMA,subsidiado,6461
+52,MOSQUERA,contributivo,306
+52,MOSQUERA,subsidiado,6409
+52,NARI¥O,contributivo,535
+52,NARI¥O,subsidiado,3043
+52,OLAYA HERRERA,contributivo,709
+52,OLAYA HERRERA,subsidiado,19429
+52,OSPINA,contributivo,394
+52,OSPINA,subsidiado,5223
+52,PASTO,contributivo,176431
+52,PASTO,subsidiado,237589
+52,POLICARPA,contributivo,395
+52,POLICARPA,subsidiado,12866
+52,POTOSI,contributivo,662
+52,POTOSI,subsidiado,10916
+52,PROVIDENCIA,contributivo,251
+52,PROVIDENCIA,subsidiado,4568
+52,PUERRES,contributivo,662
+52,PUERRES,subsidiado,6693
+52,PUPIALES,contributivo,1470
+52,PUPIALES,subsidiado,15510
+52,RICAURTE,contributivo,1388
+52,RICAURTE,subsidiado,18431
+52,ROBERTO PAYAN,contributivo,413
+52,ROBERTO PAYAN,subsidiado,9448
+52,SAMANIEGO,contributivo,1866
+52,SAMANIEGO,subsidiado,24928
+52,SAN BERNARDO,contributivo,431
+52,SAN BERNARDO,subsidiado,6449
+52,SAN LORENZO,contributivo,733
+52,SAN LORENZO,subsidiado,13984
+52,SAN PABLO,contributivo,1078
+52,SAN PABLO,subsidiado,11360
+52,SAN PEDRO DE CARTAGO,contributivo,302
+52,SAN PEDRO DE CARTAGO,subsidiado,5838
+52,SANDONA,contributivo,1923
+52,SANDONA,subsidiado,16071
+52,SANTA BARBARA,contributivo,280
+52,SANTA BARBARA,subsidiado,9036
+52,SANTACRUZ,contributivo,487
+52,SANTACRUZ,subsidiado,9388
+52,SAPUYES,contributivo,534
+52,SAPUYES,subsidiado,5146
+52,TAMINANGO,contributivo,861
+52,TAMINANGO,subsidiado,13743
+52,TANGUA,contributivo,918
+52,TANGUA,subsidiado,7378
+52,TUMACO,contributivo,26332
+52,TUMACO,subsidiado,161119
+52,TUQUERRES,contributivo,5396
+52,TUQUERRES,subsidiado,37694
+52,YACUANQUER,contributivo,936
+52,YACUANQUER,subsidiado,8226
+54,ABREGO,contributivo,1913
+54,ABREGO,subsidiado,29619
+54,ARBOLEDAS,contributivo,665
+54,ARBOLEDAS,subsidiado,7781
+54,BOCHALEMA,contributivo,1172
+54,BOCHALEMA,subsidiado,5401
+54,BUCARASICA,contributivo,358
+54,BUCARASICA,subsidiado,3781
+54,CACHIRA,contributivo,397
+54,CACHIRA,subsidiado,6447
+54,CACOTA,contributivo,240
+54,CACOTA,subsidiado,2666
+54,CHINACOTA,contributivo,2685
+54,CHINACOTA,subsidiado,12696
+54,CHITAGA,contributivo,754
+54,CHITAGA,subsidiado,10279
+54,CONVENCION,contributivo,1125
+54,CONVENCION,subsidiado,17116
+54,CUCUTA,contributivo,308513
+54,CUCUTA,subsidiado,600295
+54,CUCUTILLA,contributivo,684
+54,CUCUTILLA,subsidiado,6585
+54,DURANIA,contributivo,659
+54,DURANIA,subsidiado,3946
+54,EL CARMEN,contributivo,817
+54,EL CARMEN,subsidiado,11975
+54,EL TARRA,contributivo,695
+54,EL TARRA,subsidiado,23969
+54,EL ZULIA,contributivo,4355
+54,EL ZULIA,subsidiado,28343
+54,GRAMALOTE,contributivo,636
+54,GRAMALOTE,subsidiado,4705
+54,HACARI,contributivo,354
+54,HACARI,subsidiado,10344
+54,HERRAN,contributivo,265
+54,HERRAN,subsidiado,3938
+54,LA ESPERANZA,contributivo,799
+54,LA ESPERANZA,subsidiado,8205
+54,LA PLAYA,contributivo,385
+54,LA PLAYA,subsidiado,7322
+54,LABATECA,contributivo,659
+54,LABATECA,subsidiado,4086
+54,LOS PATIOS,contributivo,18825
+54,LOS PATIOS,subsidiado,57496
+54,LOURDES,contributivo,346
+54,LOURDES,subsidiado,3240
+54,MUTISCUA,contributivo,259
+54,MUTISCUA,subsidiado,3107
+54,OCAÑA,contributivo,35679
+54,OCAÑA,subsidiado,96757
+54,PAMPLONA,contributivo,15865
+54,PAMPLONA,subsidiado,30469
+54,PAMPLONITA,contributivo,726
+54,PAMPLONITA,subsidiado,3867
+54,PUERTO SANTANDER,contributivo,698
+54,PUERTO SANTANDER,subsidiado,15679
+54,RAGONVALIA,contributivo,351
+54,RAGONVALIA,subsidiado,6856
+54,SALAZAR,contributivo,848
+54,SALAZAR,subsidiado,8359
+54,SAN CALIXTO,contributivo,503
+54,SAN CALIXTO,subsidiado,9783
+54,SAN CAYETANO,contributivo,909
+54,SAN CAYETANO,subsidiado,4248
+54,SANTIAGO,contributivo,314
+54,SANTIAGO,subsidiado,2380
+54,SARDINATA,contributivo,2895
+54,SARDINATA,subsidiado,23200
+54,SILOS,contributivo,260
+54,SILOS,subsidiado,4329
+54,TEORAMA,contributivo,647
+54,TEORAMA,subsidiado,16592
+54,TIBU,contributivo,7838
+54,TIBU,subsidiado,65151
+54,TOLEDO,contributivo,1847
+54,TOLEDO,subsidiado,12647
+54,VILLA CARO,contributivo,344
+54,VILLA CARO,subsidiado,4155
+54,VILLA DEL ROSARIO,contributivo,14254
+54,VILLA DEL ROSARIO,subsidiado,131931
+63,ARMENIA,contributivo,231126
+63,ARMENIA,subsidiado,135719
+63,BUENAVISTA,contributivo,484
+63,BUENAVISTA,subsidiado,1581
+63,CALARCA,contributivo,19670
+63,CALARCA,subsidiado,34556
+63,CIRCASIA,contributivo,6515
+63,CIRCASIA,subsidiado,13933
+63,CORDOBA,contributivo,884
+63,CORDOBA,subsidiado,3814
+63,FILANDIA,contributivo,2982
+63,FILANDIA,subsidiado,7447
+63,GENOVA,contributivo,1071
+63,GENOVA,subsidiado,5571
+63,LA TEBAIDA,contributivo,9646
+63,LA TEBAIDA,subsidiado,20661
+63,MONTENEGRO,contributivo,9904
+63,MONTENEGRO,subsidiado,26682
+63,PIJAO,contributivo,793
+63,PIJAO,subsidiado,3647
+63,QUIMBAYA,contributivo,7038
+63,QUIMBAYA,subsidiado,20595
+63,SALENTO,contributivo,1348
+63,SALENTO,subsidiado,3408
+66,APIA,contributivo,1963
+66,APIA,subsidiado,9149
+66,BALBOA,contributivo,989
+66,BALBOA,subsidiado,4566
+66,BELEN DE UMBRIA,contributivo,4229
+66,BELEN DE UMBRIA,subsidiado,20396
+66,DOS QUEBRADAS,contributivo,126880
+66,DOS QUEBRADAS,subsidiado,96135
+66,GUATICA,contributivo,1572
+66,GUATICA,subsidiado,9387
+66,LA CELIA,contributivo,890
+66,LA CELIA,subsidiado,6058
+66,LA VIRGINIA,contributivo,16445
+66,LA VIRGINIA,subsidiado,22726
+66,MARSELLA,contributivo,3253
+66,MARSELLA,subsidiado,10561
+66,MISTRATO,contributivo,1454
+66,MISTRATO,subsidiado,15926
+66,PEREIRA,contributivo,378929
+66,PEREIRA,subsidiado,216257
+66,PUEBLO RICO,contributivo,1759
+66,PUEBLO RICO,subsidiado,17737
+66,QUINCHIA,contributivo,2956
+66,QUINCHIA,subsidiado,20754
+66,SANTA ROSA DE CABAL,contributivo,32597
+66,SANTA ROSA DE CABAL,subsidiado,40467
+66,SANTUARIO,contributivo,1974
+66,SANTUARIO,subsidiado,8278
+68,AGUADA,contributivo,152
+68,AGUADA,subsidiado,1139
+68,ALBANIA,contributivo,158
+68,ALBANIA,subsidiado,2320
+68,ARATOCA,contributivo,1194
+68,ARATOCA,subsidiado,5710
+68,BARBOSA,contributivo,7681
+68,BARBOSA,subsidiado,17883
+68,BARICHARA,contributivo,1827
+68,BARICHARA,subsidiado,5030
+68,BARRANCABERMEJA,contributivo,116056
+68,BARRANCABERMEJA,subsidiado,119940
+68,BETULIA,contributivo,764
+68,BETULIA,subsidiado,2776
+68,BOLIVAR,contributivo,648
+68,BOLIVAR,subsidiado,5682
+68,BUCARAMANGA,contributivo,473637
+68,BUCARAMANGA,subsidiado,295665
+68,CABRERA,contributivo,235
+68,CABRERA,subsidiado,1259
+68,CALIFORNIA,contributivo,287
+68,CALIFORNIA,subsidiado,1000
+68,CAPITANEJO,contributivo,657
+68,CAPITANEJO,subsidiado,3853
+68,CARCASI,contributivo,270
+68,CARCASI,subsidiado,3160
+68,CEPITA,contributivo,159
+68,CEPITA,subsidiado,1324
+68,CERRITO,contributivo,510
+68,CERRITO,subsidiado,5744
+68,CHARALA,contributivo,1873
+68,CHARALA,subsidiado,7883
+68,CHARTA,contributivo,202
+68,CHARTA,subsidiado,1792
+68,CHIMA,contributivo,321
+68,CHIMA,subsidiado,1942
+68,CHIPATA,contributivo,359
+68,CHIPATA,subsidiado,2881
+68,CIMITARRA,contributivo,6147
+68,CIMITARRA,subsidiado,23297
+68,CONCEPCION,contributivo,503
+68,CONCEPCION,subsidiado,4850
+68,CONFINES,contributivo,293
+68,CONFINES,subsidiado,2351
+68,CONTRATACION,contributivo,720
+68,CONTRATACION,subsidiado,2383
+68,COROMORO,contributivo,344
+68,COROMORO,subsidiado,4349
+68,CURITI,contributivo,1717
+68,CURITI,subsidiado,7979
+68,EL CARMEN,contributivo,1411
+68,EL CARMEN,subsidiado,12779
+68,EL GUACAMAYO,contributivo,115
+68,EL GUACAMAYO,subsidiado,1328
+68,EL PEÑON,contributivo,293
+68,EL PEÑON,subsidiado,3518
+68,EL PLAYON,contributivo,2925
+68,EL PLAYON,subsidiado,10927
+68,ENCINO,contributivo,184
+68,ENCINO,subsidiado,1769
+68,ENCISO,contributivo,430
+68,ENCISO,subsidiado,2439
+68,FLORIAN,contributivo,456
+68,FLORIAN,subsidiado,3952
+68,FLORIDABLANCA,contributivo,176699
+68,FLORIDABLANCA,subsidiado,114672
+68,GALAN,contributivo,318
+68,GALAN,subsidiado,2597
+68,GAMBITA,contributivo,275
+68,GAMBITA,subsidiado,2674
+68,GIRON,contributivo,67791
+68,GIRON,subsidiado,78857
+68,GUACA,contributivo,464
+68,GUACA,subsidiado,4337
+68,GUADALUPE,contributivo,534
+68,GUADALUPE,subsidiado,3265
+68,GUAPOTA,contributivo,404
+68,GUAPOTA,subsidiado,1243
+68,GUAVATA,contributivo,291
+68,GUAVATA,subsidiado,2623
+68,GUEPSA,contributivo,489
+68,GUEPSA,subsidiado,3482
+68,HATO,contributivo,217
+68,HATO,subsidiado,1838
+68,JESUS MARIA,contributivo,253
+68,JESUS MARIA,subsidiado,2329
+68,JORDAN,contributivo,94
+68,JORDAN,subsidiado,995
+68,LA BELLEZA,contributivo,490
+68,LA BELLEZA,subsidiado,5566
+68,LA PAZ,contributivo,268
+68,LA PAZ,subsidiado,2940
+68,LANDAZURI,contributivo,1122
+68,LANDAZURI,subsidiado,9581
+68,LEBRIJA,contributivo,14716
+68,LEBRIJA,subsidiado,26390
+68,LOS SANTOS,contributivo,2007
+68,LOS SANTOS,subsidiado,7291
+68,MACARAVITA,contributivo,220
+68,MACARAVITA,subsidiado,1468
+68,MALAGA,contributivo,6577
+68,MALAGA,subsidiado,14633
+68,MATANZA,contributivo,387
+68,MATANZA,subsidiado,3456
+68,MOGOTES,contributivo,1068
+68,MOGOTES,subsidiado,8201
+68,MOLAGAVITA,contributivo,255
+68,MOLAGAVITA,subsidiado,2856
+68,OCAMONTE,contributivo,284
+68,OCAMONTE,subsidiado,3454
+68,OIBA,contributivo,2229
+68,OIBA,subsidiado,7713
+68,ONZAGA,contributivo,339
+68,ONZAGA,subsidiado,2762
+68,PALMAR,contributivo,221
+68,PALMAR,subsidiado,975
+68,PALMAS DEL SOCORRO,contributivo,339
+68,PALMAS DEL SOCORRO,subsidiado,1541
+68,PARAMO,contributivo,648
+68,PARAMO,subsidiado,3537
+68,PIEDECUESTA,contributivo,87093
+68,PIEDECUESTA,subsidiado,74804
+68,PINCHOTE,contributivo,609
+68,PINCHOTE,subsidiado,2243
+68,PUENTE NACIONAL,contributivo,1678
+68,PUENTE NACIONAL,subsidiado,7381
+68,PUERTO PARRA,contributivo,1825
+68,PUERTO PARRA,subsidiado,4018
+68,PUERTO WILCHES,contributivo,12330
+68,PUERTO WILCHES,subsidiado,18262
+68,RIONEGRO,contributivo,3271
+68,RIONEGRO,subsidiado,17011
+68,SABANA DE TORRES,contributivo,13600
+68,SABANA DE TORRES,subsidiado,22059
+68,SAN ANDRES,contributivo,702
+68,SAN ANDRES,subsidiado,5287
+68,SAN BENITO,contributivo,132
+68,SAN BENITO,subsidiado,1997
+68,SAN GIL,contributivo,38078
+68,SAN GIL,subsidiado,33930
+68,SAN JOAQUIN,contributivo,316
+68,SAN JOAQUIN,subsidiado,1468
+68,SAN JOSE DE MIRANDA,contributivo,491
+68,SAN JOSE DE MIRANDA,subsidiado,2627
+68,SAN MIGUEL,contributivo,331
+68,SAN MIGUEL,subsidiado,1615
+68,SAN VICENTE DE CHUCURI,contributivo,4607
+68,SAN VICENTE DE CHUCURI,subsidiado,19232
+68,SANTA BARBARA,contributivo,170
+68,SANTA BARBARA,subsidiado,1423
+68,SANTA HELENA DEL OPON,contributivo,248
+68,SANTA HELENA DEL OPON,subsidiado,3202
+68,SIMACOTA,contributivo,1079
+68,SIMACOTA,subsidiado,5510
+68,SOCORRO,contributivo,13487
+68,SOCORRO,subsidiado,19399
+68,SUAITA,contributivo,1173
+68,SUAITA,subsidiado,6384
+68,SUCRE,contributivo,343
+68,SUCRE,subsidiado,4588
+68,SURATA,contributivo,355
+68,SURATA,subsidiado,2782
+68,TONA,contributivo,327
+68,TONA,subsidiado,4874
+68,VALLE DE SAN JOSE,contributivo,676
+68,VALLE DE SAN JOSE,subsidiado,4593
+68,VELEZ,contributivo,5218
+68,VELEZ,subsidiado,11446
+68,VETAS,contributivo,470
+68,VETAS,subsidiado,599
+68,VILLANUEVA,contributivo,1341
+68,VILLANUEVA,subsidiado,5970
+68,ZAPATOCA,contributivo,2414
+68,ZAPATOCA,subsidiado,5385
+70,BUENAVISTA,contributivo,942
+70,BUENAVISTA,subsidiado,9253
+70,CAIMITO,contributivo,791
+70,CAIMITO,subsidiado,10887
+70,CHALAN,contributivo,459
+70,CHALAN,subsidiado,4448
+70,COLOSO,contributivo,880
+70,COLOSO,subsidiado,7259
+70,COROZAL,contributivo,13943
+70,COROZAL,subsidiado,48084
+70,COVEÑAS,contributivo,1257
+70,COVEÑAS,subsidiado,11503
+70,EL ROBLE,contributivo,321
+70,EL ROBLE,subsidiado,8429
+70,GALERAS,contributivo,1369
+70,GALERAS,subsidiado,19865
+70,GUARANDA,contributivo,911
+70,GUARANDA,subsidiado,17591
+70,LA UNION,contributivo,1141
+70,LA UNION,subsidiado,10437
+70,LOS PALMITOS,contributivo,1631
+70,LOS PALMITOS,subsidiado,19750
+70,MAJAGUAL,contributivo,2164
+70,MAJAGUAL,subsidiado,38080
+70,MORROA,contributivo,1632
+70,MORROA,subsidiado,14242
+70,OVEJAS,contributivo,2231
+70,OVEJAS,subsidiado,22115
+70,PALMITO,contributivo,682
+70,PALMITO,subsidiado,12355
+70,SAMPUES,contributivo,3066
+70,SAMPUES,subsidiado,40151
+70,SAN BENITO ABAD,contributivo,974
+70,SAN BENITO ABAD,subsidiado,19234
+70,SAN JUAN DE BETULIA,contributivo,1125
+70,SAN JUAN DE BETULIA,subsidiado,11547
+70,SAN MARCOS,contributivo,6226
+70,SAN MARCOS,subsidiado,58838
+70,SAN ONOFRE,contributivo,4617
+70,SAN ONOFRE,subsidiado,50697
+70,SAN PEDRO,contributivo,1639
+70,SAN PEDRO,subsidiado,16894
+70,SINCE,contributivo,2070
+70,SINCE,subsidiado,25045
+70,SINCELEJO,contributivo,103545
+70,SINCELEJO,subsidiado,232889
+70,SUCRE,contributivo,1038
+70,SUCRE,subsidiado,20072
+70,TOLU,contributivo,8905
+70,TOLU,subsidiado,27526
+70,TOLUVIEJO,contributivo,2373
+70,TOLUVIEJO,subsidiado,17799
+73,ALPUJARRA,contributivo,357
+73,ALPUJARRA,subsidiado,2804
+73,ALVARADO,contributivo,1322
+73,ALVARADO,subsidiado,5202
+73,AMBALEMA,contributivo,1168
+73,AMBALEMA,subsidiado,3302
+73,ANZOATEGUI,contributivo,523
+73,ANZOATEGUI,subsidiado,8222
+73,ATACO,contributivo,1031
+73,ATACO,subsidiado,16829
+73,CAJAMARCA,contributivo,1983
+73,CAJAMARCA,subsidiado,13177
+73,CARMEN DE APICALA,contributivo,1435
+73,CARMEN DE APICALA,subsidiado,5235
+73,CASABIANCA,contributivo,374
+73,CASABIANCA,subsidiado,5316
+73,CHAPARRAL,contributivo,8155
+73,CHAPARRAL,subsidiado,40151
+73,COELLO,contributivo,562
+73,COELLO,subsidiado,3491
+73,COYAIMA,contributivo,1447
+73,COYAIMA,subsidiado,18708
+73,CUNDAY,contributivo,565
+73,CUNDAY,subsidiado,5235
+73,DOLORES,contributivo,632
+73,DOLORES,subsidiado,6354
+73,ESPINAL,contributivo,29537
+73,ESPINAL,subsidiado,48511
+73,FALAN,contributivo,849
+73,FALAN,subsidiado,4808
+73,FLANDES,contributivo,2129
+73,FLANDES,subsidiado,6678
+73,FRESNO,contributivo,4986
+73,FRESNO,subsidiado,24438
+73,GUAMO,contributivo,5107
+73,GUAMO,subsidiado,19719
+73,GUAYABAL,contributivo,2494
+73,GUAYABAL,subsidiado,7194
+73,HERVEO,contributivo,249
+73,HERVEO,subsidiado,3262
+73,HONDA,contributivo,12468
+73,HONDA,subsidiado,12251
+73,IBAGUE,contributivo,345168
+73,IBAGUE,subsidiado,256940
+73,ICONONZO,contributivo,949
+73,ICONONZO,subsidiado,6178
+73,LERIDA,contributivo,4792
+73,LERIDA,subsidiado,11376
+73,LIBANO,contributivo,8579
+73,LIBANO,subsidiado,30134
+73,MARIQUITA,contributivo,11073
+73,MARIQUITA,subsidiado,24003
+73,MELGAR,contributivo,16870
+73,MELGAR,subsidiado,20562
+73,MURILLO,contributivo,292
+73,MURILLO,subsidiado,2391
+73,NATAGAIMA,contributivo,1422
+73,NATAGAIMA,subsidiado,10712
+73,ORTEGA,contributivo,1929
+73,ORTEGA,subsidiado,21457
+73,PALOCABILDO,contributivo,846
+73,PALOCABILDO,subsidiado,8202
+73,PIEDRAS,contributivo,834
+73,PIEDRAS,subsidiado,2042
+73,PLANADAS,contributivo,2165
+73,PLANADAS,subsidiado,29769
+73,PRADO,contributivo,1149
+73,PRADO,subsidiado,6191
+73,PURIFICACION,contributivo,5184
+73,PURIFICACION,subsidiado,16285
+73,RIOBLANCO,contributivo,1246
+73,RIOBLANCO,subsidiado,21726
+73,RONCESVALLES,contributivo,538
+73,RONCESVALLES,subsidiado,3626
+73,ROVIRA,contributivo,1558
+73,ROVIRA,subsidiado,22305
+73,SALDAÑA,contributivo,2217
+73,SALDAÑA,subsidiado,8859
+73,SAN ANTONIO,contributivo,673
+73,SAN ANTONIO,subsidiado,11012
+73,SAN LUIS,contributivo,1042
+73,SAN LUIS,subsidiado,7396
+73,SANTA ISABEL,contributivo,413
+73,SANTA ISABEL,subsidiado,3966
+73,SUAREZ,contributivo,377
+73,SUAREZ,subsidiado,2099
+73,VALLE DE SAN JUAN,contributivo,446
+73,VALLE DE SAN JUAN,subsidiado,3046
+73,VENADILLO,contributivo,2675
+73,VENADILLO,subsidiado,7651
+73,VILLA HERMOSA,contributivo,484
+73,VILLA HERMOSA,subsidiado,6032
+73,VILLARRICA,contributivo,450
+73,VILLARRICA,subsidiado,3839
+76,ALCALA,contributivo,2602
+76,ALCALA,subsidiado,9745
+76,ANDALUCIA,contributivo,7183
+76,ANDALUCIA,subsidiado,8909
+76,ANSERMANUEVO,contributivo,3637
+76,ANSERMANUEVO,subsidiado,12312
+76,ARGELIA,contributivo,605
+76,ARGELIA,subsidiado,4397
+76,BOLIVAR,contributivo,2122
+76,BOLIVAR,subsidiado,9129
+76,BUENAVENTURA,contributivo,71874
+76,BUENAVENTURA,subsidiado,206572
+76,BUGA,contributivo,74757
+76,BUGA,subsidiado,59936
+76,BUGALAGRANDE,contributivo,9041
+76,BUGALAGRANDE,subsidiado,11519
+76,CAICEDONIA,contributivo,5210
+76,CAICEDONIA,subsidiado,18296
+76,CALIMA,contributivo,4478
+76,CALIMA,subsidiado,12482
+76,CANDELARIA,contributivo,39041
+76,CANDELARIA,subsidiado,37378
+76,CARTAGO,contributivo,71022
+76,CARTAGO,subsidiado,69921
+76,DAGUA,contributivo,8681
+76,DAGUA,subsidiado,28419
+76,EL AGUILA,contributivo,676
+76,EL AGUILA,subsidiado,6152
+76,EL CAIRO,contributivo,597
+76,EL CAIRO,subsidiado,5109
+76,EL CERRITO,contributivo,22734
+76,EL CERRITO,subsidiado,25499
+76,EL DOVIO,contributivo,2062
+76,EL DOVIO,subsidiado,9780
+76,FLORIDA,contributivo,27556
+76,FLORIDA,subsidiado,32491
+76,GINEBRA,contributivo,7573
+76,GINEBRA,subsidiado,13239
+76,GUACARI,contributivo,15252
+76,GUACARI,subsidiado,15999
+76,JAMUNDI,contributivo,87932
+76,JAMUNDI,subsidiado,77180
+76,LA CUMBRE,contributivo,2511
+76,LA CUMBRE,subsidiado,8258
+76,LA UNION,contributivo,8070
+76,LA UNION,subsidiado,24138
+76,LA VICTORIA,contributivo,3524
+76,LA VICTORIA,subsidiado,7849
+76,OBANDO,contributivo,2877
+76,OBANDO,subsidiado,6349
+76,PALMIRA,contributivo,207830
+76,PALMIRA,subsidiado,147624
+76,PRADERA,contributivo,20341
+76,PRADERA,subsidiado,23340
+76,RESTREPO,contributivo,5140
+76,RESTREPO,subsidiado,12076
+76,RIOFRIO,contributivo,3925
+76,RIOFRIO,subsidiado,11397
+76,ROLDANILLO,contributivo,12616
+76,ROLDANILLO,subsidiado,23832
+76,SAN PEDRO,contributivo,4486
+76,SAN PEDRO,subsidiado,7118
+76,SANTIAGO DE CALI,contributivo,1496849
+76,SANTIAGO DE CALI,subsidiado,972981
+76,SEVILLA,contributivo,8375
+76,SEVILLA,subsidiado,29856
+76,TORO,contributivo,2345
+76,TORO,subsidiado,9762
+76,TRUJILLO,contributivo,2557
+76,TRUJILLO,subsidiado,14475
+76,TULUA,contributivo,102077
+76,TULUA,subsidiado,114882
+76,ULLOA,contributivo,853
+76,ULLOA,subsidiado,2759
+76,VERSALLES,contributivo,1218
+76,VERSALLES,subsidiado,5349
+76,VIJES,contributivo,2963
+76,VIJES,subsidiado,6430
+76,YOTOCO,contributivo,4964
+76,YOTOCO,subsidiado,8650
+76,YUMBO,contributivo,62959
+76,YUMBO,subsidiado,50257
+76,ZARZAL,contributivo,18740
+76,ZARZAL,subsidiado,23728
+81,ARAUCA,contributivo,25104
+81,ARAUCA,subsidiado,89697
+81,ARAUQUITA,contributivo,4267
+81,ARAUQUITA,subsidiado,46286
+81,CRAVO NORTE,contributivo,575
+81,CRAVO NORTE,subsidiado,2723
+81,FORTUL,contributivo,1891
+81,FORTUL,subsidiado,19580
+81,PUERTO RONDON,contributivo,580
+81,PUERTO RONDON,subsidiado,3637
+81,SARAVENA,contributivo,10583
+81,SARAVENA,subsidiado,57225
+81,TAME,contributivo,9234
+81,TAME,subsidiado,47976
+85,AGUAZUL,contributivo,11750
+85,AGUAZUL,subsidiado,21530
+85,CHAMEZA,contributivo,343
+85,CHAMEZA,subsidiado,1563
+85,HATO COROZAL,contributivo,1409
+85,HATO COROZAL,subsidiado,9559
+85,LA SALINA,contributivo,193
+85,LA SALINA,subsidiado,597
+85,MANI,contributivo,6812
+85,MANI,subsidiado,10956
+85,MONTERREY,contributivo,4101
+85,MONTERREY,subsidiado,10394
+85,NUNCHIA,contributivo,1078
+85,NUNCHIA,subsidiado,5676
+85,OROCUE,contributivo,1921
+85,OROCUE,subsidiado,7880
+85,PAZ DE ARIPORO,contributivo,7131
+85,PAZ DE ARIPORO,subsidiado,30374
+85,PORE,contributivo,2123
+85,PORE,subsidiado,8821
+85,RECETOR,contributivo,215
+85,RECETOR,subsidiado,810
+85,SABANALARGA,contributivo,615
+85,SABANALARGA,subsidiado,1798
+85,SACAMA,contributivo,358
+85,SACAMA,subsidiado,1190
+85,SAN LUIS DE PALENQUE,contributivo,1428
+85,SAN LUIS DE PALENQUE,subsidiado,5847
+85,TAMARA,contributivo,664
+85,TAMARA,subsidiado,4962
+85,TAURAMENA,contributivo,8569
+85,TAURAMENA,subsidiado,14625
+85,TRINIDAD,contributivo,2383
+85,TRINIDAD,subsidiado,9315
+85,VILLANUEVA,contributivo,17861
+85,VILLANUEVA,subsidiado,21168
+85,YOPAL,contributivo,97061
+85,YOPAL,subsidiado,99214
+86,COLON,contributivo,747
+86,COLON,subsidiado,4421
+86,MOCOA,contributivo,16485
+86,MOCOA,subsidiado,40205
+86,ORITO,contributivo,5737
+86,ORITO,subsidiado,33789
+86,PUERTO  LEGUIZAMO,contributivo,1404
+86,PUERTO  LEGUIZAMO,subsidiado,17085
+86,PUERTO ASIS,contributivo,12248
+86,PUERTO ASIS,subsidiado,58868
+86,PUERTO CAICEDO,contributivo,1001
+86,PUERTO CAICEDO,subsidiado,12147
+86,PUERTO GUZMAN,contributivo,854
+86,PUERTO GUZMAN,subsidiado,14561
+86,SAN FRANCISCO,contributivo,583
+86,SAN FRANCISCO,subsidiado,4478
+86,SAN MIGUEL,contributivo,1202
+86,SAN MIGUEL,subsidiado,19310
+86,SANTIAGO,contributivo,640
+86,SANTIAGO,subsidiado,6869
+86,SIBUNDOY,contributivo,2025
+86,SIBUNDOY,subsidiado,11395
+86,VALLE DEL GUAMUEZ,contributivo,3925
+86,VALLE DEL GUAMUEZ,subsidiado,36005
+86,VILLAGARZON,contributivo,4325
+86,VILLAGARZON,subsidiado,22500
+88,PROVIDENCIA,contributivo,2900
+88,PROVIDENCIA,subsidiado,1418
+88,SAN ANDRES,contributivo,37542
+88,SAN ANDRES,subsidiado,18354
+91,EL ENCANTO,contributivo,158
+91,EL ENCANTO,subsidiado,1653
+91,LA CHORRERA,contributivo,176
+91,LA CHORRERA,subsidiado,2387
+91,LA PEDRERA,contributivo,145
+91,LA PEDRERA,subsidiado,3180
+91,LA VICTORIA,contributivo,9
+91,LA VICTORIA,subsidiado,160
+91,LETICIA,contributivo,16030
+91,LETICIA,subsidiado,38496
+91,MIRITIÑPARANA,contributivo,73
+91,MIRITIÑPARANA,subsidiado,1055
+91,PTO SANTANDER,contributivo,67
+91,PTO SANTANDER,subsidiado,1300
+91,PUERTO ALEGRIA,contributivo,22
+91,PUERTO ALEGRIA,subsidiado,469
+91,PUERTO ARICA,contributivo,58
+91,PUERTO ARICA,subsidiado,998
+91,PUERTO NARI¥O,contributivo,834
+91,PUERTO NARI¥O,subsidiado,6429
+91,TARAPACA,contributivo,132
+91,TARAPACA,subsidiado,3063
+94,BARRANCO MINAS,contributivo,579
+94,BARRANCO MINAS,subsidiado,7481
+94,CACAHUAL,contributivo,19
+94,CACAHUAL,subsidiado,546
+94,DPTO. GUAINIA,subsidiado,1314
+94,INIRIDA,contributivo,6041
+94,INIRIDA,subsidiado,33843
+94,LA GUADALUPE,contributivo,7
+94,LA GUADALUPE,subsidiado,199
+94,MORICHAL NUEVO,contributivo,17
+94,MORICHAL NUEVO,subsidiado,614
+94,PANA PANA,contributivo,26
+94,PANA PANA,subsidiado,1115
+94,PUERTO COLOMBIA,contributivo,47
+94,PUERTO COLOMBIA,subsidiado,1378
+94,SAN FELIPE,contributivo,48
+94,SAN FELIPE,subsidiado,1645
+95,CALAMAR,contributivo,979
+95,CALAMAR,subsidiado,7760
+95,EL RETORNO,contributivo,1279
+95,EL RETORNO,subsidiado,10255
+95,MIRAFLORES,contributivo,399
+95,MIRAFLORES,subsidiado,3246
+95,SAN JOSE DEL GUAVIARE,contributivo,17005
+95,SAN JOSE DEL GUAVIARE,subsidiado,45150
+97,CARURU,contributivo,268
+97,CARURU,subsidiado,1930
+97,DPTO. VAUPES,subsidiado,2441
+97,MITU,contributivo,5286
+97,MITU,subsidiado,22306
+97,PACOA,contributivo,8
+97,PACOA,subsidiado,465
+97,PAPUNAHUA,subsidiado,55
+97,TARAIRA,contributivo,202
+97,TARAIRA,subsidiado,1517
+97,YAVARATE,contributivo,8
+97,YAVARATE,subsidiado,171
+99,CUMARIBO,contributivo,2885
+99,CUMARIBO,subsidiado,45792
+99,LA PRIMAVERA,contributivo,1823
+99,LA PRIMAVERA,subsidiado,7021
+99,PUERTO CARRENO,contributivo,6534
+99,PUERTO CARRENO,subsidiado,24411
+99,SANTA ROSALIA,contributivo,1092
+99,SANTA ROSALIA,subsidiado,2653

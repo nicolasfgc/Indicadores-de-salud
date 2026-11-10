@@ -1,0 +1,536 @@
+fecha,cod_depto,regimen,eps,afiliados
+2026-11-01,05,contributivo,Cajacopi,3
+2026-11-01,05,contributivo,Coosalud,54980
+2026-11-01,05,contributivo,Empresas Publicas De Medellin - Departam,6674
+2026-11-01,05,contributivo,Familiar de Colombia,519
+2026-11-01,05,contributivo,Fondo Pasivo Social De Los Ferrocarriles,1887
+2026-11-01,05,contributivo,Nueva EPS,595074
+2026-11-01,05,contributivo,SOS,2
+2026-11-01,05,contributivo,Salud Total,428277
+2026-11-01,05,contributivo,Sanitas,136783
+2026-11-01,05,contributivo,Savia Salud,151971
+2026-11-01,05,contributivo,Sura,2735594
+2026-11-01,05,subsidiado,Cajacopi,10
+2026-11-01,05,subsidiado,Comfachocó,1
+2026-11-01,05,subsidiado,Coosalud,408136
+2026-11-01,05,subsidiado,Familiar de Colombia,22280
+2026-11-01,05,subsidiado,Nueva EPS,331658
+2026-11-01,05,subsidiado,Salud Total,133259
+2026-11-01,05,subsidiado,Sanitas,19378
+2026-11-01,05,subsidiado,Savia Salud,1517170
+2026-11-01,05,subsidiado,Sura,471757
+2026-11-01,08,contributivo,Aliansalud,2
+2026-11-01,08,contributivo,Cajacopi,12308
+2026-11-01,08,contributivo,Comfenalco Valle,1
+2026-11-01,08,contributivo,Coosalud,23572
+2026-11-01,08,contributivo,Familiar de Colombia,784
+2026-11-01,08,contributivo,Famisanar,11723
+2026-11-01,08,contributivo,Fondo Pasivo Social De Los Ferrocarriles,3838
+2026-11-01,08,contributivo,Mutual Ser,74126
+2026-11-01,08,contributivo,Nueva EPS,154381
+2026-11-01,08,contributivo,Salud Total,320645
+2026-11-01,08,contributivo,Sanitas,191943
+2026-11-01,08,contributivo,Sura,397643
+2026-11-01,08,subsidiado,Cajacopi,257194
+2026-11-01,08,subsidiado,Capital Salud,1
+2026-11-01,08,subsidiado,Coosalud,314058
+2026-11-01,08,subsidiado,Familiar de Colombia,26101
+2026-11-01,08,subsidiado,Famisanar,17317
+2026-11-01,08,subsidiado,Mutual Ser,501070
+2026-11-01,08,subsidiado,Nueva EPS,237032
+2026-11-01,08,subsidiado,Salud Total,122655
+2026-11-01,08,subsidiado,Sanitas,31978
+2026-11-01,08,subsidiado,Sura,105288
+2026-11-01,11,contributivo,Aliansalud,244029
+2026-11-01,11,contributivo,Asmet Salud,2
+2026-11-01,11,contributivo,Cajacopi,3
+2026-11-01,11,contributivo,Capital Salud,62205
+2026-11-01,11,contributivo,Compensar,1279422
+2026-11-01,11,contributivo,Coosalud,6953
+2026-11-01,11,contributivo,Familiar de Colombia,1
+2026-11-01,11,contributivo,Famisanar,898947
+2026-11-01,11,contributivo,Fondo Pasivo Social De Los Ferrocarriles,2650
+2026-11-01,11,contributivo,Mallamas,38
+2026-11-01,11,contributivo,Mutual Ser,8
+2026-11-01,11,contributivo,Nueva EPS,424423
+2026-11-01,11,contributivo,SOS,2
+2026-11-01,11,contributivo,Salud Mía,1
+2026-11-01,11,contributivo,Salud Total,901121
+2026-11-01,11,contributivo,Sanitas,1654255
+2026-11-01,11,contributivo,Sura,443231
+2026-11-01,11,subsidiado,Cajacopi,10
+2026-11-01,11,subsidiado,Capital Salud,843118
+2026-11-01,11,subsidiado,Compensar,198141
+2026-11-01,11,subsidiado,Coosalud,27480
+2026-11-01,11,subsidiado,Familiar de Colombia,1
+2026-11-01,11,subsidiado,Famisanar,220545
+2026-11-01,11,subsidiado,Mallamas,79
+2026-11-01,11,subsidiado,Nueva EPS,115973
+2026-11-01,11,subsidiado,Salud Total,208185
+2026-11-01,11,subsidiado,Sanitas,152540
+2026-11-01,11,subsidiado,Sura,66155
+2026-11-01,13,contributivo,Aliansalud,2
+2026-11-01,13,contributivo,Cajacopi,7694
+2026-11-01,13,contributivo,Coosalud,27550
+2026-11-01,13,contributivo,Familiar de Colombia,3181
+2026-11-01,13,contributivo,Famisanar,7898
+2026-11-01,13,contributivo,Fondo Pasivo Social De Los Ferrocarriles,3350
+2026-11-01,13,contributivo,Mutual Ser,151765
+2026-11-01,13,contributivo,Nueva EPS,80487
+2026-11-01,13,contributivo,Salud Total,244495
+2026-11-01,13,contributivo,Sanitas,86421
+2026-11-01,13,contributivo,Sura,87396
+2026-11-01,13,subsidiado,Cajacopi,156912
+2026-11-01,13,subsidiado,Coosalud,322728
+2026-11-01,13,subsidiado,Familiar de Colombia,29917
+2026-11-01,13,subsidiado,Famisanar,10398
+2026-11-01,13,subsidiado,Mutual Ser,768790
+2026-11-01,13,subsidiado,Nueva EPS,220275
+2026-11-01,13,subsidiado,Salud Total,92862
+2026-11-01,13,subsidiado,Sanitas,15558
+2026-11-01,13,subsidiado,Savia Salud,1
+2026-11-01,13,subsidiado,Sura,25060
+2026-11-01,15,contributivo,Cajacopi,4236
+2026-11-01,15,contributivo,Capresoca,5
+2026-11-01,15,contributivo,Coosalud,17117
+2026-11-01,15,contributivo,Famisanar,68275
+2026-11-01,15,contributivo,Fondo Pasivo Social De Los Ferrocarriles,215
+2026-11-01,15,contributivo,Mutual Ser,1
+2026-11-01,15,contributivo,Nueva EPS,210130
+2026-11-01,15,contributivo,Salud Total,23504
+2026-11-01,15,contributivo,Sanitas,150568
+2026-11-01,15,contributivo,Sura,6305
+2026-11-01,15,subsidiado,Cajacopi,71694
+2026-11-01,15,subsidiado,Capresoca,2
+2026-11-01,15,subsidiado,Coosalud,93195
+2026-11-01,15,subsidiado,Familiar de Colombia,2
+2026-11-01,15,subsidiado,Famisanar,48473
+2026-11-01,15,subsidiado,Nueva EPS,412415
+2026-11-01,15,subsidiado,Salud Total,7230
+2026-11-01,15,subsidiado,Sanitas,52930
+2026-11-01,15,subsidiado,Sura,1557
+2026-11-01,17,contributivo,Coosalud,310
+2026-11-01,17,contributivo,Empresas Publicas De Medellin - Departam,2
+2026-11-01,17,contributivo,Famisanar,6049
+2026-11-01,17,contributivo,Fondo Pasivo Social De Los Ferrocarriles,446
+2026-11-01,17,contributivo,Mallamas,750
+2026-11-01,17,contributivo,Nueva EPS,143725
+2026-11-01,17,contributivo,SOS,2
+2026-11-01,17,contributivo,Salud Total,132610
+2026-11-01,17,contributivo,Sanitas,47961
+2026-11-01,17,contributivo,Sura,142753
+2026-11-01,17,subsidiado,Coosalud,6658
+2026-11-01,17,subsidiado,Famisanar,13569
+2026-11-01,17,subsidiado,Mallamas,6023
+2026-11-01,17,subsidiado,Nueva EPS,225397
+2026-11-01,17,subsidiado,Pijaos Salud,1
+2026-11-01,17,subsidiado,SOS,1
+2026-11-01,17,subsidiado,Salud Total,124322
+2026-11-01,17,subsidiado,Sanitas,13654
+2026-11-01,17,subsidiado,Sura,43603
+2026-11-01,18,contributivo,Asmet Salud,12247
+2026-11-01,18,contributivo,Coosalud,1
+2026-11-01,18,contributivo,Nueva EPS,32420
+2026-11-01,18,contributivo,Salud Total,283
+2026-11-01,18,contributivo,Sanitas,28446
+2026-11-01,18,subsidiado,Asmet Salud,285336
+2026-11-01,18,subsidiado,Nueva EPS,38306
+2026-11-01,18,subsidiado,Salud Total,205
+2026-11-01,18,subsidiado,Sanitas,12794
+2026-11-01,19,contributivo,AIC,16980
+2026-11-01,19,contributivo,Asmet Salud,18629
+2026-11-01,19,contributivo,Coosalud,776
+2026-11-01,19,contributivo,Emssanar,4449
+2026-11-01,19,contributivo,Familiar de Colombia,279
+2026-11-01,19,contributivo,Fondo Pasivo Social De Los Ferrocarriles,62
+2026-11-01,19,contributivo,Mallamas,2655
+2026-11-01,19,contributivo,Nueva EPS,110189
+2026-11-01,19,contributivo,SOS,42379
+2026-11-01,19,contributivo,Salud Total,390
+2026-11-01,19,contributivo,Sanitas,91173
+2026-11-01,19,contributivo,Sura,2812
+2026-11-01,19,subsidiado,AIC,242711
+2026-11-01,19,subsidiado,Asmet Salud,417286
+2026-11-01,19,subsidiado,Coosalud,5352
+2026-11-01,19,subsidiado,Emssanar,82335
+2026-11-01,19,subsidiado,Familiar de Colombia,8383
+2026-11-01,19,subsidiado,Mallamas,34512
+2026-11-01,19,subsidiado,Nueva EPS,184372
+2026-11-01,19,subsidiado,SOS,19545
+2026-11-01,19,subsidiado,Salud Total,207
+2026-11-01,19,subsidiado,Sanitas,35601
+2026-11-01,19,subsidiado,Sura,2801
+2026-11-01,20,contributivo,Asmet Salud,3631
+2026-11-01,20,contributivo,Cajacopi,7880
+2026-11-01,20,contributivo,Capresoca,2
+2026-11-01,20,contributivo,Coosalud,6128
+2026-11-01,20,contributivo,Dusakawi,3780
+2026-11-01,20,contributivo,Familiar de Colombia,327
+2026-11-01,20,contributivo,Famisanar,15236
+2026-11-01,20,contributivo,Fondo Pasivo Social De Los Ferrocarriles,398
+2026-11-01,20,contributivo,Mutual Ser,1361
+2026-11-01,20,contributivo,Nueva EPS,96484
+2026-11-01,20,contributivo,Salud Total,139375
+2026-11-01,20,contributivo,Sanitas,59514
+2026-11-01,20,contributivo,Sura,1
+2026-11-01,20,subsidiado,Asmet Salud,100176
+2026-11-01,20,subsidiado,Cajacopi,200902
+2026-11-01,20,subsidiado,Capresoca,1
+2026-11-01,20,subsidiado,Coosalud,113755
+2026-11-01,20,subsidiado,Dusakawi,93583
+2026-11-01,20,subsidiado,Familiar de Colombia,9843
+2026-11-01,20,subsidiado,Famisanar,19976
+2026-11-01,20,subsidiado,Mutual Ser,11717
+2026-11-01,20,subsidiado,Nueva EPS,294210
+2026-11-01,20,subsidiado,Salud Total,77783
+2026-11-01,20,subsidiado,Sanitas,25951
+2026-11-01,23,contributivo,Cajacopi,3343
+2026-11-01,23,contributivo,Coosalud,4892
+2026-11-01,23,contributivo,Empresas Publicas De Medellin - Departam,1
+2026-11-01,23,contributivo,Familiar de Colombia,340
+2026-11-01,23,contributivo,Mutual Ser,71006
+2026-11-01,23,contributivo,Nueva EPS,105052
+2026-11-01,23,contributivo,Salud Total,111824
+2026-11-01,23,contributivo,Sanitas,41494
+2026-11-01,23,contributivo,Sura,12101
+2026-11-01,23,subsidiado,Cajacopi,133399
+2026-11-01,23,subsidiado,Comfachocó,1
+2026-11-01,23,subsidiado,Coosalud,104002
+2026-11-01,23,subsidiado,Familiar de Colombia,12687
+2026-11-01,23,subsidiado,Mutual Ser,561606
+2026-11-01,23,subsidiado,Nueva EPS,425883
+2026-11-01,23,subsidiado,Salud Total,57658
+2026-11-01,23,subsidiado,Sanitas,17560
+2026-11-01,23,subsidiado,Savia Salud,1
+2026-11-01,23,subsidiado,Sura,2926
+2026-11-01,25,contributivo,Cajacopi,1
+2026-11-01,25,contributivo,Capital Salud,1223
+2026-11-01,25,contributivo,Compensar,209465
+2026-11-01,25,contributivo,Coosalud,4143
+2026-11-01,25,contributivo,Familiar de Colombia,124
+2026-11-01,25,contributivo,Famisanar,499574
+2026-11-01,25,contributivo,Fondo Pasivo Social De Los Ferrocarriles,1816
+2026-11-01,25,contributivo,Mutual Ser,3
+2026-11-01,25,contributivo,Nueva EPS,275482
+2026-11-01,25,contributivo,Pijaos Salud,3
+2026-11-01,25,contributivo,SOS,4
+2026-11-01,25,contributivo,Salud Total,295928
+2026-11-01,25,contributivo,Sanitas,340695
+2026-11-01,25,contributivo,Sura,87404
+2026-11-01,25,subsidiado,Anas Wayuu,1
+2026-11-01,25,subsidiado,Asmet Salud,2
+2026-11-01,25,subsidiado,Cajacopi,8
+2026-11-01,25,subsidiado,Capital Salud,13362
+2026-11-01,25,subsidiado,Compensar,80235
+2026-11-01,25,subsidiado,Coosalud,53020
+2026-11-01,25,subsidiado,Familiar de Colombia,1559
+2026-11-01,25,subsidiado,Famisanar,331952
+2026-11-01,25,subsidiado,Mutual Ser,1
+2026-11-01,25,subsidiado,Nueva EPS,334724
+2026-11-01,25,subsidiado,Pijaos Salud,1
+2026-11-01,25,subsidiado,Salud Total,138274
+2026-11-01,25,subsidiado,Sanitas,93541
+2026-11-01,25,subsidiado,Sura,21521
+2026-11-01,27,contributivo,Comfachocó,4518
+2026-11-01,27,contributivo,Coosalud,1198
+2026-11-01,27,contributivo,Nueva EPS,33762
+2026-11-01,27,contributivo,Salud Total,392
+2026-11-01,27,contributivo,Sanitas,15374
+2026-11-01,27,subsidiado,Comfachocó,163783
+2026-11-01,27,subsidiado,Coosalud,6830
+2026-11-01,27,subsidiado,Nueva EPS,186775
+2026-11-01,27,subsidiado,Salud Total,342
+2026-11-01,27,subsidiado,Sanitas,30049
+2026-11-01,41,contributivo,Asmet Salud,3305
+2026-11-01,41,contributivo,Coosalud,133
+2026-11-01,41,contributivo,Famisanar,5926
+2026-11-01,41,contributivo,Fondo Pasivo Social De Los Ferrocarriles,146
+2026-11-01,41,contributivo,Mallamas,400
+2026-11-01,41,contributivo,Nueva EPS,172349
+2026-11-01,41,contributivo,Salud Total,4549
+2026-11-01,41,contributivo,Sanitas,143819
+2026-11-01,41,contributivo,Sura,1
+2026-11-01,41,subsidiado,Asmet Salud,114688
+2026-11-01,41,subsidiado,Cajacopi,1
+2026-11-01,41,subsidiado,Coosalud,5611
+2026-11-01,41,subsidiado,Familiar de Colombia,1
+2026-11-01,41,subsidiado,Famisanar,20074
+2026-11-01,41,subsidiado,Mallamas,9111
+2026-11-01,41,subsidiado,Nueva EPS,404770
+2026-11-01,41,subsidiado,Pijaos Salud,1
+2026-11-01,41,subsidiado,SOS,1
+2026-11-01,41,subsidiado,Salud Total,29446
+2026-11-01,41,subsidiado,Sanitas,273579
+2026-11-01,44,contributivo,Anas Wayuu,18534
+2026-11-01,44,contributivo,Cajacopi,6152
+2026-11-01,44,contributivo,Coosalud,1
+2026-11-01,44,contributivo,Dusakawi,7059
+2026-11-01,44,contributivo,Familiar de Colombia,4981
+2026-11-01,44,contributivo,Nueva EPS,48217
+2026-11-01,44,contributivo,Salud Total,13607
+2026-11-01,44,contributivo,Sanitas,64681
+2026-11-01,44,subsidiado,Anas Wayuu,288433
+2026-11-01,44,subsidiado,Cajacopi,187328
+2026-11-01,44,subsidiado,Coosalud,4
+2026-11-01,44,subsidiado,Dusakawi,191398
+2026-11-01,44,subsidiado,Familiar de Colombia,143805
+2026-11-01,44,subsidiado,Nueva EPS,113078
+2026-11-01,44,subsidiado,Salud Total,16228
+2026-11-01,44,subsidiado,Sanitas,42954
+2026-11-01,47,contributivo,Cajacopi,4485
+2026-11-01,47,contributivo,Coosalud,17050
+2026-11-01,47,contributivo,Dusakawi,282
+2026-11-01,47,contributivo,Familiar de Colombia,60
+2026-11-01,47,contributivo,Famisanar,6544
+2026-11-01,47,contributivo,Fondo Pasivo Social De Los Ferrocarriles,3572
+2026-11-01,47,contributivo,Mutual Ser,35410
+2026-11-01,47,contributivo,Nueva EPS,70176
+2026-11-01,47,contributivo,Salud Total,155844
+2026-11-01,47,contributivo,Sanitas,83123
+2026-11-01,47,contributivo,Sura,7859
+2026-11-01,47,subsidiado,Cajacopi,127563
+2026-11-01,47,subsidiado,Coosalud,275178
+2026-11-01,47,subsidiado,Dusakawi,18050
+2026-11-01,47,subsidiado,Familiar de Colombia,2983
+2026-11-01,47,subsidiado,Famisanar,10503
+2026-11-01,47,subsidiado,Mutual Ser,226694
+2026-11-01,47,subsidiado,Nueva EPS,242879
+2026-11-01,47,subsidiado,Salud Total,82433
+2026-11-01,47,subsidiado,Sanitas,19263
+2026-11-01,47,subsidiado,Sura,5078
+2026-11-01,50,contributivo,Cajacopi,9451
+2026-11-01,50,contributivo,Capital Salud,24073
+2026-11-01,50,contributivo,Coosalud,756
+2026-11-01,50,contributivo,Famisanar,37566
+2026-11-01,50,contributivo,Fondo Pasivo Social De Los Ferrocarriles,57
+2026-11-01,50,contributivo,Mallamas,272
+2026-11-01,50,contributivo,Nueva EPS,81468
+2026-11-01,50,contributivo,Pijaos Salud,2025
+2026-11-01,50,contributivo,Salud Total,132163
+2026-11-01,50,contributivo,Sanitas,167539
+2026-11-01,50,contributivo,Sura,3
+2026-11-01,50,subsidiado,Cajacopi,118231
+2026-11-01,50,subsidiado,Capital Salud,220997
+2026-11-01,50,subsidiado,Coosalud,6122
+2026-11-01,50,subsidiado,Famisanar,29188
+2026-11-01,50,subsidiado,Mallamas,1653
+2026-11-01,50,subsidiado,Nueva EPS,141658
+2026-11-01,50,subsidiado,Pijaos Salud,13928
+2026-11-01,50,subsidiado,Salud Total,54874
+2026-11-01,50,subsidiado,Sanitas,36664
+2026-11-01,52,contributivo,Asmet Salud,4407
+2026-11-01,52,contributivo,Comfenalco Valle,1
+2026-11-01,52,contributivo,Coosalud,4
+2026-11-01,52,contributivo,Emssanar,33138
+2026-11-01,52,contributivo,Familiar de Colombia,1
+2026-11-01,52,contributivo,Famisanar,3000
+2026-11-01,52,contributivo,Fondo Pasivo Social De Los Ferrocarriles,139
+2026-11-01,52,contributivo,Mallamas,17837
+2026-11-01,52,contributivo,Nueva EPS,105307
+2026-11-01,52,contributivo,Salud Total,2
+2026-11-01,52,contributivo,Sanitas,118449
+2026-11-01,52,contributivo,Sura,4
+2026-11-01,52,subsidiado,Asmet Salud,149249
+2026-11-01,52,subsidiado,Coosalud,3
+2026-11-01,52,subsidiado,Emssanar,548090
+2026-11-01,52,subsidiado,Famisanar,5326
+2026-11-01,52,subsidiado,Mallamas,223102
+2026-11-01,52,subsidiado,Nueva EPS,127896
+2026-11-01,52,subsidiado,Sanitas,103742
+2026-11-01,54,contributivo,Comfaoriente,17432
+2026-11-01,54,contributivo,Coosalud,44192
+2026-11-01,54,contributivo,Fondo Pasivo Social De Los Ferrocarriles,39
+2026-11-01,54,contributivo,Nueva EPS,209130
+2026-11-01,54,contributivo,Salud Total,4100
+2026-11-01,54,contributivo,Sanitas,156639
+2026-11-01,54,contributivo,Sura,6
+2026-11-01,54,subsidiado,Cajacopi,2
+2026-11-01,54,subsidiado,Capresoca,3
+2026-11-01,54,subsidiado,Comfaoriente,238755
+2026-11-01,54,subsidiado,Coosalud,331569
+2026-11-01,54,subsidiado,Nueva EPS,591015
+2026-11-01,54,subsidiado,Salud Total,4483
+2026-11-01,54,subsidiado,Sanitas,143918
+2026-11-01,63,contributivo,Asmet Salud,3793
+2026-11-01,63,contributivo,Coosalud,6
+2026-11-01,63,contributivo,Famisanar,2330
+2026-11-01,63,contributivo,Fondo Pasivo Social De Los Ferrocarriles,184
+2026-11-01,63,contributivo,Nueva EPS,70998
+2026-11-01,63,contributivo,SOS,12988
+2026-11-01,63,contributivo,Salud Total,33678
+2026-11-01,63,contributivo,Sanitas,71456
+2026-11-01,63,contributivo,Sura,96028
+2026-11-01,63,subsidiado,Asmet Salud,52414
+2026-11-01,63,subsidiado,Coosalud,7
+2026-11-01,63,subsidiado,Famisanar,3879
+2026-11-01,63,subsidiado,Nueva EPS,141852
+2026-11-01,63,subsidiado,SOS,6129
+2026-11-01,63,subsidiado,Salud Total,15982
+2026-11-01,63,subsidiado,Sanitas,19070
+2026-11-01,63,subsidiado,Sura,38281
+2026-11-01,66,contributivo,Asmet Salud,8980
+2026-11-01,66,contributivo,Comfenalco Valle,1934
+2026-11-01,66,contributivo,Coosalud,2700
+2026-11-01,66,contributivo,Empresas Publicas De Medellin - Departam,1
+2026-11-01,66,contributivo,Famisanar,3584
+2026-11-01,66,contributivo,Fondo Pasivo Social De Los Ferrocarriles,160
+2026-11-01,66,contributivo,Nueva EPS,81891
+2026-11-01,66,contributivo,Pijaos Salud,1845
+2026-11-01,66,contributivo,SOS,38252
+2026-11-01,66,contributivo,Salud Total,238051
+2026-11-01,66,contributivo,Sanitas,62181
+2026-11-01,66,contributivo,Sura,136311
+2026-11-01,66,subsidiado,Asmet Salud,144296
+2026-11-01,66,subsidiado,Cajacopi,2
+2026-11-01,66,subsidiado,Comfenalco Valle,10223
+2026-11-01,66,subsidiado,Coosalud,29062
+2026-11-01,66,subsidiado,Familiar de Colombia,1
+2026-11-01,66,subsidiado,Famisanar,8467
+2026-11-01,66,subsidiado,Nueva EPS,97839
+2026-11-01,66,subsidiado,Pijaos Salud,30089
+2026-11-01,66,subsidiado,SOS,22025
+2026-11-01,66,subsidiado,Salud Total,107239
+2026-11-01,66,subsidiado,Sanitas,16189
+2026-11-01,66,subsidiado,Sura,32965
+2026-11-01,68,contributivo,Aliansalud,1
+2026-11-01,68,contributivo,Cajacopi,1
+2026-11-01,68,contributivo,Capresoca,1
+2026-11-01,68,contributivo,Coosalud,38718
+2026-11-01,68,contributivo,Famisanar,48806
+2026-11-01,68,contributivo,Fondo Pasivo Social De Los Ferrocarriles,1337
+2026-11-01,68,contributivo,Nueva EPS,396334
+2026-11-01,68,contributivo,SOS,1
+2026-11-01,68,contributivo,Salud Mía,64493
+2026-11-01,68,contributivo,Salud Total,179694
+2026-11-01,68,contributivo,Sanitas,243761
+2026-11-01,68,contributivo,Sura,120744
+2026-11-01,68,subsidiado,Cajacopi,3
+2026-11-01,68,subsidiado,Capresoca,1
+2026-11-01,68,subsidiado,Coosalud,307637
+2026-11-01,68,subsidiado,Famisanar,52426
+2026-11-01,68,subsidiado,Nueva EPS,505561
+2026-11-01,68,subsidiado,Salud Mía,24616
+2026-11-01,68,subsidiado,Salud Total,106120
+2026-11-01,68,subsidiado,Sanitas,142235
+2026-11-01,68,subsidiado,Sura,39670
+2026-11-01,70,contributivo,Cajacopi,1689
+2026-11-01,70,contributivo,Coosalud,4731
+2026-11-01,70,contributivo,Familiar de Colombia,4837
+2026-11-01,70,contributivo,Mutual Ser,35362
+2026-11-01,70,contributivo,Nueva EPS,29166
+2026-11-01,70,contributivo,Salud Total,75128
+2026-11-01,70,contributivo,Sanitas,15019
+2026-11-01,70,subsidiado,Cajacopi,57299
+2026-11-01,70,subsidiado,Coosalud,130213
+2026-11-01,70,subsidiado,Familiar de Colombia,113453
+2026-11-01,70,subsidiado,Mutual Ser,277274
+2026-11-01,70,subsidiado,Nueva EPS,145907
+2026-11-01,70,subsidiado,Salud Total,44641
+2026-11-01,70,subsidiado,Sanitas,6203
+2026-11-01,73,contributivo,Asmet Salud,2566
+2026-11-01,73,contributivo,Coosalud,61
+2026-11-01,73,contributivo,Famisanar,31402
+2026-11-01,73,contributivo,Fondo Pasivo Social De Los Ferrocarriles,465
+2026-11-01,73,contributivo,Mallamas,12
+2026-11-01,73,contributivo,Nueva EPS,140534
+2026-11-01,73,contributivo,Pijaos Salud,3697
+2026-11-01,73,contributivo,Salud Total,190049
+2026-11-01,73,contributivo,Sanitas,121955
+2026-11-01,73,contributivo,Sura,3
+2026-11-01,73,subsidiado,Asmet Salud,78074
+2026-11-01,73,subsidiado,Coosalud,1961
+2026-11-01,73,subsidiado,Famisanar,41975
+2026-11-01,73,subsidiado,Mallamas,62
+2026-11-01,73,subsidiado,Mutual Ser,1
+2026-11-01,73,subsidiado,Nueva EPS,412854
+2026-11-01,73,subsidiado,Pijaos Salud,59794
+2026-11-01,73,subsidiado,Salud Total,167138
+2026-11-01,73,subsidiado,Sanitas,46827
+2026-11-01,76,contributivo,Asmet Salud,10849
+2026-11-01,76,contributivo,Cajacopi,3
+2026-11-01,76,contributivo,Comfenalco Valle,218637
+2026-11-01,76,contributivo,Coosalud,47959
+2026-11-01,76,contributivo,Emssanar,54543
+2026-11-01,76,contributivo,Familiar de Colombia,8
+2026-11-01,76,contributivo,Famisanar,5682
+2026-11-01,76,contributivo,Fondo Pasivo Social De Los Ferrocarriles,6734
+2026-11-01,76,contributivo,Mallamas,788
+2026-11-01,76,contributivo,Nueva EPS,524909
+2026-11-01,76,contributivo,SOS,422617
+2026-11-01,76,contributivo,Salud Total,198617
+2026-11-01,76,contributivo,Sanitas,428352
+2026-11-01,76,contributivo,Sura,520157
+2026-11-01,76,subsidiado,Asmet Salud,136693
+2026-11-01,76,subsidiado,Capital Salud,1
+2026-11-01,76,subsidiado,Comfenalco Valle,70237
+2026-11-01,76,subsidiado,Coosalud,436603
+2026-11-01,76,subsidiado,Emssanar,734122
+2026-11-01,76,subsidiado,Familiar de Colombia,9
+2026-11-01,76,subsidiado,Famisanar,8064
+2026-11-01,76,subsidiado,Mallamas,5416
+2026-11-01,76,subsidiado,Mutual Ser,1
+2026-11-01,76,subsidiado,Nueva EPS,398488
+2026-11-01,76,subsidiado,SOS,156185
+2026-11-01,76,subsidiado,Salud Total,67564
+2026-11-01,76,subsidiado,Sanitas,72643
+2026-11-01,76,subsidiado,Sura,99548
+2026-11-01,81,contributivo,Capresoca,1
+2026-11-01,81,contributivo,Coosalud,2572
+2026-11-01,81,contributivo,Mutual Ser,2
+2026-11-01,81,contributivo,Nueva EPS,35786
+2026-11-01,81,contributivo,Salud Total,218
+2026-11-01,81,contributivo,Sanitas,13655
+2026-11-01,81,subsidiado,Cajacopi,1
+2026-11-01,81,subsidiado,Capresoca,3
+2026-11-01,81,subsidiado,Coosalud,39779
+2026-11-01,81,subsidiado,Nueva EPS,191443
+2026-11-01,81,subsidiado,Salud Total,114
+2026-11-01,81,subsidiado,Sanitas,35784
+2026-11-01,85,contributivo,Capresoca,20729
+2026-11-01,85,contributivo,Coosalud,1251
+2026-11-01,85,contributivo,Nueva EPS,64277
+2026-11-01,85,contributivo,Salud Total,287
+2026-11-01,85,contributivo,Sanitas,79471
+2026-11-01,85,subsidiado,Cajacopi,3
+2026-11-01,85,subsidiado,Capresoca,142911
+2026-11-01,85,subsidiado,Coosalud,2181
+2026-11-01,85,subsidiado,Nueva EPS,92671
+2026-11-01,85,subsidiado,Salud Total,85
+2026-11-01,85,subsidiado,Sanitas,28428
+2026-11-01,86,contributivo,Emssanar,9963
+2026-11-01,86,contributivo,Familiar de Colombia,180
+2026-11-01,86,contributivo,Mallamas,4455
+2026-11-01,86,contributivo,Nueva EPS,36569
+2026-11-01,86,contributivo,Sanitas,9
+2026-11-01,86,subsidiado,Asmet Salud,1
+2026-11-01,86,subsidiado,Emssanar,173153
+2026-11-01,86,subsidiado,Familiar de Colombia,4503
+2026-11-01,86,subsidiado,Mallamas,62258
+2026-11-01,86,subsidiado,Nueva EPS,41717
+2026-11-01,86,subsidiado,Savia Salud,1
+2026-11-01,88,contributivo,Coosalud,10
+2026-11-01,88,contributivo,Nueva EPS,16960
+2026-11-01,88,contributivo,Sanitas,23472
+2026-11-01,88,subsidiado,Coosalud,2
+2026-11-01,88,subsidiado,Nueva EPS,15805
+2026-11-01,88,subsidiado,Sanitas,3965
+2026-11-01,91,contributivo,Mallamas,2175
+2026-11-01,91,contributivo,Nueva EPS,7654
+2026-11-01,91,contributivo,Sanitas,7875
+2026-11-01,91,subsidiado,Mallamas,29970
+2026-11-01,91,subsidiado,Nueva EPS,27518
+2026-11-01,91,subsidiado,Sanitas,1702
+2026-11-01,94,contributivo,Coosalud,2
+2026-11-01,94,contributivo,Nueva EPS,6782
+2026-11-01,94,subsidiado,Coosalud,1
+2026-11-01,94,subsidiado,Nueva EPS,48134
+2026-11-01,95,contributivo,Nueva EPS,19662
+2026-11-01,95,subsidiado,Nueva EPS,66411
+2026-11-01,97,contributivo,Mallamas,316
+2026-11-01,97,contributivo,Nueva EPS,5456
+2026-11-01,97,subsidiado,Mallamas,4828
+2026-11-01,97,subsidiado,Nueva EPS,24057
+2026-11-01,99,contributivo,Mallamas,2108
+2026-11-01,99,contributivo,Nueva EPS,10226
+2026-11-01,99,subsidiado,Mallamas,44880
+2026-11-01,99,subsidiado,Nueva EPS,34997
