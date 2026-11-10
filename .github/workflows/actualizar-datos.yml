@@ -1,0 +1,64 @@
+name: Actualizar datos
+
+# Corre todos los días a las 10:00 a. m. hora Colombia (15:00 UTC). Si no hay datos nuevos, no guarda nada.
+# Las fuentes publican una vez al mes: la Supersalud (estados financieros, quejas, patrimonio), la ADRES (giros y afiliados).
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Estados financieros de EPS y prepagadas (Supersalud)
+        run: python scripts/finanzas.py
+
+      - name: Patrimonio adecuado de las EPS (Supersalud)
+        if: always()
+        run: python scripts/patrimonio.py
+
+      - name: Quejas y reclamos (Supersalud)
+        if: always()
+        run: python scripts/quejas.py
+
+      - name: Afiliados por EPS (ADRES, BDUA)
+        if: always()
+        run: python scripts/afiliados.py
+
+      - name: Giros de la ADRES
+        if: always()
+        run: python scripts/adres.py
+
+      - name: Datos para la página web
+        if: always()
+        run: |
+          if [ -f scripts/web.py ]; then python scripts/web.py; fi
+
+      - name: Guardar cambios si hay datos nuevos
+        if: always()
+        run: |
+          git config user.name "actualizador-automatico"
+          git config user.email "actions@users.noreply.github.com"
+          git add datos/ web/
+          if git diff --cached --quiet; then
+            echo "Sin datos nuevos."
+          else
+            git commit -m "Actualización automática de datos $(date -u +%Y-%m-%d)"
+            git pull --rebase
+            git push
+          fi
